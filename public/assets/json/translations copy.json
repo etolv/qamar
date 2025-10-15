@@ -1,0 +1,3862 @@
+[
+    {
+        "key": "Softlix",
+        "value": "سوفتليكس",
+        "language_code": "ar"
+    },
+    {
+        "key": "INVOICE",
+        "value": "فاتورة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Email",
+        "value": "بريد إلكتروني",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order ID",
+        "value": "رقم الطلب",
+        "language_code": "ar"
+    },
+    {
+        "key": "Phone",
+        "value": "هاتف",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order Date",
+        "value": "تاريخ الطلب",
+        "language_code": "ar"
+    },
+    {
+        "key": "Payment method",
+        "value": "طريقة الدفع ",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bill to",
+        "value": "دفعة لـ",
+        "language_code": "ar"
+    },
+    {
+        "key": "City",
+        "value": "مدينة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Products",
+        "value": "منتجات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Term",
+        "value": "بند",
+        "language_code": "ar"
+    },
+    {
+        "key": "Image",
+        "value": "صورة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Name",
+        "value": "اسم",
+        "language_code": "ar"
+    },
+    {
+        "key": "Barcode",
+        "value": "الباركود",
+        "language_code": "ar"
+    },
+    {
+        "key": "Quantity",
+        "value": "كمية",
+        "language_code": "ar"
+    },
+    {
+        "key": "Price",
+        "value": "سعر",
+        "language_code": "ar"
+    },
+    {
+        "key": "Total",
+        "value": "المجموع",
+        "language_code": "ar"
+    },
+    {
+        "key": "Services",
+        "value": "خدمات",
+        "language_code": "ar"
+    },
+    {
+        "key": "SKU",
+        "value": "وحدة التخزين",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sub Total",
+        "value": "المجموع الفرعي",
+        "language_code": "ar"
+    },
+    {
+        "key": "Total Tax",
+        "value": "مجموع الضريبة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Tax Type",
+        "value": "نوع الضريبة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Initial Payment",
+        "value": "الدفعة الأولية",
+        "language_code": "ar"
+    },
+    {
+        "key": "TAXED",
+        "value": "مضمونة",
+        "language_code": "ar"
+    },
+    {
+        "key": "ZEROED",
+        "value": "صفرية",
+        "language_code": "ar"
+    },
+    {
+        "key": "EXEMPTED",
+        "value": "معفية",
+        "language_code": "ar"
+    },
+    {
+        "key": "Tax Included",
+        "value": "الضريبة متضمنة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Tax Not Included",
+        "value": "الضريبة غير متضمنة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Coupon Discount",
+        "value": "قسيمة خصم",
+        "language_code": "ar"
+    },
+    {
+        "key": "Grand Total",
+        "value": "المجموع الإجمالي",
+        "language_code": "ar"
+    },
+    {
+        "key": "locale.select_value",
+        "value": "حدد القيمة المحلية",
+        "language_code": "ar"
+    },
+    {
+        "key": " Export ",
+        "value": "تصدير",
+        "language_code": "ar"
+    },
+    {
+        "key": " Print ",
+        "value": "طباعة",
+        "language_code": "ar"
+    },
+    {
+        "key": "States",
+        "value": "المناطق",
+        "language_code": "ar"
+    },
+    {
+        "key": "New State",
+        "value": "منطقة جديدة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Cities count",
+        "value": "عدد المدن",
+        "language_code": "ar"
+    },
+    {
+        "key": "Status",
+        "value": "حالة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Actions",
+        "value": "أجراءات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Update",
+        "value": "تعديل",
+        "language_code": "ar"
+    },
+    {
+        "key": "Info",
+        "value": "معلومات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Create",
+        "value": "إضافة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Admins",
+        "value": "المشرفين",
+        "language_code": "ar"
+    },
+    {
+        "key": "New admin",
+        "value": "مشرف جديد",
+        "language_code": "ar"
+    },
+    {
+        "key": "Role",
+        "value": "دور",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Role",
+        "value": "حدد الدور",
+        "language_code": "ar"
+    },
+    {
+        "key": "Password",
+        "value": "كلمة المرور",
+        "language_code": "ar"
+    },
+    {
+        "key": "Profile image",
+        "value": "صورة الملف الشخصي",
+        "language_code": "ar"
+    },
+    {
+        "key": "Yes",
+        "value": "نعم",
+        "language_code": "ar"
+    },
+    {
+        "key": "No",
+        "value": "لا",
+        "language_code": "ar"
+    },
+    {
+        "key": "Stock",
+        "value": "مخزون",
+        "language_code": "ar"
+    },
+    {
+        "key": "New product",
+        "value": "منتج جديد",
+        "language_code": "ar"
+    },
+    {
+        "key": "Min Quantity",
+        "value": "الحد الأدنى للكمية",
+        "language_code": "ar"
+    },
+    {
+        "key": "Category",
+        "value": "فئة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Brand",
+        "value": "ماركة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Consumption Type",
+        "value": "نوع الاستهلاك",
+        "language_code": "ar"
+    },
+    {
+        "key": "Refundable",
+        "value": "يمكن الاسترداد",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Category",
+        "value": "اختر الفئة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Brand",
+        "value": "اختر العلامة التجارية",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Branch",
+        "value": "اختر الفرع",
+        "language_code": "ar"
+    },
+    {
+        "key": "min_quantity",
+        "value": "الحد الأدنى للكمية",
+        "language_code": "ar"
+    },
+    {
+        "key": "Cities",
+        "value": "مدن",
+        "language_code": "ar"
+    },
+    {
+        "key": "New City",
+        "value": "مدينة جديدة",
+        "language_code": "ar"
+    },
+    {
+        "key": "State",
+        "value": "منطقة",
+        "language_code": "ar"
+    },
+    {
+        "key": "New service",
+        "value": "خدمة جديدة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Parent Service",
+        "value": "الخدمة الرئيسية",
+        "language_code": "ar"
+    },
+    {
+        "key": "Description",
+        "value": "وصف",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Service",
+        "value": "اختر الخدمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Product",
+        "value": "حدد المنتج",
+        "language_code": "ar"
+    },
+    {
+        "key": "Required",
+        "value": "مطلوب",
+        "language_code": "ar"
+    },
+    {
+        "key": "Service",
+        "value": "خدمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Related Products",
+        "value": "منتجات ذات صلة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Add product",
+        "value": "أضف منتج",
+        "language_code": "ar"
+    },
+    {
+        "key": "Jobs",
+        "value": "وظائف",
+        "language_code": "ar"
+    },
+    {
+        "key": "New job",
+        "value": "عمل جديد",
+        "language_code": "ar"
+    },
+    {
+        "key": "Title",
+        "value": "عنوان",
+        "language_code": "ar"
+    },
+    {
+        "key": "Section",
+        "value": "قسم",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select City",
+        "value": "اختر مدينة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Customer",
+        "value": "عميل",
+        "language_code": "ar"
+    },
+    {
+        "key": "Join date:",
+        "value": "تاريخ الانضمام:",
+        "language_code": "ar"
+    },
+    {
+        "key": "Wallet",
+        "value": "محفظة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Transaction",
+        "value": "عملية",
+        "language_code": "ar"
+    },
+    {
+        "key": "Amount",
+        "value": "كمية",
+        "language_code": "ar"
+    },
+    {
+        "key": "Balance",
+        "value": "توازن",
+        "language_code": "ar"
+    },
+    {
+        "key": "Currency",
+        "value": "عملة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Date",
+        "value": "تاريخ",
+        "language_code": "ar"
+    },
+    {
+        "key": "Customer details",
+        "value": "تفاصيل العميل",
+        "language_code": "ar"
+    },
+    {
+        "key": "Customer ID",
+        "value": "هوية الزبون",
+        "language_code": "ar"
+    },
+    {
+        "key": "Orders",
+        "value": "طلبات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Branch Orders",
+        "value": "طلبات الصالون",
+        "language_code": "ar"
+    },
+    {
+        "key": "Today Orders",
+        "value": "طلبات اليوم",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bookings",
+        "value": "الحجوزات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Pending Bookings",
+        "value": "الحجوزات المعلقة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Today Bookings",
+        "value": "حجوزات اليوم",
+        "language_code": "ar"
+    },
+    {
+        "key": "Booking edit requests",
+        "value": "طلبات تعديل الحجوزات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Booking cancel requests",
+        "value": "طلبات حذف الحجوزات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Contact info",
+        "value": "معلومات الاتصال",
+        "language_code": "ar"
+    },
+    {
+        "key": "Mobile",
+        "value": "موبايل",
+        "language_code": "ar"
+    },
+    {
+        "key": "Shipping address",
+        "value": "عنوان الشحن",
+        "language_code": "ar"
+    },
+    {
+        "key": "Map",
+        "value": "خريطة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Address location",
+        "value": "عنوان الموقع",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Section",
+        "value": "حدد القسم",
+        "language_code": "ar"
+    },
+    {
+        "key": "Percentage",
+        "value": "نسبة مئوية",
+        "language_code": "ar"
+    },
+    {
+        "key": "Fixed",
+        "value": "مُثَبَّت",
+        "language_code": "ar"
+    },
+    {
+        "key": "Coupons",
+        "value": "كوبونات",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Coupon",
+        "value": "قسيمة جديدة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Code",
+        "value": "الرمز",
+        "language_code": "ar"
+    },
+    {
+        "key": "Type",
+        "value": "نوع",
+        "language_code": "ar"
+    },
+    {
+        "key": "Discount",
+        "value": "تخفيض",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Type",
+        "value": "اختر صنف",
+        "language_code": "ar"
+    },
+    {
+        "key": "Nationalities",
+        "value": "الجنسيات",
+        "language_code": "ar"
+    },
+    {
+        "key": "New nationality",
+        "value": "جنسية جديدة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Country",
+        "value": "دولة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Units",
+        "value": "الوحدات",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Unit",
+        "value": "وحدة جديدة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Parent",
+        "value": "الرئيسية",
+        "language_code": "ar"
+    },
+    {
+        "key": "Factor",
+        "value": "عامل",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Unit",
+        "value": "حدد الوحدة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Parent Unit",
+        "value": "الوحدة الرئيسية",
+        "language_code": "ar"
+    },
+    {
+        "key": "New booking placed",
+        "value": "تم الحجز الجديد",
+        "language_code": "ar"
+    },
+    {
+        "key": "Not assigned",
+        "value": "غيرمعتمد",
+        "language_code": "ar"
+    },
+    {
+        "key": "rates",
+        "value": "تقييمات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Rates",
+        "value": "تقييمات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Rate Reasons",
+        "value": "اسباب التقييمات",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Booking",
+        "value": "حجز جديد",
+        "language_code": "ar"
+    },
+    {
+        "key": "Employee",
+        "value": "موظف",
+        "language_code": "ar"
+    },
+    {
+        "key": "Driver",
+        "value": "سائق",
+        "language_code": "ar"
+    },
+    {
+        "key": "Payment status",
+        "value": "حالة الدفع",
+        "language_code": "ar"
+    },
+    {
+        "key": "Reservation Date",
+        "value": "تاريخ الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "Created Date",
+        "value": "تاريخ الإنشاء",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Customer",
+        "value": "حدد العميل",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Employee",
+        "value": "حدد الموظف",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Driver",
+        "value": "حدد السائق",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Products",
+        "value": "حدد المنتجات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Services",
+        "value": "حدد الخدمات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Edit",
+        "value": "تعديل",
+        "language_code": "ar"
+    },
+    {
+        "key": "Address",
+        "value": "عنوان",
+        "language_code": "ar"
+    },
+    {
+        "key": "Location",
+        "value": "موقع",
+        "language_code": "ar"
+    },
+    {
+        "key": "Booking customer location",
+        "value": " موقع العميل",
+        "language_code": "ar"
+    },
+    {
+        "key": "Booking",
+        "value": "الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "Booking details",
+        "value": "تفاصيل الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "Delivery",
+        "value": "توصيل",
+        "language_code": "ar"
+    },
+    {
+        "key": "product",
+        "value": "منتج",
+        "language_code": "ar"
+    },
+    {
+        "key": "Subtotal",
+        "value": "المجموع الفرعي",
+        "language_code": "ar"
+    },
+    {
+        "key": "Booking Rates",
+        "value": "أسعار الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "Rate",
+        "value": "تقييم",
+        "language_code": "ar"
+    },
+    {
+        "key": "Rate AVG",
+        "value": "متوسط التقييم",
+        "language_code": "ar"
+    },
+    {
+        "key": "Booking statuses",
+        "value": "حالات الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "Pending",
+        "value": "قيد الانتظار",
+        "language_code": "ar"
+    },
+    {
+        "key": "PENDING",
+        "value": "قيد الانتظار",
+        "language_code": "ar"
+    },
+    {
+        "key": "DONE",
+        "value": "منتهي",
+        "language_code": "ar"
+    },
+    {
+        "key": "Accepted",
+        "value": "مقبول",
+        "language_code": "ar"
+    },
+    {
+        "key": "Confirmed",
+        "value": "مؤكد",
+        "language_code": "ar"
+    },
+    {
+        "key": "Started",
+        "value": "بدأت",
+        "language_code": "ar"
+    },
+    {
+        "key": "Completed",
+        "value": "مكتمل",
+        "language_code": "ar"
+    },
+    {
+        "key": "Complete",
+        "value": "إكمال",
+        "language_code": "ar"
+    },
+    {
+        "key": "Customer address",
+        "value": "عنوان العميل",
+        "language_code": "ar"
+    },
+    {
+        "key": "Edit Booking",
+        "value": "تعديل الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bookings Edit Requests",
+        "value": "طلبات تعديل الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "Booking ID",
+        "value": "رقم الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "Booking Date",
+        "value": "تاريخ الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "Request Date",
+        "value": "تاريخ الطلب",
+        "language_code": "ar"
+    },
+    {
+        "key": "Edit Request",
+        "value": "تحرير الطلب",
+        "language_code": "ar"
+    },
+    {
+        "key": "Translations",
+        "value": "ترجمات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Choose language",
+        "value": "اختر اللغة",
+        "language_code": "ar"
+    },
+    {
+        "key": "All",
+        "value": "الجميع",
+        "language_code": "ar"
+    },
+    {
+        "key": "Translation key",
+        "value": "مفتاح الترجمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Search",
+        "value": "يبحث",
+        "language_code": "ar"
+    },
+    {
+        "key": "Auto Translate",
+        "value": "ترجمة تلقائية",
+        "language_code": "ar"
+    },
+    {
+        "key": "Action",
+        "value": "العمل",
+        "language_code": "ar"
+    },
+    {
+        "key": "ID",
+        "value": "رقم المعرف",
+        "language_code": "ar"
+    },
+    {
+        "key": "Key",
+        "value": "مفتاح",
+        "language_code": "ar"
+    },
+    {
+        "key": "dashboard.Translations",
+        "value": "لوحة المعلومات والترجمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "dashboard.Title",
+        "value": "عنوان لوحة القيادة",
+        "language_code": "ar"
+    },
+    {
+        "key": "dashboard.Submit",
+        "value": "لوحة القيادة والإرسال",
+        "language_code": "ar"
+    },
+    {
+        "key": "Stocks",
+        "value": "مخازن",
+        "language_code": "ar"
+    },
+    {
+        "key": "New rate",
+        "value": "تقييم جديد",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Supplier",
+        "value": "حدد المورد",
+        "language_code": "ar"
+    },
+    {
+        "key": "Branch",
+        "value": "فرع",
+        "language_code": "ar"
+    },
+    {
+        "key": "Supplier",
+        "value": "المورد",
+        "language_code": "ar"
+    },
+    {
+        "key": "Purchase Unit",
+        "value": "وحدة الشراء",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sell Unit",
+        "value": "بيع الوحدة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Purchase Price",
+        "value": "سعر الشراء",
+        "language_code": "ar"
+    },
+    {
+        "key": "Retail Price",
+        "value": "سعر التجزئة",
+        "language_code": "ar"
+    },
+    {
+        "key": "expiration_date",
+        "value": "تاريخ انتهاء الصلاحية",
+        "language_code": "ar"
+    },
+    {
+        "key": "Expiration date",
+        "value": "تاريخ انتهاء الصلاحية",
+        "language_code": "ar"
+    },
+    {
+        "key": "Management",
+        "value": "إدارة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Procurement",
+        "value": "شراء",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sales",
+        "value": "مبيعات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Staff",
+        "value": "طاقم عمل",
+        "language_code": "ar"
+    },
+    {
+        "key": "Warehouse",
+        "value": "مستودع",
+        "language_code": "ar"
+    },
+    {
+        "key": "Financial",
+        "value": "الشؤون المالية",
+        "language_code": "ar"
+    },
+    {
+        "key": "Employees",
+        "value": "الموظفين",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Employee",
+        "value": "موظف جديد",
+        "language_code": "ar"
+    },
+    {
+        "key": "JOb",
+        "value": "وظيفة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Job",
+        "value": "حدد الوظيفة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Role users",
+        "value": "مستخدمو الدور",
+        "language_code": "ar"
+    },
+    {
+        "key": "New role",
+        "value": "دور جديد",
+        "language_code": "ar"
+    },
+    {
+        "key": "Add new role",
+        "value": "إضافة دور جديد",
+        "language_code": "ar"
+    },
+    {
+        "key": "Role name",
+        "value": "اسم الدور",
+        "language_code": "ar"
+    },
+    {
+        "key": "Role permissions",
+        "value": "أذونات الدور",
+        "language_code": "ar"
+    },
+    {
+        "key": "Admin",
+        "value": "مسؤول",
+        "language_code": "ar"
+    },
+    {
+        "key": "Allow full access",
+        "value": "السماح بالوصول الكامل",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select all",
+        "value": "اختر الكل",
+        "language_code": "ar"
+    },
+    {
+        "key": "User",
+        "value": "مستخدم",
+        "language_code": "ar"
+    },
+    {
+        "key": "Model",
+        "value": "نموذج",
+        "language_code": "ar"
+    },
+    {
+        "key": "Model Name",
+        "value": "اسم النموذج",
+        "language_code": "ar"
+    },
+    {
+        "key": "Model Id",
+        "value": "معرف النموذج",
+        "language_code": "ar"
+    },
+    {
+        "key": "New stock",
+        "value": "الأسهم الجديدة",
+        "language_code": "ar"
+    },
+    {
+        "key": "From",
+        "value": "من",
+        "language_code": "ar"
+    },
+    {
+        "key": "To",
+        "value": "ل",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bills",
+        "value": "فواتير",
+        "language_code": "ar"
+    },
+    {
+        "key": "Points",
+        "value": "نقاط",
+        "language_code": "ar"
+    },
+    {
+        "key": "Listed Orders",
+        "value": "الطلبات المجدولة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Customers",
+        "value": "عملاء",
+        "language_code": "ar"
+    },
+    {
+        "key": "New customer",
+        "value": "عميل جديد",
+        "language_code": "ar"
+    },
+    {
+        "key": "Status changed",
+        "value": "تم تغيير الحالة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order",
+        "value": "طلب",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order Status",
+        "value": "حالة الطلب",
+        "language_code": "ar"
+    },
+    {
+        "key": "Services detail",
+        "value": "تفاصيل الخدمات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Return",
+        "value": "العودة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Session Count",
+        "value": "عدد الجلسات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Left Sessions",
+        "value": "الجلسات المتبقية",
+        "language_code": "ar"
+    },
+    {
+        "key": "Due Date",
+        "value": "تاريخ الاستحقاق",
+        "language_code": "ar"
+    },
+    {
+        "key": "New order placed",
+        "value": "تم تقديم طلب جديد",
+        "language_code": "ar"
+    },
+    {
+        "key": "View Order",
+        "value": "مشاهدة الطلب",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sessions",
+        "value": "الجلسات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order Service Return",
+        "value": "إلغاء الطلب",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Order",
+        "value": "طلب جديد",
+        "language_code": "ar"
+    },
+    {
+        "key": "Service Price",
+        "value": "سعر الخدمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Postpone",
+        "value": "تأجيل",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Coupon",
+        "value": "حدد القسيمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Session",
+        "value": "جلسة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sessions Count",
+        "value": "عدد الجلسات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bill Preview",
+        "value": "معاينة الفاتورة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bill Returns",
+        "value": " الفواتير المرتجعة",
+        "language_code": "ar"
+    },
+    {
+        "key": "SAR",
+        "value": "ريال سعودي",
+        "language_code": "ar"
+    },
+    {
+        "key": "Extra Fees",
+        "value": "رسوم إضافية",
+        "language_code": "ar"
+    },
+    {
+        "key": "Total Amount",
+        "value": "المبلغ الإجمالي",
+        "language_code": "ar"
+    },
+    {
+        "key": "Update Order",
+        "value": "تعديل الطلب",
+        "language_code": "ar"
+    },
+    {
+        "key": "Coupon",
+        "value": "قسيمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Payment Type",
+        "value": "نوع الدفع",
+        "language_code": "ar"
+    },
+    {
+        "key": "Add service",
+        "value": "أضف الخدمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Submit",
+        "value": "إنشاء",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order Service Postpone",
+        "value": "الطلبات المؤجلة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Notification",
+        "value": "إشعار",
+        "language_code": "ar"
+    },
+    {
+        "key": "Whatsapp",
+        "value": "واتس اب",
+        "language_code": "ar"
+    },
+    {
+        "key": "Service detail",
+        "value": "تفاصيل الخدمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Session",
+        "value": "دورة جديدة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Store",
+        "value": "حفظ",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order details",
+        "value": "تفاصيل الطلب",
+        "language_code": "ar"
+    },
+    {
+        "key": "Value",
+        "value": "قيمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order statuses",
+        "value": "حالات الطلب",
+        "language_code": "ar"
+    },
+    {
+        "key": "QR",
+        "value": "كيو ار",
+        "language_code": "ar"
+    },
+    {
+        "key": "Paid",
+        "value": "مدفوع",
+        "language_code": "ar"
+    },
+    {
+        "key": "Remove",
+        "value": "حذف",
+        "language_code": "ar"
+    },
+    {
+        "key": "Create Order",
+        "value": "إنشاء طلب",
+        "language_code": "ar"
+    },
+    {
+        "key": "Payments",
+        "value": "المدفوعات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Add payment",
+        "value": "إضافة دفعات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Tasks",
+        "value": "مهام",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Task",
+        "value": "مهمة جديدة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Body",
+        "value": "الوصف",
+        "language_code": "ar"
+    },
+    {
+        "key": "Users",
+        "value": "المستخدمين",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Users",
+        "value": "حدد المستخدمين",
+        "language_code": "ar"
+    },
+    {
+        "key": "All Employees",
+        "value": "كل الموظفين",
+        "language_code": "ar"
+    },
+    {
+        "key": "Specific Employees",
+        "value": "موظفين محددين",
+        "language_code": "ar"
+    },
+    {
+        "key": "Branches",
+        "value": "الفروع",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Branch",
+        "value": "فرع جديد",
+        "language_code": "ar"
+    },
+    {
+        "key": "Physical",
+        "value": "بشكل شخصي",
+        "language_code": "ar"
+    },
+    {
+        "key": "Dashboard",
+        "value": "لوحة التحكم",
+        "language_code": "ar"
+    },
+    {
+        "key": "Notifications",
+        "value": "إشعارات",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Notification",
+        "value": "إشعار جديد",
+        "language_code": "ar"
+    },
+    {
+        "key": "Source",
+        "value": "مصدر",
+        "language_code": "ar"
+    },
+    {
+        "key": "Companies",
+        "value": "شركات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Specific users",
+        "value": "مستخدمين محددين",
+        "language_code": "ar"
+    },
+    {
+        "key": "Visible",
+        "value": "مرئي",
+        "language_code": "ar"
+    },
+    {
+        "key": "Invisible",
+        "value": "غير مرئى",
+        "language_code": "ar"
+    },
+    {
+        "key": "Categories",
+        "value": "فئات",
+        "language_code": "ar"
+    },
+    {
+        "key": "New category",
+        "value": "فئة جديدة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Home",
+        "value": "بيت",
+        "language_code": "ar"
+    },
+    {
+        "key": "Product count",
+        "value": "عدد المنتجات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sliders",
+        "value": "الإعلانات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Settings",
+        "value": "إعدادات",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Setting",
+        "value": "إعداد جديد",
+        "language_code": "ar"
+    },
+    {
+        "key": "Instagram",
+        "value": "انستغرام",
+        "language_code": "ar"
+    },
+    {
+        "key": "Snap Chat",
+        "value": "سناب شات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Tik Tok",
+        "value": "تيك توك",
+        "language_code": "ar"
+    },
+    {
+        "key": "Youtube",
+        "value": "موقع يو تيوب",
+        "language_code": "ar"
+    },
+    {
+        "key": "Tax",
+        "value": "ضريبة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Privacy policy",
+        "value": "سياسة الخصوصية",
+        "language_code": "ar"
+    },
+    {
+        "key": "Terms and conditions",
+        "value": "الأحكام والشروط",
+        "language_code": "ar"
+    },
+    {
+        "key": "About us",
+        "value": "معلومات عنا",
+        "language_code": "ar"
+    },
+    {
+        "key": "Qty",
+        "value": "الكمية",
+        "language_code": "ar"
+    },
+    {
+        "key": "Brands",
+        "value": "العلامات التجارية",
+        "language_code": "ar"
+    },
+    {
+        "key": "New brand",
+        "value": "العلامة التجارية الجديدة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Slug",
+        "value": "الرابط",
+        "language_code": "ar"
+    },
+    {
+        "key": "Suppliers",
+        "value": "الموردين",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Supplier",
+        "value": "مورد جديد",
+        "language_code": "ar"
+    },
+    {
+        "key": "Success",
+        "value": "تم بنجاح",
+        "language_code": "ar"
+    },
+    {
+        "key": "Online",
+        "value": "متصل",
+        "language_code": "ar"
+    },
+    {
+        "key": "Translation",
+        "value": "ترجمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "The data updated successful",
+        "value": "تم تحديث البيانات بنجاح",
+        "language_code": "ar"
+    },
+    {
+        "key": "dashboard.Edit",
+        "value": "تحرير لوحة القيادة",
+        "language_code": "ar"
+    },
+    {
+        "key": "message.The data updated successful",
+        "value": " تم تحديث البيانات بنجاح",
+        "language_code": "ar"
+    },
+    {
+        "key": "message.There is an error",
+        "value": "هناك خطأ",
+        "language_code": "ar"
+    },
+    {
+        "key": "Roles",
+        "value": "الأدوار",
+        "language_code": "ar"
+    },
+    {
+        "key": "New",
+        "value": "جديد",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bills",
+        "value": "الفواتير",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bill Details",
+        "value": "تفاصيل الفاتورة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Debts",
+        "value": "الديون",
+        "language_code": "ar"
+    },
+    {
+        "key": "Custodies",
+        "value": "العهد",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Custody",
+        "value": "عهدة جديدة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Return",
+        "value": "إرجاع",
+        "language_code": "ar"
+    },
+    {
+        "key": "Return Custody",
+        "value": "إرجاع العهدة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Waste",
+        "value": "إتلاف",
+        "language_code": "ar"
+    },
+    {
+        "key": "WASTE",
+        "value": "إتلاف",
+        "language_code": "ar"
+    },
+    {
+        "key": "EXCHANGE",
+        "value": "صرف",
+        "language_code": "ar"
+    },
+    {
+        "key": "Waste Custody",
+        "value": "إتلاف العهدة",
+        "language_code": "ar"
+    },
+    {
+        "key": "USING",
+        "value": "قيد الاستخدام",
+        "language_code": "ar"
+    },
+    {
+        "key": "EXPENSE",
+        "value": "نفقات (سحوبات المالك)",
+        "language_code": "ar"
+    },
+    {
+        "key": "Expense Types",
+        "value": "انواع نفقات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Expenses",
+        "value": "النفقات",
+        "language_code": "ar"
+    },
+    {
+        "key": "PURCHASE",
+        "value": "شراء",
+        "language_code": "ar"
+    },
+    {
+        "key": "Purchase Bill",
+        "value": "فاتورة شراء",
+        "language_code": "ar"
+    },
+    {
+        "key": "Withdraw stock",
+        "value": "حركة سحب",
+        "language_code": "ar"
+    },
+    {
+        "key": "Stock Withdrawals",
+        "value": "حركات المخزون",
+        "language_code": "ar"
+    },
+    {
+        "key": "Transfers",
+        "value": "الحركات",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Bill",
+        "value": "فاتورة شراء جديدة",
+        "language_code": "ar"
+    },
+    {
+        "key": "SATURDAY",
+        "value": "السبت",
+        "language_code": "ar"
+    },
+    {
+        "key": "SUNDAY",
+        "value": "الاحد",
+        "language_code": "ar"
+    },
+    {
+        "key": "MONDAY",
+        "value": "الاثنين",
+        "language_code": "ar"
+    },
+    {
+        "key": "TUESDAY",
+        "value": "الثلاثاء",
+        "language_code": "ar"
+    },
+    {
+        "key": "WEDNESDAY",
+        "value": "الاربعاء",
+        "language_code": "ar"
+    },
+    {
+        "key": "THURSDAY",
+        "value": "الخميس",
+        "language_code": "ar"
+    },
+    {
+        "key": "FRIDAY",
+        "value": "الجمعة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sub Categories",
+        "value": "الاقسام",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sons",
+        "value": "الاقسام",
+        "language_code": "ar"
+    },
+    {
+        "key": "Received",
+        "value": "تم الاستلام",
+        "language_code": "ar"
+    },
+    {
+        "key": "Withdraw",
+        "value": "حركة سحب",
+        "language_code": "ar"
+    },
+    {
+        "key": "CONSUMPTION",
+        "value": "استهلاك",
+        "language_code": "ar"
+    },
+    {
+        "key": "WASTE",
+        "value": "اتلاف",
+        "language_code": "ar"
+    },
+    {
+        "key": "Specific Employees",
+        "value": "موظفين محددين",
+        "language_code": "ar"
+    },
+    {
+        "key": "ADVANCE",
+        "value": "سلفة",
+        "language_code": "ar"
+    },
+    {
+        "key": "DEDUCT",
+        "value": "خصم",
+        "language_code": "ar"
+    },
+    {
+        "key": "GIFT",
+        "value": "هدية",
+        "language_code": "ar"
+    },
+    {
+        "key": "Click to change service employee",
+        "value": "اضغط لتغيير موظفة الخدمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Marketing",
+        "value": "التسويق",
+        "language_code": "ar"
+    },
+    {
+        "key": "Packages",
+        "value": "الحزم",
+        "language_code": "ar"
+    },
+    {
+        "key": "Loyalty Settings",
+        "value": "نقاط الولاء",
+        "language_code": "ar"
+    },
+    {
+        "key": "Municipals",
+        "value": "البلديات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Customers' Points",
+        "value": "نقاط العملاء",
+        "language_code": "ar"
+    },
+    {
+        "key": "System",
+        "value": "النظام",
+        "language_code": "ar"
+    },
+    {
+        "key": "System Records",
+        "value": "سجلات النظام",
+        "language_code": "ar"
+    },
+    {
+        "key": "Cash",
+        "value": "التحويلات المالية",
+        "language_code": "ar"
+    },
+    {
+        "key": "HR",
+        "value": "الموارد البشرية",
+        "language_code": "ar"
+    },
+    {
+        "key": "Shifts",
+        "value": "الورديات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Static",
+        "value": "ثابتة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Normal",
+        "value": "عادية",
+        "language_code": "ar"
+    },
+    {
+        "key": "Attendance",
+        "value": "الحضور",
+        "language_code": "ar"
+    },
+    {
+        "key": "Has Terms",
+        "value": "يوجد شروط",
+        "language_code": "ar"
+    },
+    {
+        "key": "ANNUAL",
+        "value": "سنوية",
+        "language_code": "ar"
+    },
+    {
+        "key": "SICK",
+        "value": "مرضية",
+        "language_code": "ar"
+    },
+    {
+        "key": "UNPAID",
+        "value": "غير مدفوعة",
+        "language_code": "ar"
+    },
+    {
+        "key": "PUBLIC_HOLIDAY",
+        "value": "عطلة عامة",
+        "language_code": "ar"
+    },
+    {
+        "key": "IN_REVIEW",
+        "value": "قيد المراجعة",
+        "language_code": "ar"
+    },
+    {
+        "key": "APPROVED",
+        "value": "موافقة",
+        "language_code": "ar"
+    },
+    {
+        "key": "APPROVE",
+        "value": "موافقة",
+        "language_code": "ar"
+    },
+    {
+        "key": "DECLINED",
+        "value": "مرفوضة",
+        "language_code": "ar"
+    },
+    {
+        "key": "DECLINE",
+        "value": "رفض",
+        "language_code": "ar"
+    },
+    {
+        "key": "CANCELED",
+        "value": "ملغية",
+        "language_code": "ar"
+    },
+    {
+        "key": "CANCEL",
+        "value": "الغاء",
+        "language_code": "ar"
+    },
+    {
+        "key": "PENDING_REPORT",
+        "value": "بانتظار التقرير",
+        "language_code": "ar"
+    },
+    {
+        "key": "Missing Report",
+        "value": "بحاجة تقرير",
+        "language_code": "ar"
+    },
+    {
+        "key": "COMPENSATION",
+        "value": "تعويض",
+        "language_code": "ar"
+    },
+    {
+        "key": "REJECTED",
+        "value": "مرفوضة",
+        "language_code": "ar"
+    },
+    {
+        "key": "JANUARY",
+        "value": "كانون الثاني",
+        "language_code": "ar"
+    },
+    {
+        "key": "FEBRUARY",
+        "value": "شباط",
+        "language_code": "ar"
+    },
+    {
+        "key": "MARCH",
+        "value": "اذار",
+        "language_code": "ar"
+    },
+    {
+        "key": "APRIL",
+        "value": "نيسان",
+        "language_code": "ar"
+    },
+    {
+        "key": "MAY",
+        "value": "ايار",
+        "language_code": "ar"
+    },
+    {
+        "key": "JUNE",
+        "value": "حزيران",
+        "language_code": "ar"
+    },
+    {
+        "key": "JULY",
+        "value": "تموز",
+        "language_code": "ar"
+    },
+    {
+        "key": "AUGUST",
+        "value": "اب",
+        "language_code": "ar"
+    },
+    {
+        "key": "SEPTEMBER",
+        "value": "ايلول",
+        "language_code": "ar"
+    },
+    {
+        "key": "OCTOBER",
+        "value": "تشرين الاول",
+        "language_code": "ar"
+    },
+    {
+        "key": "NOVEMBER",
+        "value": "تشرين الثاني",
+        "language_code": "ar"
+    },
+    {
+        "key": "DECEMBER",
+        "value": "كانون الاول",
+        "language_code": "ar"
+    },
+    {
+        "key": "Month",
+        "value": "الشهر",
+        "language_code": "ar"
+    },
+    {
+        "key": "Hourly",
+        "value": "ساعية",
+        "language_code": "ar"
+    },
+    {
+        "key": "Archive",
+        "value": "ارشفة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Trial Balance",
+        "value": "ميزان المراجعة",
+        "language_code": "ar"
+    },
+    {
+        "key": "OVERTIME",
+        "value": "اجر اضافي",
+        "language_code": "ar"
+    },
+    {
+        "key": "SALON",
+        "value": "الرئيسية",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bill",
+        "value": "فاتورة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Department",
+        "value": "القسم",
+        "language_code": "ar"
+    },
+    {
+        "key": "Count",
+        "value": "العدد",
+        "language_code": "ar"
+    },
+    {
+        "key": "Reports",
+        "value": "التقارير",
+        "language_code": "ar"
+    },
+    {
+        "key": "CAFETERIA",
+        "value": "كافيتيريا",
+        "language_code": "ar"
+    },
+    {
+        "key": "Cafeteria",
+        "value": "كافيتيريا",
+        "language_code": "ar"
+    },
+    {
+        "key": "dashboard",
+        "value": "لوحة التحكم",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_dashboard",
+        "value": "عرض لوحة التحكم",
+        "language_code": "ar"
+    },
+    {
+        "key": "hr_tab",
+        "value": "قسم الموارد البشرية",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_hr_tab",
+        "value": "قراءة قسم الموارد البشرية",
+        "language_code": "ar"
+    },
+    {
+        "key": "shift",
+        "value": "الورديات",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_shift",
+        "value": "إنشاء وردية",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_shift",
+        "value": "عرض الوردية",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_shift",
+        "value": "تحديث الوردية",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_shift",
+        "value": "حذف الوردية",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_shift",
+        "value": "تصدير الوردية",
+        "language_code": "ar"
+    },
+    {
+        "key": "attendance",
+        "value": "الحضور",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_attendance",
+        "value": "إنشاء الحضور",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_attendance",
+        "value": "عرض الحضور",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_attendance",
+        "value": "تحديث الحضور",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_attendance",
+        "value": "حذف الحضور",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_attendance",
+        "value": "تصدير الحضور",
+        "language_code": "ar"
+    },
+    {
+        "key": "salary",
+        "value": "الراتب",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_salary",
+        "value": "إنشاء الراتب",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_salary",
+        "value": "عرض الراتب",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_salary",
+        "value": "تحديث الراتب",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_salary",
+        "value": "حذف الراتب",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_salary",
+        "value": "تصدير الراتب",
+        "language_code": "ar"
+    },
+    {
+        "key": "generated_salary",
+        "value": "الراتب الناتج",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_generated_salary",
+        "value": "إنشاء الراتب الناتج",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_generated_salary",
+        "value": "عرض الراتب الناتج",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_generated_salary",
+        "value": "تحديث الراتب الناتج",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_generated_salary",
+        "value": "حذف الراتب الناتج",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_generated_salary",
+        "value": "تصدير الراتب الناتج",
+        "language_code": "ar"
+    },
+    {
+        "key": "vacation",
+        "value": "أجازة",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_vacation",
+        "value": "إنشاء أجازة",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_vacation",
+        "value": "عرض الإجازة",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_vacation",
+        "value": "تحديث الإجازة",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_vacation",
+        "value": "حذف الإجازة",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_vacation",
+        "value": "تصدير الإجازة",
+        "language_code": "ar"
+    },
+    {
+        "key": "financial_tab",
+        "value": "قسم المالية",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_financial_tab",
+        "value": "قسم القراءة المالية",
+        "language_code": "ar"
+    },
+    {
+        "key": "payment",
+        "value": "الدفع",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_payment",
+        "value": "إنشاء الدفع",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_payment",
+        "value": "عرض الدفع",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_payment",
+        "value": "تحديث الدفع",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_payment",
+        "value": "حذف الدفع",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_payment",
+        "value": "تصدير الدفع",
+        "language_code": "ar"
+    },
+    {
+        "key": "cash_flow",
+        "value": "التدفق النقدي",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_cash_flow",
+        "value": "إنشاء التدفق النقدي",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_cash_flow",
+        "value": "عرض التدفق النقدي",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_cash_flow",
+        "value": "تحديث التدفق النقدي",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_cash_flow",
+        "value": "حذف التدفق النقدي",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_cash_flow",
+        "value": "تصدير التدفق النقدي",
+        "language_code": "ar"
+    },
+    {
+        "key": "system_tab",
+        "value": "قسم النظام",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_system_tab",
+        "value": "قسم قراءة النظام",
+        "language_code": "ar"
+    },
+    {
+        "key": "translation",
+        "value": "ترجمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_translation",
+        "value": "إنشاء ترجمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_translation",
+        "value": "عرض الترجمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_translation",
+        "value": "تحديث الترجمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_translation",
+        "value": "حذف الترجمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_translation",
+        "value": "تصدير الترجمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "model_record",
+        "value": "سجل النموذج",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_model_record",
+        "value": "إنشاء سجل النموذج",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_model_record",
+        "value": "عرض سجل النموذج",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_model_record",
+        "value": "تحديث سجل النموذج",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_model_record",
+        "value": "حذف سجل النموذج",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_model_record",
+        "value": "تصدير سجل النموذج",
+        "language_code": "ar"
+    },
+    {
+        "key": "driver_tab",
+        "value": "قسم السائق",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_driver_tab",
+        "value": "عرض صفحة السائق",
+        "language_code": "ar"
+    },
+    {
+        "key": "driver",
+        "value": "السائق",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_driver",
+        "value": "إنشاء السائق",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_driver",
+        "value": "عرض السائق",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_driver",
+        "value": "تحديث السائق",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_driver",
+        "value": "حذف السائق",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_driver",
+        "value": "تصدير السائق",
+        "language_code": "ar"
+    },
+    {
+        "key": "رحلة",
+        "value": "trip",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_trip",
+        "value": "إنشاء الرحلة",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_trip",
+        "value": "عرض الرحلة",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_trip",
+        "value": "تحديث الرحلة",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_trip",
+        "value": "حذف الرحلة",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_trip",
+        "value": "تصدير الرحلة",
+        "language_code": "ar"
+    },
+    {
+        "key": "customer_tab",
+        "value": "قسم العميل",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_customer_tab",
+        "value": "عرض قسم العميل",
+        "language_code": "ar"
+    },
+    {
+        "key": "customer",
+        "value": "العميل",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_customer",
+        "value": "إنشاء العميل",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_customer",
+        "value": "عرض العميل",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_customer",
+        "value": "تحديث العميل",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_customer",
+        "value": "حذف العميل",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_customer",
+        "value": "تصدير العميل",
+        "language_code": "ar"
+    },
+    {
+        "key": "employee_tab",
+        "value": "قسم الموظفين",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_employee_tab",
+        "value": "عرض قسم الموظفين",
+        "language_code": "ar"
+    },
+    {
+        "key": "role",
+        "value": "الوظيفة",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_role",
+        "value": "إنشاء الوظيفة",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_role",
+        "value": "عرض الوظيفة",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_role",
+        "value": "تحديث الوظيفة",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_role",
+        "value": "حذف الوظيفة",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_role",
+        "value": "تصدير الوظيفة",
+        "language_code": "ar"
+    },
+    {
+        "key": "employee",
+        "value": "الموظفين",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_employee",
+        "value": "إنشاء موظف",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_employee",
+        "value": "عرض الموظف",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_employee",
+        "value": "تحديث الموظف",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_employee",
+        "value": "حذف الموظف",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_employee",
+        "value": "تصدير الموظف",
+        "language_code": "ar"
+    },
+    {
+        "key": "admin",
+        "value": "المشرف",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_admin",
+        "value": "إنشاء مشرف",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_admin",
+        "value": "عرض المشرف",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_admin",
+        "value": "تحديث المشرف",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_admin",
+        "value": "حذف المشرف",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_admin",
+        "value": "تصدير المشرف",
+        "language_code": "ar"
+    },
+    {
+        "key": "task",
+        "value": "المهمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_task",
+        "value": "إنشاء مهمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_task",
+        "value": "عرض المهمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_task",
+        "value": "تحديث المهمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_task",
+        "value": "حذف المهمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_task",
+        "value": "تصدير المهمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "job",
+        "value": "العمل",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_job",
+        "value": "إنشاء العمل",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_job",
+        "value": "عرض العمل",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_job",
+        "value": "تحديث العمل",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_job",
+        "value": "حذف العمل",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_job",
+        "value": "تصدير العمل",
+        "language_code": "ar"
+    },
+    {
+        "key": "nationality",
+        "value": "الجنسية",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_nationality",
+        "value": "إنشاء جنسية",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_nationality",
+        "value": "عرض الجنسية",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_nationality",
+        "value": "تحديث الجنسية",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_nationality",
+        "value": "حذف الجنسية",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_nationality",
+        "value": "تصدير الجنسية",
+        "language_code": "ar"
+    },
+    {
+        "key": "setting_tab",
+        "value": "إعدادات اللوحة",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_setting_tab",
+        "value": "عرض إعدادات اللوحة",
+        "language_code": "ar"
+    },
+    {
+        "key": "state",
+        "value": "الحالة",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_state",
+        "value": "إنشاء حالة",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_state",
+        "value": "عرض الحالة",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_state",
+        "value": "تحديث الحالة",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_state",
+        "value": "حذف الحالة",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_state",
+        "value": "تصدير الحالة",
+        "language_code": "ar"
+    },
+    {
+        "key": "city",
+        "value": "المدينة",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_city",
+        "value": "إنشاء مدينة",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_city",
+        "value": "عرض المدينة",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_city",
+        "value": "تحديث المدينة",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_city",
+        "value": "حذف المدينة",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_city",
+        "value": "تصدير المدينة",
+        "language_code": "ar"
+    },
+    {
+        "key": "municipal",
+        "value": "البلدية",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_municipal",
+        "value": "إنشاء بلدية",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_municipal",
+        "value": "عرض البلدية",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_municipal",
+        "value": "تحديث البلدية",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_municipal",
+        "value": "حذف البلدية",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_municipal",
+        "value": "تصدير البلدية",
+        "language_code": "ar"
+    },
+    {
+        "key": "setting",
+        "value": "الإعدادات",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_setting",
+        "value": "إنشاء الإعدادات",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_setting",
+        "value": "عرض الإعدادات",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_setting",
+        "value": "تحديث الإعدادات",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_setting",
+        "value": "حذف الإعدادات",
+        "language_code": "ar"
+    },
+    {
+        "key": "notification",
+        "value": "الإشعارات",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_notification",
+        "value": "إنشاء أشعار",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_notification",
+        "value": "عرض الإشعارات",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_notification",
+        "value": "تحديث الإشعارات",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_notification",
+        "value": "حذف الإشعارات",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_notification",
+        "value": "تصدير الإشعارات",
+        "language_code": "ar"
+    },
+    {
+        "key": "branch",
+        "value": "فرع",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_branch",
+        "value": "إنشاء فرع",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_branch",
+        "value": "عرض الفرع",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_branch",
+        "value": "تحديث الفرع",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_branch",
+        "value": "حذف الفرع",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_branch",
+        "value": "تصدير الفرع",
+        "language_code": "ar"
+    },
+    {
+        "key": "faq",
+        "value": "التعليمات",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_faq",
+        "value": "إنشاء تعليمات",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_faq",
+        "value": "عرض التعليمات",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_faq",
+        "value": "تحديث التعليمات",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_faq",
+        "value": "حذف التعليمات",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_faq",
+        "value": "تصدير التعليمات",
+        "language_code": "ar"
+    },
+    {
+        "key": "slider",
+        "value": "شريط التمرير",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_slider",
+        "value": "إنشاء شريط تمرير",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_slider",
+        "value": "عرض شريط التمرير",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_slider",
+        "value": "تحديث شريط التمرير",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_slider",
+        "value": "حذف شريط التمرير",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_slider",
+        "value": "تصدير شريط التمرير",
+        "language_code": "ar"
+    },
+    {
+        "key": "marketing_tab",
+        "value": "لوحة التسويق",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_marketing_tab",
+        "value": "عرض لوحة التسويق",
+        "language_code": "ar"
+    },
+    {
+        "key": "package",
+        "value": "الحزمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_package",
+        "value": "إنشاء حزمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_package",
+        "value": "عرض الحزمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_package",
+        "value": "تحديث الحزمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_package",
+        "value": "حذف الحزمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_package",
+        "value": "تصدير الحزمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "coupon",
+        "value": "قسيمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_coupon",
+        "value": "إنشاء قسيمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_coupon",
+        "value": "عرض القسيمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_coupon",
+        "value": "تحديث القسيمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_coupon",
+        "value": "حذف القسيمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_coupon",
+        "value": "تصدير القسيمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "loyalty",
+        "value": "الولاء",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_loyalty",
+        "value": "إنشاء ولاء",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_loyalty",
+        "value": "عرض الولاء",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_loyalty",
+        "value": "تحديث الولاء",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_loyalty",
+        "value": "حذف الولاء",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_loyalty",
+        "value": "تصدير الولاء",
+        "language_code": "ar"
+    },
+    {
+        "key": "stock_tab",
+        "value": "لوحة المخزون",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_stock_tab",
+        "value": "عرض لوحة المخزون",
+        "language_code": "ar"
+    },
+    {
+        "key": "supplier",
+        "value": "المورد",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_supplier",
+        "value": "إنشاء مورد",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_supplier",
+        "value": "عرض المورد",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_supplier",
+        "value": "تحديث المورد",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_supplier",
+        "value": "حذف المورد",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_supplier",
+        "value": "تصدير المورد",
+        "language_code": "ar"
+    },
+    {
+        "key": "expense_type",
+        "value": "نوع النفقات",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_expense_type",
+        "value": "إنشاء نوع النفقات",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_expense_type",
+        "value": "عرض نوع النفقات",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_expense_type",
+        "value": "تحديث نوع النفقات",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_expense_type",
+        "value": "حذف نوع النفقات",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_expense_type",
+        "value": "تصدير نوع النفقات",
+        "language_code": "ar"
+    },
+    {
+        "key": "bill",
+        "value": "الفاتورة",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_bill",
+        "value": "إنشاء فاتورة",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_bill",
+        "value": "عرض الفاتورة",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_bill",
+        "value": "تحديث الفاتورة",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_bill",
+        "value": "حذف الفاتورة",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_bill",
+        "value": "تصدير الفاتورة",
+        "language_code": "ar"
+    },
+    {
+        "key": "bill_dept",
+        "value": "قسم الفاتورة",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_bill_dept",
+        "value": "إنشاء قسم فاتورة",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_bill_dept",
+        "value": "عرض قسم الفاتورة",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_bill_dept",
+        "value": "تحديث قسم الفاتورة",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_bill_dept",
+        "value": "حذف قسم الفاتورة",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_bill_dept",
+        "value": "تصدير قسم الفاتورة",
+        "language_code": "ar"
+    },
+    {
+        "key": "bill_type",
+        "value": "نوع الفاتورة",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_bill_type",
+        "value": "إنشاء نوع فاتورة",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_bill_type",
+        "value": "عرض نوع الفاتورة",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_bill_type",
+        "value": "تحديث نوع الفاتورة",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_bill_type",
+        "value": "حذف نوع الفاتورة",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_bill_type",
+        "value": "تصدير نوع الفاتورة",
+        "language_code": "ar"
+    },
+    {
+        "key": "bill_return",
+        "value": "إرجاع الفاتورة",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_bill_return",
+        "value": "إنشاء فاتورة مرجعة",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_bill_return",
+        "value": "عرض الفاتورة المرجعة",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_bill_return",
+        "value": "تحديث الفاتورة المرجعة",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_bill_return",
+        "value": "حذف الفاتورة المرجعة",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_bill_return",
+        "value": "تصدير الفاتورة المرجعة",
+        "language_code": "ar"
+    },
+    {
+        "key": "product",
+        "value": "المنتج",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_product",
+        "value": "إنشاء منتج",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_product",
+        "value": "عرض المنتج",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_product",
+        "value": "تحديث المنتج",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_product",
+        "value": "حذف المنتج",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_product",
+        "value": "تصدير المنتج",
+        "language_code": "ar"
+    },
+    {
+        "key": "stock",
+        "value": "المخزون",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_stock",
+        "value": "إنشاء مخزون",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_stock",
+        "value": "عرض المخزون",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_stock",
+        "value": "تحديث المخزون",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_stock",
+        "value": "حذف المخزون",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_stock",
+        "value": "تصدير المخزون",
+        "language_code": "ar"
+    },
+    {
+        "key": "stock_withdrawal",
+        "value": "سحب المخزون",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_stock_withdrawal",
+        "value": "إنشاء سحب المخزون",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_stock_withdrawal",
+        "value": "عرض سحب المخزون",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_stock_withdrawal",
+        "value": "تحديث سحب المخزون",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_stock_withdrawal",
+        "value": "delete_stock_withdrawal",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_stock_withdrawal",
+        "value": "تصدير سحب المخزون",
+        "language_code": "ar"
+    },
+    {
+        "key": "custody",
+        "value": "الكفالة",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_custody",
+        "value": "إنشاء الكفالة",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_custody",
+        "value": "عرض الكفالة",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_custody",
+        "value": "تحديث الكفالة",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_custody",
+        "value": "حذف الكفالة",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_custody",
+        "value": "تصدير الكفالة",
+        "language_code": "ar"
+    },
+    {
+        "key": "transfer",
+        "value": "التحويل",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_transfer",
+        "value": "إنشاء تحويل",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_transfer",
+        "value": "عرض التحويل",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_transfer",
+        "value": "تحديث التحويل",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_transfer",
+        "value": "حذف التحويل",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_transfer",
+        "value": "تصدير التحويل",
+        "language_code": "ar"
+    },
+    {
+        "key": "brand",
+        "value": "الماركة",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_brand",
+        "value": "إنشاء ماركة",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_brand",
+        "value": "عرض الماركة",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_brand",
+        "value": "تحديث الماركة",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_brand",
+        "value": "حذف الماركة",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_brand",
+        "value": "تصدير الماركة",
+        "language_code": "ar"
+    },
+    {
+        "key": "unit",
+        "value": "الوحدة",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_unit",
+        "value": "إنشاء وحدة",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_unit",
+        "value": "عرض الوحدة",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_unit",
+        "value": "تحديث الوحدة",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_unit",
+        "value": "حذف الوحدة",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_unit",
+        "value": "تصدير الوحدة",
+        "language_code": "ar"
+    },
+    {
+        "key": "service_tab",
+        "value": "لوحة الخدمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_service_tab",
+        "value": "عرض لوحة الخدمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "category",
+        "value": "الفئة",
+        "language_code": "ar"
+    },
+    {
+        "key": "إنشاء فئة",
+        "value": "create_category",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_category",
+        "value": "عرض الفئة",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_category",
+        "value": "تحديث الفئة",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_category",
+        "value": "حذف الفئة",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_category",
+        "value": "تصدير الفئة",
+        "language_code": "ar"
+    },
+    {
+        "key": "service",
+        "value": "الخدمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_service",
+        "value": "إنشاء خدمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_service",
+        "value": "عرض الخدمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_service",
+        "value": "تحديث الخدمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_service",
+        "value": "حذف الخدمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_service",
+        "value": "تصدير الخدمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "booking_tab",
+        "value": "لوحة الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_booking_tab",
+        "value": "عرض لوحة الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "booking",
+        "value": "الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_booking",
+        "value": "إنشاء حجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_booking",
+        "value": "عرض الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_booking",
+        "value": "تحديث الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_booking",
+        "value": "حذف الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_booking",
+        "value": "تصدير الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "booking_edit_request",
+        "value": "طلب تعديل الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_booking_edit_request",
+        "value": "إنشاء طلب تعديل حجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_booking_edit_request",
+        "value": "عرض طلب تعديل الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_booking_edit_request",
+        "value": "تحديث طلب تعديل الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_booking_edit_request",
+        "value": "حذف طلب تعديل الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_booking_edit_request",
+        "value": "تصدير طلب تعديل الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "booking_cancel_request",
+        "value": "طلب إلغاء الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_booking_cancel_request",
+        "value": "إنشاء طلب إلغاء الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_booking_cancel_request",
+        "value": "عرض طلب إلغاء الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_booking_cancel_request",
+        "value": "تحديث طلب إلغاء الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_booking_cancel_request",
+        "value": "حذف طلب إلغاء الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_booking_cancel_request",
+        "value": "تصدير طلب إلغاء الحجز",
+        "language_code": "ar"
+    },
+    {
+        "key": "report_tab",
+        "value": "لوحة التقرير",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_report_tab",
+        "value": "عرض لوحة التقرير",
+        "language_code": "ar"
+    },
+    {
+        "key": "order_report",
+        "value": "تقارير الطلبات",
+        "language_code": "ar"
+    },
+    {
+        "key": "service_report",
+        "value": "تقرير الخدمات",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_order_report",
+        "value": "عرض طلب التقرير",
+        "language_code": "ar"
+    },
+    {
+        "key": "employee_report",
+        "value": "تقرير الموظف",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_employee_report",
+        "value": "عرض تقرير الموظف",
+        "language_code": "ar"
+    },
+    {
+        "key": "supplier_report",
+        "value": "تقرير المورد",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_supplier_report",
+        "value": "عرض تقرير المورد",
+        "language_code": "ar"
+    },
+    {
+        "key": "expense_report",
+        "value": "تقرير النفقات",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_expense_report",
+        "value": "عرض تقرير النفقات",
+        "language_code": "ar"
+    },
+    {
+        "key": "trial_report",
+        "value": "تقرير تجريبي",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_trial_report",
+        "value": "عرض تقرير تجريبي",
+        "language_code": "ar"
+    },
+    {
+        "key": "financial_report",
+        "value": "التقرير المالي",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_financial_report",
+        "value": "عرض التقرير المالي",
+        "language_code": "ar"
+    },
+    {
+        "key": "order_tab",
+        "value": "لوحة الطلب",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_order_tab",
+        "value": "عرض لوحة الطلب",
+        "language_code": "ar"
+    },
+    {
+        "key": "order",
+        "value": "الطلب",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_order",
+        "value": "إنشاء طلب",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_order",
+        "value": "عرض الطلب",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_order",
+        "value": "تحديث الطلب",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_order",
+        "value": "حذف الطلب",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_order",
+        "value": "تصدير الطلب",
+        "language_code": "ar"
+    },
+    {
+        "key": "order_service_return",
+        "value": "خدمة الإرجاع",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_order_service_return",
+        "value": "إنشاء خدمة إرجاع",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_order_service_return",
+        "value": "عرض خدمة الإرجاع",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_order_service_return",
+        "value": "تحديث خدمة الإرجاعn",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_order_service_return",
+        "value": "حذف خدمة الإرجاع",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_order_service_return",
+        "value": "تصدير خدمة الإرجاع",
+        "language_code": "ar"
+    },
+    {
+        "key": "order_service_postpone",
+        "value": "تأجيل الخدمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_order_service_postpone",
+        "value": "إنشاء طلب تأجيل الخدمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_order_service_postpone",
+        "value": "عرض طلب تأجيل الخدمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_order_service_postpone",
+        "value": "تحديث طلب تأجيل الخدمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_order_service_postpone",
+        "value": "حذف طلب تأجيل الخدمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_order_service_postpone",
+        "value": "تصدير طلب تأجيل الخدمة",
+        "language_code": "ar"
+    },
+    {
+        "key": "listed_order",
+        "value": "الطلبات المدرجة",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_listed_order",
+        "value": "إنشاء طلبات مدرجة",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_listed_order",
+        "value": "عرض الطلبات المدرجة",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_listed_order",
+        "value": "تحديث الطلبات المدرجة",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_listed_order",
+        "value": "حذف الطلبات المدرجة",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_listed_order",
+        "value": "تصدير الطلبات المدرجة",
+        "language_code": "ar"
+    },
+    {
+        "key": "rate",
+        "value": "النسبة",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_rate",
+        "value": "إنشاء نسبة",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_rate",
+        "value": "عرض النسبة",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_rate",
+        "value": "تعديل النسبة",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_rate",
+        "value": "حذف النسبة",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_rate",
+        "value": "تصدير النسبة",
+        "language_code": "ar"
+    },
+    {
+        "key": "rate_reason",
+        "value": "سبب النسبة",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_rate_reason",
+        "value": "إنشاء سبب نسبة",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_rate_reason",
+        "value": "عرض سبب النسبة",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_rate_reason",
+        "value": "تحديث سبب النسبة",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_rate_reason",
+        "value": "حذف سبب النسبة",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_rate_reason",
+        "value": "تصدير سبب النسبة",
+        "language_code": "ar"
+    },
+    {
+        "key": "cafeteria_tab",
+        "value": "لوحة الكافيتيريا",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_cafeteria_tab",
+        "value": "عرض لوحة الكافيتيريا",
+        "language_code": "ar"
+    },
+    {
+        "key": "cafeteria_order",
+        "value": "طلبات الكافيتيريا",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_cafeteria_order",
+        "value": "إنشاء طلب كافيتيريا",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_cafeteria_order",
+        "value": "عرض طلبات الكافيتيريا",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_cafeteria_order",
+        "value": "تحديث طلبات الكافيتيريا",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_cafeteria_order",
+        "value": "حذف طلبات الكافيتيريا",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_cafeteria_order",
+        "value": "تصدير طلبات الكافيتيريا",
+        "language_code": "ar"
+    },
+    {
+        "key": "employee_fingerprint_id_warning",
+        "value": "يجب عليك اضافة رقم الموظف (معرف جهاز البصامة) للموظفين:",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order Count",
+        "value": "عدد الطلبات",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order Total",
+        "value": "المجموع الفرعي",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order Tax",
+        "value": "الضريبة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bill Tax",
+        "value": "الضريبة",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bill Count",
+        "value": "عدد الفواتير",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bill Total",
+        "value": "المجموع الفرعي",
+        "language_code": "ar"
+    },
+    {
+        "key": "employee_fingerprint_id_warning",
+        "value": "You need to add employee no (Fingerprint device employee id) for employees: ",
+        "language_code": "en"
+    }
+]

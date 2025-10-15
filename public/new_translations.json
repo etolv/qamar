@@ -1,0 +1,5437 @@
+[
+    {
+        "key": "dashboard",
+        "value": "dashboard",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_dashboard",
+        "value": "read_dashboard",
+        "language_code": "ar"
+    },
+    {
+        "key": "hr_tab",
+        "value": "hr_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_hr_tab",
+        "value": "read_hr_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "shift",
+        "value": "shift",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_shift",
+        "value": "create_shift",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_shift",
+        "value": "read_shift",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_shift",
+        "value": "update_shift",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_shift",
+        "value": "delete_shift",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_shift",
+        "value": "export_shift",
+        "language_code": "ar"
+    },
+    {
+        "key": "attendance",
+        "value": "attendance",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_attendance",
+        "value": "create_attendance",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_attendance",
+        "value": "read_attendance",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_attendance",
+        "value": "update_attendance",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_attendance",
+        "value": "delete_attendance",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_attendance",
+        "value": "export_attendance",
+        "language_code": "ar"
+    },
+    {
+        "key": "salary",
+        "value": "salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_salary",
+        "value": "create_salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_salary",
+        "value": "read_salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_salary",
+        "value": "update_salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_salary",
+        "value": "delete_salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_salary",
+        "value": "export_salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "generated_salary",
+        "value": "generated_salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_generated_salary",
+        "value": "create_generated_salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_generated_salary",
+        "value": "read_generated_salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_generated_salary",
+        "value": "update_generated_salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_generated_salary",
+        "value": "delete_generated_salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_generated_salary",
+        "value": "export_generated_salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "vacation",
+        "value": "vacation",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_vacation",
+        "value": "create_vacation",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_vacation",
+        "value": "read_vacation",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_vacation",
+        "value": "update_vacation",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_vacation",
+        "value": "delete_vacation",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_vacation",
+        "value": "export_vacation",
+        "language_code": "ar"
+    },
+    {
+        "key": "financial_tab",
+        "value": "financial_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_financial_tab",
+        "value": "read_financial_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "account",
+        "value": "account",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_account",
+        "value": "create_account",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_account",
+        "value": "read_account",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_account",
+        "value": "update_account",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_account",
+        "value": "delete_account",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_account",
+        "value": "export_account",
+        "language_code": "ar"
+    },
+    {
+        "key": "transaction",
+        "value": "transaction",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_transaction",
+        "value": "create_transaction",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_transaction",
+        "value": "read_transaction",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_transaction",
+        "value": "update_transaction",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_transaction",
+        "value": "delete_transaction",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_transaction",
+        "value": "export_transaction",
+        "language_code": "ar"
+    },
+    {
+        "key": "payment",
+        "value": "payment",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_payment",
+        "value": "create_payment",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_payment",
+        "value": "read_payment",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_payment",
+        "value": "update_payment",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_payment",
+        "value": "delete_payment",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_payment",
+        "value": "export_payment",
+        "language_code": "ar"
+    },
+    {
+        "key": "cash_flow",
+        "value": "cash_flow",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_cash_flow",
+        "value": "create_cash_flow",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_cash_flow",
+        "value": "read_cash_flow",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_cash_flow",
+        "value": "update_cash_flow",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_cash_flow",
+        "value": "delete_cash_flow",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_cash_flow",
+        "value": "export_cash_flow",
+        "language_code": "ar"
+    },
+    {
+        "key": "system_tab",
+        "value": "system_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_system_tab",
+        "value": "read_system_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "translation",
+        "value": "translation",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_translation",
+        "value": "create_translation",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_translation",
+        "value": "read_translation",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_translation",
+        "value": "update_translation",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_translation",
+        "value": "delete_translation",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_translation",
+        "value": "export_translation",
+        "language_code": "ar"
+    },
+    {
+        "key": "model_record",
+        "value": "model_record",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_model_record",
+        "value": "create_model_record",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_model_record",
+        "value": "read_model_record",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_model_record",
+        "value": "update_model_record",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_model_record",
+        "value": "delete_model_record",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_model_record",
+        "value": "export_model_record",
+        "language_code": "ar"
+    },
+    {
+        "key": "driver_tab",
+        "value": "driver_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_driver_tab",
+        "value": "read_driver_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "driver",
+        "value": "driver",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_driver",
+        "value": "create_driver",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_driver",
+        "value": "read_driver",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_driver",
+        "value": "update_driver",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_driver",
+        "value": "delete_driver",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_driver",
+        "value": "export_driver",
+        "language_code": "ar"
+    },
+    {
+        "key": "trip",
+        "value": "trip",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_trip",
+        "value": "create_trip",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_trip",
+        "value": "read_trip",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_trip",
+        "value": "update_trip",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_trip",
+        "value": "delete_trip",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_trip",
+        "value": "export_trip",
+        "language_code": "ar"
+    },
+    {
+        "key": "customer_tab",
+        "value": "customer_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_customer_tab",
+        "value": "read_customer_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "customer",
+        "value": "customer",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_customer",
+        "value": "create_customer",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_customer",
+        "value": "read_customer",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_customer",
+        "value": "update_customer",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_customer",
+        "value": "delete_customer",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_customer",
+        "value": "export_customer",
+        "language_code": "ar"
+    },
+    {
+        "key": "employee_tab",
+        "value": "employee_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_employee_tab",
+        "value": "read_employee_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "role",
+        "value": "role",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_role",
+        "value": "create_role",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_role",
+        "value": "read_role",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_role",
+        "value": "update_role",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_role",
+        "value": "delete_role",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_role",
+        "value": "export_role",
+        "language_code": "ar"
+    },
+    {
+        "key": "employee",
+        "value": "employee",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_employee",
+        "value": "create_employee",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_employee",
+        "value": "read_employee",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_employee",
+        "value": "update_employee",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_employee",
+        "value": "delete_employee",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_employee",
+        "value": "export_employee",
+        "language_code": "ar"
+    },
+    {
+        "key": "admin",
+        "value": "admin",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_admin",
+        "value": "create_admin",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_admin",
+        "value": "read_admin",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_admin",
+        "value": "update_admin",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_admin",
+        "value": "delete_admin",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_admin",
+        "value": "export_admin",
+        "language_code": "ar"
+    },
+    {
+        "key": "task",
+        "value": "task",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_task",
+        "value": "create_task",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_task",
+        "value": "read_task",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_task",
+        "value": "update_task",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_task",
+        "value": "delete_task",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_task",
+        "value": "export_task",
+        "language_code": "ar"
+    },
+    {
+        "key": "job",
+        "value": "job",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_job",
+        "value": "create_job",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_job",
+        "value": "read_job",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_job",
+        "value": "update_job",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_job",
+        "value": "delete_job",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_job",
+        "value": "export_job",
+        "language_code": "ar"
+    },
+    {
+        "key": "nationality",
+        "value": "nationality",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_nationality",
+        "value": "create_nationality",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_nationality",
+        "value": "read_nationality",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_nationality",
+        "value": "update_nationality",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_nationality",
+        "value": "delete_nationality",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_nationality",
+        "value": "export_nationality",
+        "language_code": "ar"
+    },
+    {
+        "key": "setting_tab",
+        "value": "setting_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_setting_tab",
+        "value": "read_setting_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "state",
+        "value": "state",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_state",
+        "value": "create_state",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_state",
+        "value": "read_state",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_state",
+        "value": "update_state",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_state",
+        "value": "delete_state",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_state",
+        "value": "export_state",
+        "language_code": "ar"
+    },
+    {
+        "key": "city",
+        "value": "city",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_city",
+        "value": "create_city",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_city",
+        "value": "read_city",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_city",
+        "value": "update_city",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_city",
+        "value": "delete_city",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_city",
+        "value": "export_city",
+        "language_code": "ar"
+    },
+    {
+        "key": "municipal",
+        "value": "municipal",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_municipal",
+        "value": "create_municipal",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_municipal",
+        "value": "read_municipal",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_municipal",
+        "value": "update_municipal",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_municipal",
+        "value": "delete_municipal",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_municipal",
+        "value": "export_municipal",
+        "language_code": "ar"
+    },
+    {
+        "key": "setting",
+        "value": "setting",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_setting",
+        "value": "create_setting",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_setting",
+        "value": "read_setting",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_setting",
+        "value": "update_setting",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_setting",
+        "value": "delete_setting",
+        "language_code": "ar"
+    },
+    {
+        "key": "notification",
+        "value": "notification",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_notification",
+        "value": "create_notification",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_notification",
+        "value": "read_notification",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_notification",
+        "value": "update_notification",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_notification",
+        "value": "delete_notification",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_notification",
+        "value": "export_notification",
+        "language_code": "ar"
+    },
+    {
+        "key": "branch",
+        "value": "branch",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_branch",
+        "value": "create_branch",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_branch",
+        "value": "read_branch",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_branch",
+        "value": "update_branch",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_branch",
+        "value": "delete_branch",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_branch",
+        "value": "export_branch",
+        "language_code": "ar"
+    },
+    {
+        "key": "faq",
+        "value": "faq",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_faq",
+        "value": "create_faq",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_faq",
+        "value": "read_faq",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_faq",
+        "value": "update_faq",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_faq",
+        "value": "delete_faq",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_faq",
+        "value": "export_faq",
+        "language_code": "ar"
+    },
+    {
+        "key": "slider",
+        "value": "slider",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_slider",
+        "value": "create_slider",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_slider",
+        "value": "read_slider",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_slider",
+        "value": "update_slider",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_slider",
+        "value": "delete_slider",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_slider",
+        "value": "export_slider",
+        "language_code": "ar"
+    },
+    {
+        "key": "marketing_tab",
+        "value": "marketing_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_marketing_tab",
+        "value": "read_marketing_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "package",
+        "value": "package",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_package",
+        "value": "create_package",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_package",
+        "value": "read_package",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_package",
+        "value": "update_package",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_package",
+        "value": "delete_package",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_package",
+        "value": "export_package",
+        "language_code": "ar"
+    },
+    {
+        "key": "coupon",
+        "value": "coupon",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_coupon",
+        "value": "create_coupon",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_coupon",
+        "value": "read_coupon",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_coupon",
+        "value": "update_coupon",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_coupon",
+        "value": "delete_coupon",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_coupon",
+        "value": "export_coupon",
+        "language_code": "ar"
+    },
+    {
+        "key": "loyalty",
+        "value": "loyalty",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_loyalty",
+        "value": "create_loyalty",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_loyalty",
+        "value": "read_loyalty",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_loyalty",
+        "value": "update_loyalty",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_loyalty",
+        "value": "delete_loyalty",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_loyalty",
+        "value": "export_loyalty",
+        "language_code": "ar"
+    },
+    {
+        "key": "stock_tab",
+        "value": "stock_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_stock_tab",
+        "value": "read_stock_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "supplier",
+        "value": "supplier",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_supplier",
+        "value": "create_supplier",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_supplier",
+        "value": "read_supplier",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_supplier",
+        "value": "update_supplier",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_supplier",
+        "value": "delete_supplier",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_supplier",
+        "value": "export_supplier",
+        "language_code": "ar"
+    },
+    {
+        "key": "expense_type",
+        "value": "expense_type",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_expense_type",
+        "value": "create_expense_type",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_expense_type",
+        "value": "read_expense_type",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_expense_type",
+        "value": "update_expense_type",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_expense_type",
+        "value": "delete_expense_type",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_expense_type",
+        "value": "export_expense_type",
+        "language_code": "ar"
+    },
+    {
+        "key": "bill",
+        "value": "bill",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_bill",
+        "value": "create_bill",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_bill",
+        "value": "read_bill",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_bill",
+        "value": "update_bill",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_bill",
+        "value": "delete_bill",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_bill",
+        "value": "export_bill",
+        "language_code": "ar"
+    },
+    {
+        "key": "bill_dept",
+        "value": "bill_dept",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_bill_dept",
+        "value": "create_bill_dept",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_bill_dept",
+        "value": "read_bill_dept",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_bill_dept",
+        "value": "update_bill_dept",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_bill_dept",
+        "value": "delete_bill_dept",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_bill_dept",
+        "value": "export_bill_dept",
+        "language_code": "ar"
+    },
+    {
+        "key": "bill_type",
+        "value": "bill_type",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_bill_type",
+        "value": "create_bill_type",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_bill_type",
+        "value": "read_bill_type",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_bill_type",
+        "value": "update_bill_type",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_bill_type",
+        "value": "delete_bill_type",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_bill_type",
+        "value": "export_bill_type",
+        "language_code": "ar"
+    },
+    {
+        "key": "bill_return",
+        "value": "bill_return",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_bill_return",
+        "value": "create_bill_return",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_bill_return",
+        "value": "read_bill_return",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_bill_return",
+        "value": "update_bill_return",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_bill_return",
+        "value": "delete_bill_return",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_bill_return",
+        "value": "export_bill_return",
+        "language_code": "ar"
+    },
+    {
+        "key": "product",
+        "value": "product",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_product",
+        "value": "create_product",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_product",
+        "value": "read_product",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_product",
+        "value": "update_product",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_product",
+        "value": "delete_product",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_product",
+        "value": "export_product",
+        "language_code": "ar"
+    },
+    {
+        "key": "stock",
+        "value": "stock",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_stock",
+        "value": "create_stock",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_stock",
+        "value": "read_stock",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_stock",
+        "value": "update_stock",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_stock",
+        "value": "delete_stock",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_stock",
+        "value": "export_stock",
+        "language_code": "ar"
+    },
+    {
+        "key": "stock_withdrawal",
+        "value": "stock_withdrawal",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_stock_withdrawal",
+        "value": "create_stock_withdrawal",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_stock_withdrawal",
+        "value": "read_stock_withdrawal",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_stock_withdrawal",
+        "value": "update_stock_withdrawal",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_stock_withdrawal",
+        "value": "delete_stock_withdrawal",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_stock_withdrawal",
+        "value": "export_stock_withdrawal",
+        "language_code": "ar"
+    },
+    {
+        "key": "custody",
+        "value": "custody",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_custody",
+        "value": "create_custody",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_custody",
+        "value": "read_custody",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_custody",
+        "value": "update_custody",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_custody",
+        "value": "delete_custody",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_custody",
+        "value": "export_custody",
+        "language_code": "ar"
+    },
+    {
+        "key": "transfer",
+        "value": "transfer",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_transfer",
+        "value": "create_transfer",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_transfer",
+        "value": "read_transfer",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_transfer",
+        "value": "update_transfer",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_transfer",
+        "value": "delete_transfer",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_transfer",
+        "value": "export_transfer",
+        "language_code": "ar"
+    },
+    {
+        "key": "brand",
+        "value": "brand",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_brand",
+        "value": "create_brand",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_brand",
+        "value": "read_brand",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_brand",
+        "value": "update_brand",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_brand",
+        "value": "delete_brand",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_brand",
+        "value": "export_brand",
+        "language_code": "ar"
+    },
+    {
+        "key": "unit",
+        "value": "unit",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_unit",
+        "value": "create_unit",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_unit",
+        "value": "read_unit",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_unit",
+        "value": "update_unit",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_unit",
+        "value": "delete_unit",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_unit",
+        "value": "export_unit",
+        "language_code": "ar"
+    },
+    {
+        "key": "service_tab",
+        "value": "service_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_service_tab",
+        "value": "read_service_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "category",
+        "value": "category",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_category",
+        "value": "create_category",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_category",
+        "value": "read_category",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_category",
+        "value": "update_category",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_category",
+        "value": "delete_category",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_category",
+        "value": "export_category",
+        "language_code": "ar"
+    },
+    {
+        "key": "service",
+        "value": "service",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_service",
+        "value": "create_service",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_service",
+        "value": "read_service",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_service",
+        "value": "update_service",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_service",
+        "value": "delete_service",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_service",
+        "value": "export_service",
+        "language_code": "ar"
+    },
+    {
+        "key": "booking_tab",
+        "value": "booking_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_booking_tab",
+        "value": "read_booking_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "booking",
+        "value": "booking",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_booking",
+        "value": "create_booking",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_booking",
+        "value": "read_booking",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_booking",
+        "value": "update_booking",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_booking",
+        "value": "delete_booking",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_booking",
+        "value": "export_booking",
+        "language_code": "ar"
+    },
+    {
+        "key": "booking_edit_request",
+        "value": "booking_edit_request",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_booking_edit_request",
+        "value": "create_booking_edit_request",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_booking_edit_request",
+        "value": "read_booking_edit_request",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_booking_edit_request",
+        "value": "update_booking_edit_request",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_booking_edit_request",
+        "value": "delete_booking_edit_request",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_booking_edit_request",
+        "value": "export_booking_edit_request",
+        "language_code": "ar"
+    },
+    {
+        "key": "booking_cancel_request",
+        "value": "booking_cancel_request",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_booking_cancel_request",
+        "value": "create_booking_cancel_request",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_booking_cancel_request",
+        "value": "read_booking_cancel_request",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_booking_cancel_request",
+        "value": "update_booking_cancel_request",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_booking_cancel_request",
+        "value": "delete_booking_cancel_request",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_booking_cancel_request",
+        "value": "export_booking_cancel_request",
+        "language_code": "ar"
+    },
+    {
+        "key": "report_tab",
+        "value": "report_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_report_tab",
+        "value": "read_report_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "order_report",
+        "value": "order_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_order_report",
+        "value": "read_order_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "service_report",
+        "value": "service_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_service_report",
+        "value": "read_service_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "employee_report",
+        "value": "employee_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_employee_report",
+        "value": "read_employee_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "supplier_report",
+        "value": "supplier_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_supplier_report",
+        "value": "read_supplier_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "expense_report",
+        "value": "expense_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_expense_report",
+        "value": "read_expense_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "trial_report",
+        "value": "trial_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_trial_report",
+        "value": "read_trial_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "financial_report",
+        "value": "financial_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_financial_report",
+        "value": "read_financial_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "order_tab",
+        "value": "order_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_order_tab",
+        "value": "read_order_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "order",
+        "value": "order",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_order",
+        "value": "create_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_order",
+        "value": "read_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_order",
+        "value": "update_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_order",
+        "value": "delete_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_order",
+        "value": "export_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "order_service_return",
+        "value": "order_service_return",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_order_service_return",
+        "value": "create_order_service_return",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_order_service_return",
+        "value": "read_order_service_return",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_order_service_return",
+        "value": "update_order_service_return",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_order_service_return",
+        "value": "delete_order_service_return",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_order_service_return",
+        "value": "export_order_service_return",
+        "language_code": "ar"
+    },
+    {
+        "key": "order_service_postpone",
+        "value": "order_service_postpone",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_order_service_postpone",
+        "value": "create_order_service_postpone",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_order_service_postpone",
+        "value": "read_order_service_postpone",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_order_service_postpone",
+        "value": "update_order_service_postpone",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_order_service_postpone",
+        "value": "delete_order_service_postpone",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_order_service_postpone",
+        "value": "export_order_service_postpone",
+        "language_code": "ar"
+    },
+    {
+        "key": "listed_order",
+        "value": "listed_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_listed_order",
+        "value": "create_listed_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_listed_order",
+        "value": "read_listed_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_listed_order",
+        "value": "update_listed_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_listed_order",
+        "value": "delete_listed_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_listed_order",
+        "value": "export_listed_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "rate",
+        "value": "rate",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_rate",
+        "value": "create_rate",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_rate",
+        "value": "read_rate",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_rate",
+        "value": "update_rate",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_rate",
+        "value": "delete_rate",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_rate",
+        "value": "export_rate",
+        "language_code": "ar"
+    },
+    {
+        "key": "rate_reason",
+        "value": "rate_reason",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_rate_reason",
+        "value": "create_rate_reason",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_rate_reason",
+        "value": "read_rate_reason",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_rate_reason",
+        "value": "update_rate_reason",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_rate_reason",
+        "value": "delete_rate_reason",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_rate_reason",
+        "value": "export_rate_reason",
+        "language_code": "ar"
+    },
+    {
+        "key": "cafeteria_tab",
+        "value": "cafeteria_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_cafeteria_tab",
+        "value": "read_cafeteria_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "cafeteria_order",
+        "value": "cafeteria_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_cafeteria_order",
+        "value": "create_cafeteria_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_cafeteria_order",
+        "value": "read_cafeteria_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_cafeteria_order",
+        "value": "update_cafeteria_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_cafeteria_order",
+        "value": "delete_cafeteria_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_cafeteria_order",
+        "value": "export_cafeteria_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "privacy_policy",
+        "value": "privacy_policy",
+        "language_code": "ar"
+    },
+    {
+        "key": "terms_and_conditions",
+        "value": "terms_and_conditions",
+        "language_code": "ar"
+    },
+    {
+        "key": "about_us",
+        "value": "about_us",
+        "language_code": "ar"
+    },
+    {
+        "key": "employee_minimum_profit",
+        "value": "employee_minimum_profit",
+        "language_code": "ar"
+    },
+    {
+        "key": "employee_profit_percentage",
+        "value": "employee_profit_percentage",
+        "language_code": "ar"
+    },
+    {
+        "key": "employee_target",
+        "value": "employee_target",
+        "language_code": "ar"
+    },
+    {
+        "key": "instagram",
+        "value": "instagram",
+        "language_code": "ar"
+    },
+    {
+        "key": "snapchat",
+        "value": "snapchat",
+        "language_code": "ar"
+    },
+    {
+        "key": "tiktok",
+        "value": "tiktok",
+        "language_code": "ar"
+    },
+    {
+        "key": "youtube",
+        "value": "youtube",
+        "language_code": "ar"
+    },
+    {
+        "key": "email",
+        "value": "email",
+        "language_code": "ar"
+    },
+    {
+        "key": "phone",
+        "value": "phone",
+        "language_code": "ar"
+    },
+    {
+        "key": "address",
+        "value": "address",
+        "language_code": "ar"
+    },
+    {
+        "key": "cash_to_points",
+        "value": "cash_to_points",
+        "language_code": "ar"
+    },
+    {
+        "key": "Each 1 SAR will get x point",
+        "value": "Each 1 SAR will get x point",
+        "language_code": "ar"
+    },
+    {
+        "key": "points_to_cash",
+        "value": "points_to_cash",
+        "language_code": "ar"
+    },
+    {
+        "key": "Each 1 Point will get x SAR",
+        "value": "Each 1 Point will get x SAR",
+        "language_code": "ar"
+    },
+    {
+        "key": "profit_percentage",
+        "value": "profit_percentage",
+        "language_code": "ar"
+    },
+    {
+        "key": "is_target_monthly",
+        "value": "is_target_monthly",
+        "language_code": "ar"
+    },
+    {
+        "key": "tax",
+        "value": "tax",
+        "language_code": "ar"
+    },
+    {
+        "key": "Percentage",
+        "value": "Percentage",
+        "language_code": "ar"
+    },
+    {
+        "key": "loyalty_points_period",
+        "value": "loyalty_points_period",
+        "language_code": "ar"
+    },
+    {
+        "key": "Loyalty points period in months",
+        "value": "Loyalty points period in months",
+        "language_code": "ar"
+    },
+    {
+        "key": "Debit",
+        "value": "Debit",
+        "language_code": "ar"
+    },
+    {
+        "key": "Credit",
+        "value": "Credit",
+        "language_code": "ar"
+    },
+    {
+        "key": "Phone",
+        "value": "Phone",
+        "language_code": "ar"
+    },
+    {
+        "key": "Welcome",
+        "value": "Welcome",
+        "language_code": "ar"
+    },
+    {
+        "key": "Please sign-in to your account and start the adventure",
+        "value": "Please sign-in to your account and start the adventure",
+        "language_code": "ar"
+    },
+    {
+        "key": "Enter your phone",
+        "value": "Enter your phone",
+        "language_code": "ar"
+    },
+    {
+        "key": "Password",
+        "value": "Password",
+        "language_code": "ar"
+    },
+    {
+        "key": "Remember Me",
+        "value": "Remember Me",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sign in",
+        "value": "Sign in",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Type",
+        "value": "Select Type",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Employees",
+        "value": "Select Employees",
+        "language_code": "ar"
+    },
+    {
+        "key": "Create",
+        "value": "Create",
+        "language_code": "ar"
+    },
+    {
+        "key": "Info",
+        "value": "Info",
+        "language_code": "ar"
+    },
+    {
+        "key": "Title",
+        "value": "Title",
+        "language_code": "ar"
+    },
+    {
+        "key": "Description",
+        "value": "Description",
+        "language_code": "ar"
+    },
+    {
+        "key": "Employees",
+        "value": "Employees",
+        "language_code": "ar"
+    },
+    {
+        "key": "SAR",
+        "value": "SAR",
+        "language_code": "ar"
+    },
+    {
+        "key": "Accounts Tree",
+        "value": "Accounts Tree",
+        "language_code": "ar"
+    },
+    {
+        "key": "Add Account",
+        "value": "Add Account",
+        "language_code": "ar"
+    },
+    {
+        "key": "Search accounts",
+        "value": "Search accounts",
+        "language_code": "ar"
+    },
+    {
+        "key": "Account Transactions",
+        "value": "Account Transactions",
+        "language_code": "ar"
+    },
+    {
+        "key": "Add Transaction",
+        "value": "Add Transaction",
+        "language_code": "ar"
+    },
+    {
+        "key": "Click on an account to view its transactions",
+        "value": "Click on an account to view its transactions",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Transaction",
+        "value": "New Transaction",
+        "language_code": "ar"
+    },
+    {
+        "key": "Transaction from",
+        "value": "Transaction from",
+        "language_code": "ar"
+    },
+    {
+        "key": "To Account",
+        "value": "To Account",
+        "language_code": "ar"
+    },
+    {
+        "key": "Amount",
+        "value": "Amount",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Account",
+        "value": "New Account",
+        "language_code": "ar"
+    },
+    {
+        "key": "Name",
+        "value": "Name",
+        "language_code": "ar"
+    },
+    {
+        "key": "Slug",
+        "value": "Slug",
+        "language_code": "ar"
+    },
+    {
+        "key": "Parent Account",
+        "value": "Parent Account",
+        "language_code": "ar"
+    },
+    {
+        "key": "None",
+        "value": "None",
+        "language_code": "ar"
+    },
+    {
+        "key": "Type",
+        "value": "Type",
+        "language_code": "ar"
+    },
+    {
+        "key": "Print",
+        "value": "Print",
+        "language_code": "ar"
+    },
+    {
+        "key": "File",
+        "value": "File",
+        "language_code": "ar"
+    },
+    {
+        "key": "Task Details",
+        "value": "Task Details",
+        "language_code": "ar"
+    },
+    {
+        "key": "Supplier ID",
+        "value": "Supplier ID",
+        "language_code": "ar"
+    },
+    {
+        "key": "Task Employees",
+        "value": "Task Employees",
+        "language_code": "ar"
+    },
+    {
+        "key": "Employee",
+        "value": "Employee",
+        "language_code": "ar"
+    },
+    {
+        "key": "Status",
+        "value": "Status",
+        "language_code": "ar"
+    },
+    {
+        "key": "Ticket Owner",
+        "value": "Ticket Owner",
+        "language_code": "ar"
+    },
+    {
+        "key": "Contact info",
+        "value": "Contact info",
+        "language_code": "ar"
+    },
+    {
+        "key": "Email",
+        "value": "Email",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Role",
+        "value": "Select Role",
+        "language_code": "ar"
+    },
+    {
+        "key": "Profile image",
+        "value": "Profile image",
+        "language_code": "ar"
+    },
+    {
+        "key": "Role",
+        "value": "Role",
+        "language_code": "ar"
+    },
+    {
+        "key": "Update",
+        "value": "Update",
+        "language_code": "ar"
+    },
+    {
+        "key": "Filter Role",
+        "value": "Filter Role",
+        "language_code": "ar"
+    },
+    {
+        "key": " Export ",
+        "value": " Export ",
+        "language_code": "ar"
+    },
+    {
+        "key": " Print ",
+        "value": " Print ",
+        "language_code": "ar"
+    },
+    {
+        "key": "Admins",
+        "value": "Admins",
+        "language_code": "ar"
+    },
+    {
+        "key": "New admin",
+        "value": "New admin",
+        "language_code": "ar"
+    },
+    {
+        "key": "Image",
+        "value": "Image",
+        "language_code": "ar"
+    },
+    {
+        "key": "Actions",
+        "value": "Actions",
+        "language_code": "ar"
+    },
+    {
+        "key": "Date",
+        "value": "Date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Start Hour",
+        "value": "Start Hour",
+        "language_code": "ar"
+    },
+    {
+        "key": "End Hour",
+        "value": "End Hour",
+        "language_code": "ar"
+    },
+    {
+        "key": "Filter Employee",
+        "value": "Filter Employee",
+        "language_code": "ar"
+    },
+    {
+        "key": "Filter Shift",
+        "value": "Filter Shift",
+        "language_code": "ar"
+    },
+    {
+        "key": "Attendance List - Overtime",
+        "value": "Attendance List - Overtime",
+        "language_code": "ar"
+    },
+    {
+        "key": "Not assigned",
+        "value": "Not assigned",
+        "language_code": "ar"
+    },
+    {
+        "key": "HOLIDAY",
+        "value": "HOLIDAY",
+        "language_code": "ar"
+    },
+    {
+        "key": "NORMAL",
+        "value": "NORMAL",
+        "language_code": "ar"
+    },
+    {
+        "key": "Click to change status",
+        "value": "Click to change status",
+        "language_code": "ar"
+    },
+    {
+        "key": "Rate",
+        "value": "Rate",
+        "language_code": "ar"
+    },
+    {
+        "key": "Attendance",
+        "value": "Attendance",
+        "language_code": "ar"
+    },
+    {
+        "key": "Import",
+        "value": "Import",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Attendance",
+        "value": "New Attendance",
+        "language_code": "ar"
+    },
+    {
+        "key": "Shift",
+        "value": "Shift",
+        "language_code": "ar"
+    },
+    {
+        "key": "Start",
+        "value": "Start",
+        "language_code": "ar"
+    },
+    {
+        "key": "End",
+        "value": "End",
+        "language_code": "ar"
+    },
+    {
+        "key": "Total",
+        "value": "Total",
+        "language_code": "ar"
+    },
+    {
+        "key": "Missing Hours",
+        "value": "Missing Hours",
+        "language_code": "ar"
+    },
+    {
+        "key": "Extra Hours",
+        "value": "Extra Hours",
+        "language_code": "ar"
+    },
+    {
+        "key": "Overtime Status",
+        "value": "Overtime Status",
+        "language_code": "ar"
+    },
+    {
+        "key": "Edit Service Employee",
+        "value": "Edit Service Employee",
+        "language_code": "ar"
+    },
+    {
+        "key": "New category",
+        "value": "New category",
+        "language_code": "ar"
+    },
+    {
+        "key": "Store",
+        "value": "Store",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order",
+        "value": "Order",
+        "language_code": "ar"
+    },
+    {
+        "key": "Payment status",
+        "value": "Payment status",
+        "language_code": "ar"
+    },
+    {
+        "key": "Download PDF",
+        "value": "Download PDF",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order details",
+        "value": "Order details",
+        "language_code": "ar"
+    },
+    {
+        "key": "Delivery",
+        "value": "Delivery",
+        "language_code": "ar"
+    },
+    {
+        "key": "product",
+        "value": "product",
+        "language_code": "ar"
+    },
+    {
+        "key": "price",
+        "value": "price",
+        "language_code": "ar"
+    },
+    {
+        "key": "qty",
+        "value": "qty",
+        "language_code": "ar"
+    },
+    {
+        "key": "total",
+        "value": "total",
+        "language_code": "ar"
+    },
+    {
+        "key": "Service",
+        "value": "Service",
+        "language_code": "ar"
+    },
+    {
+        "key": "Not Assigned",
+        "value": "Not Assigned",
+        "language_code": "ar"
+    },
+    {
+        "key": "Coupon",
+        "value": "Coupon",
+        "language_code": "ar"
+    },
+    {
+        "key": "Code",
+        "value": "Code",
+        "language_code": "ar"
+    },
+    {
+        "key": "Value",
+        "value": "Value",
+        "language_code": "ar"
+    },
+    {
+        "key": "Percentage",
+        "value": "Percentage",
+        "language_code": "ar"
+    },
+    {
+        "key": "Fixed",
+        "value": "Fixed",
+        "language_code": "ar"
+    },
+    {
+        "key": "Subtotal",
+        "value": "Subtotal",
+        "language_code": "ar"
+    },
+    {
+        "key": "Discount",
+        "value": "Discount",
+        "language_code": "ar"
+    },
+    {
+        "key": "Grand Total",
+        "value": "Grand Total",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order Payments",
+        "value": "Order Payments",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order statuses",
+        "value": "Order statuses",
+        "language_code": "ar"
+    },
+    {
+        "key": "Pending",
+        "value": "Pending",
+        "language_code": "ar"
+    },
+    {
+        "key": "DONE",
+        "value": "DONE",
+        "language_code": "ar"
+    },
+    {
+        "key": "PENDING",
+        "value": "PENDING",
+        "language_code": "ar"
+    },
+    {
+        "key": "Accepted",
+        "value": "Accepted",
+        "language_code": "ar"
+    },
+    {
+        "key": "Confirmed",
+        "value": "Confirmed",
+        "language_code": "ar"
+    },
+    {
+        "key": "Started",
+        "value": "Started",
+        "language_code": "ar"
+    },
+    {
+        "key": "Completed",
+        "value": "Completed",
+        "language_code": "ar"
+    },
+    {
+        "key": "Customer details",
+        "value": "Customer details",
+        "language_code": "ar"
+    },
+    {
+        "key": "Customer ID",
+        "value": "Customer ID",
+        "language_code": "ar"
+    },
+    {
+        "key": "Orders",
+        "value": "Orders",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bookings",
+        "value": "Bookings",
+        "language_code": "ar"
+    },
+    {
+        "key": "State",
+        "value": "State",
+        "language_code": "ar"
+    },
+    {
+        "key": "City",
+        "value": "City",
+        "language_code": "ar"
+    },
+    {
+        "key": "Mobile",
+        "value": "Mobile",
+        "language_code": "ar"
+    },
+    {
+        "key": "Rates",
+        "value": "Rates",
+        "language_code": "ar"
+    },
+    {
+        "key": "Customer address",
+        "value": "Customer address",
+        "language_code": "ar"
+    },
+    {
+        "key": "QR",
+        "value": "QR",
+        "language_code": "ar"
+    },
+    {
+        "key": "New order placed",
+        "value": "New order placed",
+        "language_code": "ar"
+    },
+    {
+        "key": "Temp Attendance",
+        "value": "Temp Attendance",
+        "language_code": "ar"
+    },
+    {
+        "key": "Clear",
+        "value": "Clear",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Product",
+        "value": "Select Product",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Branch",
+        "value": "Select Branch",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Supplier",
+        "value": "Select Supplier",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Tax Type",
+        "value": "Select Tax Type",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Products",
+        "value": "Select Products",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Unit",
+        "value": "Select Unit",
+        "language_code": "ar"
+    },
+    {
+        "key": "Products",
+        "value": "Products",
+        "language_code": "ar"
+    },
+    {
+        "key": "Purchase To Sell",
+        "value": "Purchase To Sell",
+        "language_code": "ar"
+    },
+    {
+        "key": "Convert",
+        "value": "Convert",
+        "language_code": "ar"
+    },
+    {
+        "key": "Purchase Price",
+        "value": "Purchase Price",
+        "language_code": "ar"
+    },
+    {
+        "key": "Quantity",
+        "value": "Quantity",
+        "language_code": "ar"
+    },
+    {
+        "key": "Exchange Price",
+        "value": "Exchange Price",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sell Price",
+        "value": "Sell Price",
+        "language_code": "ar"
+    },
+    {
+        "key": "Expiration Date",
+        "value": "Expiration Date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Expiration date",
+        "value": "Expiration date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Tax Type",
+        "value": "Tax Type",
+        "language_code": "ar"
+    },
+    {
+        "key": "Purchase Bill",
+        "value": "Purchase Bill",
+        "language_code": "ar"
+    },
+    {
+        "key": "Purchase products from your suppliers",
+        "value": "Purchase products from your suppliers",
+        "language_code": "ar"
+    },
+    {
+        "key": "Expenses",
+        "value": "Expenses",
+        "language_code": "ar"
+    },
+    {
+        "key": "Register Exchange bill in your system, electricity, water, etc",
+        "value": "Register Exchange bill in your system, electricity, water, etc",
+        "language_code": "ar"
+    },
+    {
+        "key": "Received",
+        "value": "Received",
+        "language_code": "ar"
+    },
+    {
+        "key": "Profit Percentage",
+        "value": "Profit Percentage",
+        "language_code": "ar"
+    },
+    {
+        "key": "You can change this value from setting page",
+        "value": "You can change this value from setting page",
+        "language_code": "ar"
+    },
+    {
+        "key": "Main Supplier",
+        "value": "Main Supplier",
+        "language_code": "ar"
+    },
+    {
+        "key": "Supplier",
+        "value": "Supplier",
+        "language_code": "ar"
+    },
+    {
+        "key": "BIll Id",
+        "value": "BIll Id",
+        "language_code": "ar"
+    },
+    {
+        "key": "Term",
+        "value": "Term",
+        "language_code": "ar"
+    },
+    {
+        "key": "Payment Type",
+        "value": "Payment Type",
+        "language_code": "ar"
+    },
+    {
+        "key": "Paid",
+        "value": "Paid",
+        "language_code": "ar"
+    },
+    {
+        "key": "paid",
+        "value": "paid",
+        "language_code": "ar"
+    },
+    {
+        "key": "N\/A",
+        "value": "N\/A",
+        "language_code": "ar"
+    },
+    {
+        "key": "Not Received",
+        "value": "Not Received",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bills Debt",
+        "value": "Bills Debt",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Bill",
+        "value": "New Bill",
+        "language_code": "ar"
+    },
+    {
+        "key": "ID",
+        "value": "ID",
+        "language_code": "ar"
+    },
+    {
+        "key": "All Options",
+        "value": "All Options",
+        "language_code": "ar"
+    },
+    {
+        "key": "Expense",
+        "value": "Expense",
+        "language_code": "ar"
+    },
+    {
+        "key": "Left",
+        "value": "Left",
+        "language_code": "ar"
+    },
+    {
+        "key": "Receiving Status",
+        "value": "Receiving Status",
+        "language_code": "ar"
+    },
+    {
+        "key": "Receiving Date",
+        "value": "Receiving Date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Category",
+        "value": "Select Category",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Brand",
+        "value": "Select Brand",
+        "language_code": "ar"
+    },
+    {
+        "key": "SKU",
+        "value": "SKU",
+        "language_code": "ar"
+    },
+    {
+        "key": "sku",
+        "value": "sku",
+        "language_code": "ar"
+    },
+    {
+        "key": "Min Quantity",
+        "value": "Min Quantity",
+        "language_code": "ar"
+    },
+    {
+        "key": "min_quantity",
+        "value": "min_quantity",
+        "language_code": "ar"
+    },
+    {
+        "key": "Refundable",
+        "value": "Refundable",
+        "language_code": "ar"
+    },
+    {
+        "key": "Consumption type",
+        "value": "Consumption type",
+        "language_code": "ar"
+    },
+    {
+        "key": "Brand",
+        "value": "Brand",
+        "language_code": "ar"
+    },
+    {
+        "key": "Category",
+        "value": "Category",
+        "language_code": "ar"
+    },
+    {
+        "key": "Filter Expenses",
+        "value": "Filter Expenses",
+        "language_code": "ar"
+    },
+    {
+        "key": "Filter Suppliers",
+        "value": "Filter Suppliers",
+        "language_code": "ar"
+    },
+    {
+        "key": "Receive",
+        "value": "Receive",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bills",
+        "value": "Bills",
+        "language_code": "ar"
+    },
+    {
+        "key": "Tax",
+        "value": "Tax",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Stock",
+        "value": "Select Stock",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Bill",
+        "value": "Select Bill",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Stocks",
+        "value": "Select Stocks",
+        "language_code": "ar"
+    },
+    {
+        "key": "Stocks",
+        "value": "Stocks",
+        "language_code": "ar"
+    },
+    {
+        "key": "Return Unit",
+        "value": "Return Unit",
+        "language_code": "ar"
+    },
+    {
+        "key": "Piece Price",
+        "value": "Piece Price",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bill",
+        "value": "Bill",
+        "language_code": "ar"
+    },
+    {
+        "key": "Reason",
+        "value": "Reason",
+        "language_code": "ar"
+    },
+    {
+        "key": "Return Reason",
+        "value": "Return Reason",
+        "language_code": "ar"
+    },
+    {
+        "key": "Purchase Quantity",
+        "value": "Purchase Quantity",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bill Returns",
+        "value": "Bill Returns",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Bill Return",
+        "value": "New Bill Return",
+        "language_code": "ar"
+    },
+    {
+        "key": "BIll",
+        "value": "BIll",
+        "language_code": "ar"
+    },
+    {
+        "key": "reason",
+        "value": "reason",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bill details",
+        "value": "Bill details",
+        "language_code": "ar"
+    },
+    {
+        "key": "Purchase Unit",
+        "value": "Purchase Unit",
+        "language_code": "ar"
+    },
+    {
+        "key": "Purchase qty",
+        "value": "Purchase qty",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sell qty",
+        "value": "Sell qty",
+        "language_code": "ar"
+    },
+    {
+        "key": "Initial Payment",
+        "value": "Initial Payment",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bill Payments",
+        "value": "Bill Payments",
+        "language_code": "ar"
+    },
+    {
+        "key": "Left dept",
+        "value": "Left dept",
+        "language_code": "ar"
+    },
+    {
+        "key": "Supplier details",
+        "value": "Supplier details",
+        "language_code": "ar"
+    },
+    {
+        "key": "Address",
+        "value": "Address",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Payment",
+        "value": "New Payment",
+        "language_code": "ar"
+    },
+    {
+        "key": "Static",
+        "value": "Static",
+        "language_code": "ar"
+    },
+    {
+        "key": "Price",
+        "value": "Price",
+        "language_code": "ar"
+    },
+    {
+        "key": "Normal",
+        "value": "Normal",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bill Types",
+        "value": "Bill Types",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Bill Type",
+        "value": "New Bill Type",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Type",
+        "value": "New Type",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Coupon",
+        "value": "Select Coupon",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Customer",
+        "value": "Select Customer",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Employee",
+        "value": "Select Employee",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Services",
+        "value": "Select Services",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bill Preview",
+        "value": "Bill Preview",
+        "language_code": "ar"
+    },
+    {
+        "key": "Services",
+        "value": "Services",
+        "language_code": "ar"
+    },
+    {
+        "key": "Related Products",
+        "value": "Related Products",
+        "language_code": "ar"
+    },
+    {
+        "key": "Extra Fees",
+        "value": "Extra Fees",
+        "language_code": "ar"
+    },
+    {
+        "key": "Total Amount",
+        "value": "Total Amount",
+        "language_code": "ar"
+    },
+    {
+        "key": "Customer",
+        "value": "Customer",
+        "language_code": "ar"
+    },
+    {
+        "key": "Remove",
+        "value": "Remove",
+        "language_code": "ar"
+    },
+    {
+        "key": "address",
+        "value": "address",
+        "language_code": "ar"
+    },
+    {
+        "key": "Location",
+        "value": "Location",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Driver",
+        "value": "Select Driver",
+        "language_code": "ar"
+    },
+    {
+        "key": "Edit Request",
+        "value": "Edit Request",
+        "language_code": "ar"
+    },
+    {
+        "key": "New booking placed",
+        "value": "New booking placed",
+        "language_code": "ar"
+    },
+    {
+        "key": "locale.select_value",
+        "value": "locale.select_value",
+        "language_code": "ar"
+    },
+    {
+        "key": "Booking",
+        "value": "Booking",
+        "language_code": "ar"
+    },
+    {
+        "key": "Edit Booking",
+        "value": "Edit Booking",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bookings Edit Requests",
+        "value": "Bookings Edit Requests",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Booking",
+        "value": "New Booking",
+        "language_code": "ar"
+    },
+    {
+        "key": "Booking ID",
+        "value": "Booking ID",
+        "language_code": "ar"
+    },
+    {
+        "key": "Booking Date",
+        "value": "Booking Date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Request Date",
+        "value": "Request Date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Edit",
+        "value": "Edit",
+        "language_code": "ar"
+    },
+    {
+        "key": "Driver",
+        "value": "Driver",
+        "language_code": "ar"
+    },
+    {
+        "key": "rates",
+        "value": "rates",
+        "language_code": "ar"
+    },
+    {
+        "key": "Application Bookings",
+        "value": "Application Bookings",
+        "language_code": "ar"
+    },
+    {
+        "key": "Reservation Date",
+        "value": "Reservation Date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Created Date",
+        "value": "Created Date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Booking customer location",
+        "value": "Booking customer location",
+        "language_code": "ar"
+    },
+    {
+        "key": "Booking details",
+        "value": "Booking details",
+        "language_code": "ar"
+    },
+    {
+        "key": "Booking Rates",
+        "value": "Booking Rates",
+        "language_code": "ar"
+    },
+    {
+        "key": "Rate AVG",
+        "value": "Rate AVG",
+        "language_code": "ar"
+    },
+    {
+        "key": "Booking statuses",
+        "value": "Booking statuses",
+        "language_code": "ar"
+    },
+    {
+        "key": "Map",
+        "value": "Map",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select City",
+        "value": "Select City",
+        "language_code": "ar"
+    },
+    {
+        "key": "name",
+        "value": "name",
+        "language_code": "ar"
+    },
+    {
+        "key": "Physical",
+        "value": "Physical",
+        "language_code": "ar"
+    },
+    {
+        "key": "Street",
+        "value": "Street",
+        "language_code": "ar"
+    },
+    {
+        "key": "Building",
+        "value": "Building",
+        "language_code": "ar"
+    },
+    {
+        "key": "Branches",
+        "value": "Branches",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Branch",
+        "value": "New Branch",
+        "language_code": "ar"
+    },
+    {
+        "key": "Join date:",
+        "value": "Join date:",
+        "language_code": "ar"
+    },
+    {
+        "key": "Wallet",
+        "value": "Wallet",
+        "language_code": "ar"
+    },
+    {
+        "key": "Transaction",
+        "value": "Transaction",
+        "language_code": "ar"
+    },
+    {
+        "key": "Balance",
+        "value": "Balance",
+        "language_code": "ar"
+    },
+    {
+        "key": "Currency",
+        "value": "Currency",
+        "language_code": "ar"
+    },
+    {
+        "key": "Shipping address",
+        "value": "Shipping address",
+        "language_code": "ar"
+    },
+    {
+        "key": "Address location",
+        "value": "Address location",
+        "language_code": "ar"
+    },
+    {
+        "key": "Brands",
+        "value": "Brands",
+        "language_code": "ar"
+    },
+    {
+        "key": "New brand",
+        "value": "New brand",
+        "language_code": "ar"
+    },
+    {
+        "key": "Product count",
+        "value": "Product count",
+        "language_code": "ar"
+    },
+    {
+        "key": "Customer has been added",
+        "value": "Customer has been added",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Service",
+        "value": "Select Service",
+        "language_code": "ar"
+    },
+    {
+        "key": "Selection",
+        "value": "Selection",
+        "language_code": "ar"
+    },
+    {
+        "key": "Create Order",
+        "value": "Create Order",
+        "language_code": "ar"
+    },
+    {
+        "key": "Orderable",
+        "value": "Orderable",
+        "language_code": "ar"
+    },
+    {
+        "key": "Click to view customer purchase history",
+        "value": "Click to view customer purchase history",
+        "language_code": "ar"
+    },
+    {
+        "key": "Customer History",
+        "value": "Customer History",
+        "language_code": "ar"
+    },
+    {
+        "key": "Branch",
+        "value": "Branch",
+        "language_code": "ar"
+    },
+    {
+        "key": "Tax Included",
+        "value": "Tax Included",
+        "language_code": "ar"
+    },
+    {
+        "key": "Payments",
+        "value": "Payments",
+        "language_code": "ar"
+    },
+    {
+        "key": "Replace Points",
+        "value": "Replace Points",
+        "language_code": "ar"
+    },
+    {
+        "key": "Remaining",
+        "value": "Remaining",
+        "language_code": "ar"
+    },
+    {
+        "key": "Submit",
+        "value": "Submit",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Customer",
+        "value": "New Customer",
+        "language_code": "ar"
+    },
+    {
+        "key": "Return",
+        "value": "Return",
+        "language_code": "ar"
+    },
+    {
+        "key": "Cafeteria Orders",
+        "value": "Cafeteria Orders",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Order",
+        "value": "New Order",
+        "language_code": "ar"
+    },
+    {
+        "key": "Created",
+        "value": "Created",
+        "language_code": "ar"
+    },
+    {
+        "key": "Tax Not Included",
+        "value": "Tax Not Included",
+        "language_code": "ar"
+    },
+    {
+        "key": "Split Payments",
+        "value": "Split Payments",
+        "language_code": "ar"
+    },
+    {
+        "key": "Split Months Count",
+        "value": "Split Months Count",
+        "language_code": "ar"
+    },
+    {
+        "key": "Due Date",
+        "value": "Due Date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Due date",
+        "value": "Due date",
+        "language_code": "ar"
+    },
+    {
+        "key": "End Date",
+        "value": "End Date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Session",
+        "value": "Session",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sessions Count",
+        "value": "Sessions Count",
+        "language_code": "ar"
+    },
+    {
+        "key": "Update Order",
+        "value": "Update Order",
+        "language_code": "ar"
+    },
+    {
+        "key": "Add service",
+        "value": "Add service",
+        "language_code": "ar"
+    },
+    {
+        "key": "Add product",
+        "value": "Add product",
+        "language_code": "ar"
+    },
+    {
+        "key": "Postponed due date",
+        "value": "Postponed due date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Cash Withdrawals",
+        "value": "Cash Withdrawals",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Cash Withdrawal",
+        "value": "New Cash Withdrawal",
+        "language_code": "ar"
+    },
+    {
+        "key": "All Types",
+        "value": "All Types",
+        "language_code": "ar"
+    },
+    {
+        "key": "Created At",
+        "value": "Created At",
+        "language_code": "ar"
+    },
+    {
+        "key": "Action",
+        "value": "Action",
+        "language_code": "ar"
+    },
+    {
+        "key": "Parent",
+        "value": "Parent",
+        "language_code": "ar"
+    },
+    {
+        "key": "Visible",
+        "value": "Visible",
+        "language_code": "ar"
+    },
+    {
+        "key": "Invisible",
+        "value": "Invisible",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sons",
+        "value": "Sons",
+        "language_code": "ar"
+    },
+    {
+        "key": "Categories",
+        "value": "Categories",
+        "language_code": "ar"
+    },
+    {
+        "key": "Home",
+        "value": "Home",
+        "language_code": "ar"
+    },
+    {
+        "key": "Cities",
+        "value": "Cities",
+        "language_code": "ar"
+    },
+    {
+        "key": "New City",
+        "value": "New City",
+        "language_code": "ar"
+    },
+    {
+        "key": "code",
+        "value": "code",
+        "language_code": "ar"
+    },
+    {
+        "key": "All Services",
+        "value": "All Services",
+        "language_code": "ar"
+    },
+    {
+        "key": "All Products",
+        "value": "All Products",
+        "language_code": "ar"
+    },
+    {
+        "key": "Discount Percentage",
+        "value": "Discount Percentage",
+        "language_code": "ar"
+    },
+    {
+        "key": "discount",
+        "value": "discount",
+        "language_code": "ar"
+    },
+    {
+        "key": "From",
+        "value": "From",
+        "language_code": "ar"
+    },
+    {
+        "key": "From Date",
+        "value": "From Date",
+        "language_code": "ar"
+    },
+    {
+        "key": "To",
+        "value": "To",
+        "language_code": "ar"
+    },
+    {
+        "key": "To Date",
+        "value": "To Date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Coupons",
+        "value": "Coupons",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Coupon",
+        "value": "New Coupon",
+        "language_code": "ar"
+    },
+    {
+        "key": "Stock",
+        "value": "Stock",
+        "language_code": "ar"
+    },
+    {
+        "key": "quantity",
+        "value": "quantity",
+        "language_code": "ar"
+    },
+    {
+        "key": "Waste Custody",
+        "value": "Waste Custody",
+        "language_code": "ar"
+    },
+    {
+        "key": "Waste",
+        "value": "Waste",
+        "language_code": "ar"
+    },
+    {
+        "key": "Return Custody",
+        "value": "Return Custody",
+        "language_code": "ar"
+    },
+    {
+        "key": "Custodies",
+        "value": "Custodies",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Custody",
+        "value": "New Custody",
+        "language_code": "ar"
+    },
+    {
+        "key": "Product",
+        "value": "Product",
+        "language_code": "ar"
+    },
+    {
+        "key": "Qty",
+        "value": "Qty",
+        "language_code": "ar"
+    },
+    {
+        "key": "status",
+        "value": "status",
+        "language_code": "ar"
+    },
+    {
+        "key": "Custody",
+        "value": "Custody",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bought Service",
+        "value": "Bought Service",
+        "language_code": "ar"
+    },
+    {
+        "key": "Points",
+        "value": "Points",
+        "language_code": "ar"
+    },
+    {
+        "key": "Listed Orders",
+        "value": "Listed Orders",
+        "language_code": "ar"
+    },
+    {
+        "key": "Customers",
+        "value": "Customers",
+        "language_code": "ar"
+    },
+    {
+        "key": "Date Range",
+        "value": "Date Range",
+        "language_code": "ar"
+    },
+    {
+        "key": "Service Bought",
+        "value": "Service Bought",
+        "language_code": "ar"
+    },
+    {
+        "key": "Last Visit",
+        "value": "Last Visit",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Nationality",
+        "value": "Select Nationality",
+        "language_code": "ar"
+    },
+    {
+        "key": "Nationality",
+        "value": "Nationality",
+        "language_code": "ar"
+    },
+    {
+        "key": "Birthday",
+        "value": "Birthday",
+        "language_code": "ar"
+    },
+    {
+        "key": "Residence Number",
+        "value": "Residence Number",
+        "language_code": "ar"
+    },
+    {
+        "key": "Residence Expiration",
+        "value": "Residence Expiration",
+        "language_code": "ar"
+    },
+    {
+        "key": "Insurance Company",
+        "value": "Insurance Company",
+        "language_code": "ar"
+    },
+    {
+        "key": "Insurance Number",
+        "value": "Insurance Number",
+        "language_code": "ar"
+    },
+    {
+        "key": "Insurance Expiration",
+        "value": "Insurance Expiration",
+        "language_code": "ar"
+    },
+    {
+        "key": "Insurance Card Expiration",
+        "value": "Insurance Card Expiration",
+        "language_code": "ar"
+    },
+    {
+        "key": "Vacation Days",
+        "value": "Vacation Days",
+        "language_code": "ar"
+    },
+    {
+        "key": "Holiday",
+        "value": "Holiday",
+        "language_code": "ar"
+    },
+    {
+        "key": "Filter Job",
+        "value": "Filter Job",
+        "language_code": "ar"
+    },
+    {
+        "key": "Trips",
+        "value": "Trips",
+        "language_code": "ar"
+    },
+    {
+        "key": "Drivers",
+        "value": "Drivers",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Driver",
+        "value": "New Driver",
+        "language_code": "ar"
+    },
+    {
+        "key": "Archive",
+        "value": "Archive",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Job",
+        "value": "Select Job",
+        "language_code": "ar"
+    },
+    {
+        "key": "Employee No",
+        "value": "Employee No",
+        "language_code": "ar"
+    },
+    {
+        "key": "Fingerprit device",
+        "value": "Fingerprit device",
+        "language_code": "ar"
+    },
+    {
+        "key": "Job",
+        "value": "Job",
+        "language_code": "ar"
+    },
+    {
+        "key": "Start Working",
+        "value": "Start Working",
+        "language_code": "ar"
+    },
+    {
+        "key": "Health Number",
+        "value": "Health Number",
+        "language_code": "ar"
+    },
+    {
+        "key": "Passport Number",
+        "value": "Passport Number",
+        "language_code": "ar"
+    },
+    {
+        "key": "Passport Expiration",
+        "value": "Passport Expiration",
+        "language_code": "ar"
+    },
+    {
+        "key": "Start Work",
+        "value": "Start Work",
+        "language_code": "ar"
+    },
+    {
+        "key": "Filter Nationality",
+        "value": "Filter Nationality",
+        "language_code": "ar"
+    },
+    {
+        "key": "Show",
+        "value": "Show",
+        "language_code": "ar"
+    },
+    {
+        "key": "Salary & Percentage",
+        "value": "Salary & Percentage",
+        "language_code": "ar"
+    },
+    {
+        "key": "Vacations",
+        "value": "Vacations",
+        "language_code": "ar"
+    },
+    {
+        "key": "Management",
+        "value": "Management",
+        "language_code": "ar"
+    },
+    {
+        "key": "Procurement",
+        "value": "Procurement",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sales",
+        "value": "Sales",
+        "language_code": "ar"
+    },
+    {
+        "key": "Staff",
+        "value": "Staff",
+        "language_code": "ar"
+    },
+    {
+        "key": "Warehouse",
+        "value": "Warehouse",
+        "language_code": "ar"
+    },
+    {
+        "key": "Financial",
+        "value": "Financial",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Employee",
+        "value": "New Employee",
+        "language_code": "ar"
+    },
+    {
+        "key": "Taken Vacations",
+        "value": "Taken Vacations",
+        "language_code": "ar"
+    },
+    {
+        "key": "Left Vacations",
+        "value": "Left Vacations",
+        "language_code": "ar"
+    },
+    {
+        "key": "Start Date",
+        "value": "Start Date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Residence Expires",
+        "value": "Residence Expires",
+        "language_code": "ar"
+    },
+    {
+        "key": "Insurance Expires",
+        "value": "Insurance Expires",
+        "language_code": "ar"
+    },
+    {
+        "key": "Insurance Card Expires",
+        "value": "Insurance Card Expires",
+        "language_code": "ar"
+    },
+    {
+        "key": "Passport Expires",
+        "value": "Passport Expires",
+        "language_code": "ar"
+    },
+    {
+        "key": "Employees Import",
+        "value": "Employees Import",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sliders",
+        "value": "Sliders",
+        "language_code": "ar"
+    },
+    {
+        "key": "Employee Profit Settings",
+        "value": "Employee Profit Settings",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Setting",
+        "value": "New Setting",
+        "language_code": "ar"
+    },
+    {
+        "key": "Employee Minimum Profit",
+        "value": "Employee Minimum Profit",
+        "language_code": "ar"
+    },
+    {
+        "key": "Employee Profit Percentage",
+        "value": "Employee Profit Percentage",
+        "language_code": "ar"
+    },
+    {
+        "key": "View",
+        "value": "View",
+        "language_code": "ar"
+    },
+    {
+        "key": "Archived",
+        "value": "Archived",
+        "language_code": "ar"
+    },
+    {
+        "key": "Active",
+        "value": "Active",
+        "language_code": "ar"
+    },
+    {
+        "key": "Rule",
+        "value": "Rule",
+        "language_code": "ar"
+    },
+    {
+        "key": "Annual Vacations",
+        "value": "Annual Vacations",
+        "language_code": "ar"
+    },
+    {
+        "key": "Round Vacations",
+        "value": "Round Vacations",
+        "language_code": "ar"
+    },
+    {
+        "key": "Days",
+        "value": "Days",
+        "language_code": "ar"
+    },
+    {
+        "key": "Rejecting Reason",
+        "value": "Rejecting Reason",
+        "language_code": "ar"
+    },
+    {
+        "key": "Salaries",
+        "value": "Salaries",
+        "language_code": "ar"
+    },
+    {
+        "key": "Month",
+        "value": "Month",
+        "language_code": "ar"
+    },
+    {
+        "key": "Base Salary",
+        "value": "Base Salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "Working Hours",
+        "value": "Working Hours",
+        "language_code": "ar"
+    },
+    {
+        "key": "Rounded Hours",
+        "value": "Rounded Hours",
+        "language_code": "ar"
+    },
+    {
+        "key": "Total Paid",
+        "value": "Total Paid",
+        "language_code": "ar"
+    },
+    {
+        "key": "Total Extra",
+        "value": "Total Extra",
+        "language_code": "ar"
+    },
+    {
+        "key": "Total Deductions",
+        "value": "Total Deductions",
+        "language_code": "ar"
+    },
+    {
+        "key": "Target",
+        "value": "Target",
+        "language_code": "ar"
+    },
+    {
+        "key": "Target Total",
+        "value": "Target Total",
+        "language_code": "ar"
+    },
+    {
+        "key": "Profit",
+        "value": "Profit",
+        "language_code": "ar"
+    },
+    {
+        "key": "Overtime",
+        "value": "Overtime",
+        "language_code": "ar"
+    },
+    {
+        "key": "Gifts",
+        "value": "Gifts",
+        "language_code": "ar"
+    },
+    {
+        "key": "Advance",
+        "value": "Advance",
+        "language_code": "ar"
+    },
+    {
+        "key": "Deductions",
+        "value": "Deductions",
+        "language_code": "ar"
+    },
+    {
+        "key": "Cache Vacations",
+        "value": "Cache Vacations",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Section",
+        "value": "Select Section",
+        "language_code": "ar"
+    },
+    {
+        "key": "Section",
+        "value": "Section",
+        "language_code": "ar"
+    },
+    {
+        "key": "title",
+        "value": "title",
+        "language_code": "ar"
+    },
+    {
+        "key": "Jobs",
+        "value": "Jobs",
+        "language_code": "ar"
+    },
+    {
+        "key": "New job",
+        "value": "New job",
+        "language_code": "ar"
+    },
+    {
+        "key": "Customers` Points",
+        "value": "Customers` Points",
+        "language_code": "ar"
+    },
+    {
+        "key": "New rate",
+        "value": "New rate",
+        "language_code": "ar"
+    },
+    {
+        "key": "Model",
+        "value": "Model",
+        "language_code": "ar"
+    },
+    {
+        "key": "Loyalty Settings",
+        "value": "Loyalty Settings",
+        "language_code": "ar"
+    },
+    {
+        "key": "Cash",
+        "value": "Cash",
+        "language_code": "ar"
+    },
+    {
+        "key": "points",
+        "value": "points",
+        "language_code": "ar"
+    },
+    {
+        "key": "return",
+        "value": "return",
+        "language_code": "ar"
+    },
+    {
+        "key": "Delivery Fees",
+        "value": "Delivery Fees",
+        "language_code": "ar"
+    },
+    {
+        "key": "Municipals",
+        "value": "Municipals",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Municipal",
+        "value": "New Municipal",
+        "language_code": "ar"
+    },
+    {
+        "key": "Country",
+        "value": "Country",
+        "language_code": "ar"
+    },
+    {
+        "key": "country",
+        "value": "country",
+        "language_code": "ar"
+    },
+    {
+        "key": "Nationalities",
+        "value": "Nationalities",
+        "language_code": "ar"
+    },
+    {
+        "key": "New nationality",
+        "value": "New nationality",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Users",
+        "value": "Select Users",
+        "language_code": "ar"
+    },
+    {
+        "key": "Body",
+        "value": "Body",
+        "language_code": "ar"
+    },
+    {
+        "key": "All",
+        "value": "All",
+        "language_code": "ar"
+    },
+    {
+        "key": "Specific users",
+        "value": "Specific users",
+        "language_code": "ar"
+    },
+    {
+        "key": "Users",
+        "value": "Users",
+        "language_code": "ar"
+    },
+    {
+        "key": "Dashboard",
+        "value": "Dashboard",
+        "language_code": "ar"
+    },
+    {
+        "key": "Notifications",
+        "value": "Notifications",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Notification",
+        "value": "New Notification",
+        "language_code": "ar"
+    },
+    {
+        "key": "Source",
+        "value": "Source",
+        "language_code": "ar"
+    },
+    {
+        "key": "Customer has",
+        "value": "Customer has",
+        "language_code": "ar"
+    },
+    {
+        "key": "point",
+        "value": "point",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Package",
+        "value": "Select Package",
+        "language_code": "ar"
+    },
+    {
+        "key": "package",
+        "value": "package",
+        "language_code": "ar"
+    },
+    {
+        "key": "Package",
+        "value": "Package",
+        "language_code": "ar"
+    },
+    {
+        "key": "Packages",
+        "value": "Packages",
+        "language_code": "ar"
+    },
+    {
+        "key": "Admin Gift",
+        "value": "Admin Gift",
+        "language_code": "ar"
+    },
+    {
+        "key": "Gift",
+        "value": "Gift",
+        "language_code": "ar"
+    },
+    {
+        "key": "Gifter",
+        "value": "Gifter",
+        "language_code": "ar"
+    },
+    {
+        "key": "Admin",
+        "value": "Admin",
+        "language_code": "ar"
+    },
+    {
+        "key": "Not Gift",
+        "value": "Not Gift",
+        "language_code": "ar"
+    },
+    {
+        "key": "Complete",
+        "value": "Complete",
+        "language_code": "ar"
+    },
+    {
+        "key": "Postpone",
+        "value": "Postpone",
+        "language_code": "ar"
+    },
+    {
+        "key": "Application Orders",
+        "value": "Application Orders",
+        "language_code": "ar"
+    },
+    {
+        "key": "Todays Orders",
+        "value": "Todays Orders",
+        "language_code": "ar"
+    },
+    {
+        "key": "Total Customers",
+        "value": "Total Customers",
+        "language_code": "ar"
+    },
+    {
+        "key": "Services Status",
+        "value": "Services Status",
+        "language_code": "ar"
+    },
+    {
+        "key": "Gift End Date",
+        "value": "Gift End Date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Status changed",
+        "value": "Status changed",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order Status",
+        "value": "Order Status",
+        "language_code": "ar"
+    },
+    {
+        "key": "Service detail",
+        "value": "Service detail",
+        "language_code": "ar"
+    },
+    {
+        "key": "Session Count",
+        "value": "Session Count",
+        "language_code": "ar"
+    },
+    {
+        "key": "Left Sessions",
+        "value": "Left Sessions",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sessions",
+        "value": "Sessions",
+        "language_code": "ar"
+    },
+    {
+        "key": "Click to change session employee",
+        "value": "Click to change session employee",
+        "language_code": "ar"
+    },
+    {
+        "key": "Click to add session employee",
+        "value": "Click to add session employee",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Session",
+        "value": "New Session",
+        "language_code": "ar"
+    },
+    {
+        "key": "Edit Session Employee",
+        "value": "Edit Session Employee",
+        "language_code": "ar"
+    },
+    {
+        "key": "View Order",
+        "value": "View Order",
+        "language_code": "ar"
+    },
+    {
+        "key": "Notification",
+        "value": "Notification",
+        "language_code": "ar"
+    },
+    {
+        "key": "Whatsapp",
+        "value": "Whatsapp",
+        "language_code": "ar"
+    },
+    {
+        "key": "Service Price",
+        "value": "Service Price",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order Date",
+        "value": "Order Date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order Service Postpone",
+        "value": "Order Service Postpone",
+        "language_code": "ar"
+    },
+    {
+        "key": "Services detail",
+        "value": "Services detail",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Reason",
+        "value": "Select Reason",
+        "language_code": "ar"
+    },
+    {
+        "key": "Rate detail",
+        "value": "Rate detail",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order Service Return",
+        "value": "Order Service Return",
+        "language_code": "ar"
+    },
+    {
+        "key": "Payment",
+        "value": "Payment",
+        "language_code": "ar"
+    },
+    {
+        "key": "Click to change service employee",
+        "value": "Click to change service employee",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Package",
+        "value": "New Package",
+        "language_code": "ar"
+    },
+    {
+        "key": "Start date",
+        "value": "Start date",
+        "language_code": "ar"
+    },
+    {
+        "key": "End date",
+        "value": "End date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sell Unit",
+        "value": "Sell Unit",
+        "language_code": "ar"
+    },
+    {
+        "key": "Purchase price",
+        "value": "Purchase price",
+        "language_code": "ar"
+    },
+    {
+        "key": "Retail Price",
+        "value": "Retail Price",
+        "language_code": "ar"
+    },
+    {
+        "key": "Retail price",
+        "value": "Retail price",
+        "language_code": "ar"
+    },
+    {
+        "key": "Barcode",
+        "value": "Barcode",
+        "language_code": "ar"
+    },
+    {
+        "key": "barcode",
+        "value": "barcode",
+        "language_code": "ar"
+    },
+    {
+        "key": "expiration_date",
+        "value": "expiration_date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Consumption Type",
+        "value": "Consumption Type",
+        "language_code": "ar"
+    },
+    {
+        "key": "Yes",
+        "value": "Yes",
+        "language_code": "ar"
+    },
+    {
+        "key": "No",
+        "value": "No",
+        "language_code": "ar"
+    },
+    {
+        "key": "New product",
+        "value": "New product",
+        "language_code": "ar"
+    },
+    {
+        "key": "Products Import",
+        "value": "Products Import",
+        "language_code": "ar"
+    },
+    {
+        "key": "Rate Reasons",
+        "value": "Rate Reasons",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Rate Reason",
+        "value": "New Rate Reason",
+        "language_code": "ar"
+    },
+    {
+        "key": "Rates count",
+        "value": "Rates count",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Reason",
+        "value": "New Reason",
+        "language_code": "ar"
+    },
+    {
+        "key": "Model Record",
+        "value": "Model Record",
+        "language_code": "ar"
+    },
+    {
+        "key": "User",
+        "value": "User",
+        "language_code": "ar"
+    },
+    {
+        "key": "Model Name",
+        "value": "Model Name",
+        "language_code": "ar"
+    },
+    {
+        "key": "Model Id",
+        "value": "Model Id",
+        "language_code": "ar"
+    },
+    {
+        "key": "Filter Product",
+        "value": "Filter Product",
+        "language_code": "ar"
+    },
+    {
+        "key": "CSV only support english characters use Excel for arabic",
+        "value": "CSV only support english characters use Excel for arabic",
+        "language_code": "ar"
+    },
+    {
+        "key": "Total Vacations",
+        "value": "Total Vacations",
+        "language_code": "ar"
+    },
+    {
+        "key": "Used Vacations",
+        "value": "Used Vacations",
+        "language_code": "ar"
+    },
+    {
+        "key": "Total Left Vacations",
+        "value": "Total Left Vacations",
+        "language_code": "ar"
+    },
+    {
+        "key": "Employee Target",
+        "value": "Employee Target",
+        "language_code": "ar"
+    },
+    {
+        "key": "Target Reached",
+        "value": "Target Reached",
+        "language_code": "ar"
+    },
+    {
+        "key": "Profit Total",
+        "value": "Profit Total",
+        "language_code": "ar"
+    },
+    {
+        "key": "Total Deduction",
+        "value": "Total Deduction",
+        "language_code": "ar"
+    },
+    {
+        "key": "Department",
+        "value": "Department",
+        "language_code": "ar"
+    },
+    {
+        "key": "All Departments",
+        "value": "All Departments",
+        "language_code": "ar"
+    },
+    {
+        "key": "Count",
+        "value": "Count",
+        "language_code": "ar"
+    },
+    {
+        "key": "Cash Flow",
+        "value": "Cash Flow",
+        "language_code": "ar"
+    },
+    {
+        "key": "BOTH",
+        "value": "BOTH",
+        "language_code": "ar"
+    },
+    {
+        "key": "Salaraies",
+        "value": "Salaraies",
+        "language_code": "ar"
+    },
+    {
+        "key": "Total Tax",
+        "value": "Total Tax",
+        "language_code": "ar"
+    },
+    {
+        "key": "Purshases",
+        "value": "Purshases",
+        "language_code": "ar"
+    },
+    {
+        "key": "Salon Order",
+        "value": "Salon Order",
+        "language_code": "ar"
+    },
+    {
+        "key": "Booking Order",
+        "value": "Booking Order",
+        "language_code": "ar"
+    },
+    {
+        "key": "BOOKING",
+        "value": "BOOKING",
+        "language_code": "ar"
+    },
+    {
+        "key": "CAFETERIA",
+        "value": "CAFETERIA",
+        "language_code": "ar"
+    },
+    {
+        "key": "Returns",
+        "value": "Returns",
+        "language_code": "ar"
+    },
+    {
+        "key": "SALON",
+        "value": "SALON",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order Packages",
+        "value": "Order Packages",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order Count",
+        "value": "Order Count",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order Total",
+        "value": "Order Total",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order Tax",
+        "value": "Order Tax",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bill Count",
+        "value": "Bill Count",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bill Total",
+        "value": "Bill Total",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bill Tax",
+        "value": "Bill Tax",
+        "language_code": "ar"
+    },
+    {
+        "key": "Total Products",
+        "value": "Total Products",
+        "language_code": "ar"
+    },
+    {
+        "key": "Total Services",
+        "value": "Total Services",
+        "language_code": "ar"
+    },
+    {
+        "key": "Current Price",
+        "value": "Current Price",
+        "language_code": "ar"
+    },
+    {
+        "key": "Total Count",
+        "value": "Total Count",
+        "language_code": "ar"
+    },
+    {
+        "key": "Total Price",
+        "value": "Total Price",
+        "language_code": "ar"
+    },
+    {
+        "key": "Filter Supplier",
+        "value": "Filter Supplier",
+        "language_code": "ar"
+    },
+    {
+        "key": "Suppliers",
+        "value": "Suppliers",
+        "language_code": "ar"
+    },
+    {
+        "key": "Company",
+        "value": "Company",
+        "language_code": "ar"
+    },
+    {
+        "key": "Tax Number",
+        "value": "Tax Number",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bank Number",
+        "value": "Bank Number",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bill Counts",
+        "value": "Bill Counts",
+        "language_code": "ar"
+    },
+    {
+        "key": "Dept",
+        "value": "Dept",
+        "language_code": "ar"
+    },
+    {
+        "key": "Trial Balance",
+        "value": "Trial Balance",
+        "language_code": "ar"
+    },
+    {
+        "key": "Account",
+        "value": "Account",
+        "language_code": "ar"
+    },
+    {
+        "key": "Deptor",
+        "value": "Deptor",
+        "language_code": "ar"
+    },
+    {
+        "key": "Creditor",
+        "value": "Creditor",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Role",
+        "value": "New Role",
+        "language_code": "ar"
+    },
+    {
+        "key": "Role name",
+        "value": "Role name",
+        "language_code": "ar"
+    },
+    {
+        "key": "Role permissions",
+        "value": "Role permissions",
+        "language_code": "ar"
+    },
+    {
+        "key": "Allow full access",
+        "value": "Allow full access",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select all",
+        "value": "Select all",
+        "language_code": "ar"
+    },
+    {
+        "key": "Role users",
+        "value": "Role users",
+        "language_code": "ar"
+    },
+    {
+        "key": "New role",
+        "value": "New role",
+        "language_code": "ar"
+    },
+    {
+        "key": "Add new role",
+        "value": "Add new role",
+        "language_code": "ar"
+    },
+    {
+        "key": "Monthly Target",
+        "value": "Monthly Target",
+        "language_code": "ar"
+    },
+    {
+        "key": "All Employees",
+        "value": "All Employees",
+        "language_code": "ar"
+    },
+    {
+        "key": "Generated Salaries",
+        "value": "Generated Salaries",
+        "language_code": "ar"
+    },
+    {
+        "key": "Generate Salaries",
+        "value": "Generate Salaries",
+        "language_code": "ar"
+    },
+    {
+        "key": "Close Salary",
+        "value": "Close Salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Salary",
+        "value": "New Salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Sub Categories",
+        "value": "Select Sub Categories",
+        "language_code": "ar"
+    },
+    {
+        "key": "Required",
+        "value": "Required",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sub Categories",
+        "value": "Sub Categories",
+        "language_code": "ar"
+    },
+    {
+        "key": "Has Terms",
+        "value": "Has Terms",
+        "language_code": "ar"
+    },
+    {
+        "key": "Terms",
+        "value": "Terms",
+        "language_code": "ar"
+    },
+    {
+        "key": "New service",
+        "value": "New service",
+        "language_code": "ar"
+    },
+    {
+        "key": "Parent Service",
+        "value": "Parent Service",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Service",
+        "value": "New Service",
+        "language_code": "ar"
+    },
+    {
+        "key": "Settings",
+        "value": "Settings",
+        "language_code": "ar"
+    },
+    {
+        "key": "Appear in the app",
+        "value": "Appear in the app",
+        "language_code": "ar"
+    },
+    {
+        "key": "New setting",
+        "value": "New setting",
+        "language_code": "ar"
+    },
+    {
+        "key": "Key",
+        "value": "Key",
+        "language_code": "ar"
+    },
+    {
+        "key": "Instagram",
+        "value": "Instagram",
+        "language_code": "ar"
+    },
+    {
+        "key": "Snap Chat",
+        "value": "Snap Chat",
+        "language_code": "ar"
+    },
+    {
+        "key": "Tik Tok",
+        "value": "Tik Tok",
+        "language_code": "ar"
+    },
+    {
+        "key": "Youtube",
+        "value": "Youtube",
+        "language_code": "ar"
+    },
+    {
+        "key": "Privacy policy",
+        "value": "Privacy policy",
+        "language_code": "ar"
+    },
+    {
+        "key": "Terms and conditions",
+        "value": "Terms and conditions",
+        "language_code": "ar"
+    },
+    {
+        "key": "About us",
+        "value": "About us",
+        "language_code": "ar"
+    },
+    {
+        "key": "Start Break",
+        "value": "Start Break",
+        "language_code": "ar"
+    },
+    {
+        "key": "End Break",
+        "value": "End Break",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Shift",
+        "value": "Select Shift",
+        "language_code": "ar"
+    },
+    {
+        "key": "Shifts",
+        "value": "Shifts",
+        "language_code": "ar"
+    },
+    {
+        "key": "Assign Shift",
+        "value": "Assign Shift",
+        "language_code": "ar"
+    },
+    {
+        "key": "Day",
+        "value": "Day",
+        "language_code": "ar"
+    },
+    {
+        "key": "Duplicate",
+        "value": "Duplicate",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Shift",
+        "value": "New Shift",
+        "language_code": "ar"
+    },
+    {
+        "key": "End Hours",
+        "value": "End Hours",
+        "language_code": "ar"
+    },
+    {
+        "key": "Shift Employees",
+        "value": "Shift Employees",
+        "language_code": "ar"
+    },
+    {
+        "key": "Add Employees",
+        "value": "Add Employees",
+        "language_code": "ar"
+    },
+    {
+        "key": "Total Employees",
+        "value": "Total Employees",
+        "language_code": "ar"
+    },
+    {
+        "key": "Shift details",
+        "value": "Shift details",
+        "language_code": "ar"
+    },
+    {
+        "key": "Break Hours",
+        "value": "Break Hours",
+        "language_code": "ar"
+    },
+    {
+        "key": "States",
+        "value": "States",
+        "language_code": "ar"
+    },
+    {
+        "key": "New State",
+        "value": "New State",
+        "language_code": "ar"
+    },
+    {
+        "key": "Cities count",
+        "value": "Cities count",
+        "language_code": "ar"
+    },
+    {
+        "key": "Branches count",
+        "value": "Branches count",
+        "language_code": "ar"
+    },
+    {
+        "key": "Withdraw",
+        "value": "Withdraw",
+        "language_code": "ar"
+    },
+    {
+        "key": "Min Qty",
+        "value": "Min Qty",
+        "language_code": "ar"
+    },
+    {
+        "key": "Unit",
+        "value": "Unit",
+        "language_code": "ar"
+    },
+    {
+        "key": "Stock Import",
+        "value": "Stock Import",
+        "language_code": "ar"
+    },
+    {
+        "key": "Filter Type",
+        "value": "Filter Type",
+        "language_code": "ar"
+    },
+    {
+        "key": "Withdrawals",
+        "value": "Withdrawals",
+        "language_code": "ar"
+    },
+    {
+        "key": "Number",
+        "value": "Number",
+        "language_code": "ar"
+    },
+    {
+        "key": "IBAN",
+        "value": "IBAN",
+        "language_code": "ar"
+    },
+    {
+        "key": "company",
+        "value": "company",
+        "language_code": "ar"
+    },
+    {
+        "key": "Tax number",
+        "value": "Tax number",
+        "language_code": "ar"
+    },
+    {
+        "key": "Link",
+        "value": "Link",
+        "language_code": "ar"
+    },
+    {
+        "key": "bank_number",
+        "value": "bank_number",
+        "language_code": "ar"
+    },
+    {
+        "key": "Cards",
+        "value": "Cards",
+        "language_code": "ar"
+    },
+    {
+        "key": "Add Card",
+        "value": "Add Card",
+        "language_code": "ar"
+    },
+    {
+        "key": "Debts",
+        "value": "Debts",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Supplier",
+        "value": "New Supplier",
+        "language_code": "ar"
+    },
+    {
+        "key": "Tasks",
+        "value": "Tasks",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Task",
+        "value": "New Task",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Account",
+        "value": "Select Account",
+        "language_code": "ar"
+    },
+    {
+        "key": "Transactions",
+        "value": "Transactions",
+        "language_code": "ar"
+    },
+    {
+        "key": "From Account",
+        "value": "From Account",
+        "language_code": "ar"
+    },
+    {
+        "key": "Withdraw stock",
+        "value": "Withdraw stock",
+        "language_code": "ar"
+    },
+    {
+        "key": "dashboard.Translations",
+        "value": "dashboard.Translations",
+        "language_code": "ar"
+    },
+    {
+        "key": "dashboard.Title",
+        "value": "dashboard.Title",
+        "language_code": "ar"
+    },
+    {
+        "key": "dashboard.Submit",
+        "value": "dashboard.Submit",
+        "language_code": "ar"
+    },
+    {
+        "key": "Translations",
+        "value": "Translations",
+        "language_code": "ar"
+    },
+    {
+        "key": "Choose language",
+        "value": "Choose language",
+        "language_code": "ar"
+    },
+    {
+        "key": "Translation key",
+        "value": "Translation key",
+        "language_code": "ar"
+    },
+    {
+        "key": "Search",
+        "value": "Search",
+        "language_code": "ar"
+    },
+    {
+        "key": "Auto Translate",
+        "value": "Auto Translate",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Booking",
+        "value": "Select Booking",
+        "language_code": "ar"
+    },
+    {
+        "key": "General",
+        "value": "General",
+        "language_code": "ar"
+    },
+    {
+        "key": "description",
+        "value": "description",
+        "language_code": "ar"
+    },
+    {
+        "key": "From Description",
+        "value": "From Description",
+        "language_code": "ar"
+    },
+    {
+        "key": "Trip From - To",
+        "value": "Trip From - To",
+        "language_code": "ar"
+    },
+    {
+        "key": "Filter Driver",
+        "value": "Filter Driver",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Trip",
+        "value": "New Trip",
+        "language_code": "ar"
+    },
+    {
+        "key": "Parent Unit",
+        "value": "Parent Unit",
+        "language_code": "ar"
+    },
+    {
+        "key": "Factor",
+        "value": "Factor",
+        "language_code": "ar"
+    },
+    {
+        "key": "factor",
+        "value": "factor",
+        "language_code": "ar"
+    },
+    {
+        "key": "Units",
+        "value": "Units",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Unit",
+        "value": "New Unit",
+        "language_code": "ar"
+    },
+    {
+        "key": "Hourly",
+        "value": "Hourly",
+        "language_code": "ar"
+    },
+    {
+        "key": "From Hour",
+        "value": "From Hour",
+        "language_code": "ar"
+    },
+    {
+        "key": "To Hour",
+        "value": "To Hour",
+        "language_code": "ar"
+    },
+    {
+        "key": "Hours",
+        "value": "Hours",
+        "language_code": "ar"
+    },
+    {
+        "key": "APPROVE",
+        "value": "APPROVE",
+        "language_code": "ar"
+    },
+    {
+        "key": "DECLINE",
+        "value": "DECLINE",
+        "language_code": "ar"
+    },
+    {
+        "key": "CANCEL",
+        "value": "CANCEL",
+        "language_code": "ar"
+    },
+    {
+        "key": "Missing Report",
+        "value": "Missing Report",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Vacation",
+        "value": "New Vacation",
+        "language_code": "ar"
+    },
+    {
+        "key": "Previews Vacations",
+        "value": "Previews Vacations",
+        "language_code": "ar"
+    },
+    {
+        "key": "Remaining Vacations",
+        "value": "Remaining Vacations",
+        "language_code": "ar"
+    },
+    {
+        "key": "Decline Vacation",
+        "value": "Decline Vacation",
+        "language_code": "ar"
+    },
+    {
+        "key": "Reject Reason",
+        "value": "Reject Reason",
+        "language_code": "ar"
+    },
+    {
+        "key": "You are not authorized",
+        "value": "You are not authorized",
+        "language_code": "ar"
+    },
+    {
+        "key": "You do not have permission to view this page using the credentials that you have provided while login",
+        "value": "You do not have permission to view this page using the credentials that you have provided while login",
+        "language_code": "ar"
+    },
+    {
+        "key": "Please contact your site administrator",
+        "value": "Please contact your site administrator",
+        "language_code": "ar"
+    },
+    {
+        "key": "Page Not Found",
+        "value": "Page Not Found",
+        "language_code": "ar"
+    },
+    {
+        "key": "Oops",
+        "value": "Oops",
+        "language_code": "ar"
+    },
+    {
+        "key": "The requested URL was not found on this server",
+        "value": "The requested URL was not found on this server",
+        "language_code": "ar"
+    },
+    {
+        "key": "Back to home",
+        "value": "Back to home",
+        "language_code": "ar"
+    },
+    {
+        "key": "THIS PAGE IS UNDER MAINTENANCE",
+        "value": "THIS PAGE IS UNDER MAINTENANCE",
+        "language_code": "ar"
+    },
+    {
+        "key": "Success",
+        "value": "Success",
+        "language_code": "ar"
+    },
+    {
+        "key": "Failed",
+        "value": "Failed",
+        "language_code": "ar"
+    },
+    {
+        "key": "Your payment for order",
+        "value": "Your payment for order",
+        "language_code": "ar"
+    },
+    {
+        "key": "has been",
+        "value": "has been",
+        "language_code": "ar"
+    },
+    {
+        "key": "Softlix",
+        "value": "Softlix",
+        "language_code": "ar"
+    },
+    {
+        "key": "View all notifications",
+        "value": "View all notifications",
+        "language_code": "ar"
+    },
+    {
+        "key": "Payment Required",
+        "value": "Payment Required",
+        "language_code": "ar"
+    },
+    {
+        "key": "You have new payment required for order",
+        "value": "You have new payment required for order",
+        "language_code": "ar"
+    },
+    {
+        "key": "Pay now",
+        "value": "Pay now",
+        "language_code": "ar"
+    },
+    {
+        "key": "INVOICE",
+        "value": "INVOICE",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order ID",
+        "value": "Order ID",
+        "language_code": "ar"
+    },
+    {
+        "key": "Payment method",
+        "value": "Payment method",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bill to",
+        "value": "Bill to",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sub Total",
+        "value": "Sub Total",
+        "language_code": "ar"
+    },
+    {
+        "key": "Coupon Discount",
+        "value": "Coupon Discount",
+        "language_code": "ar"
+    },
+    {
+        "key": "You can not delete this bill, Product stock has been used",
+        "value": "You can not delete this bill, Product stock has been used",
+        "language_code": "ar"
+    },
+    {
+        "key": "Requested quantity is not available",
+        "value": "Requested quantity is not available",
+        "language_code": "ar"
+    },
+    {
+        "key": "Online",
+        "value": "Online",
+        "language_code": "ar"
+    },
+    {
+        "key": "Has Postpones",
+        "value": "Has Postpones",
+        "language_code": "ar"
+    },
+    {
+        "key": "Has Returns",
+        "value": "Has Returns",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Category",
+        "value": "New Category",
+        "language_code": "ar"
+    },
+    {
+        "key": "employee_fingerprint_id_warning",
+        "value": "employee_fingerprint_id_warning",
+        "language_code": "ar"
+    },
+    {
+        "key": "Something went wrong, please try again",
+        "value": "Something went wrong, please try again",
+        "language_code": "ar"
+    },
+    {
+        "key": "Not Rated",
+        "value": "Not Rated",
+        "language_code": "ar"
+    },
+    {
+        "key": "You need to add salary for employees",
+        "value": "You need to add salary for employees",
+        "language_code": "ar"
+    },
+    {
+        "key": "Roles",
+        "value": "Roles",
+        "language_code": "ar"
+    },
+    {
+        "key": "New",
+        "value": "New",
+        "language_code": "ar"
+    },
+    {
+        "key": "Translation",
+        "value": "Translation",
+        "language_code": "ar"
+    },
+    {
+        "key": "The data updated successful",
+        "value": "The data updated successful",
+        "language_code": "ar"
+    },
+    {
+        "key": "dashboard.Edit",
+        "value": "dashboard.Edit",
+        "language_code": "ar"
+    },
+    {
+        "key": "message.The data updated successful",
+        "value": "message.The data updated successful",
+        "language_code": "ar"
+    },
+    {
+        "key": "message.There is an error",
+        "value": "message.There is an error",
+        "language_code": "ar"
+    }
+]

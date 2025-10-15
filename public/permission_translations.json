@@ -1,0 +1,1827 @@
+[
+    {
+        "key": "dashboard",
+        "value": "dashboard",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_dashboard",
+        "value": "read_dashboard",
+        "language_code": "ar"
+    },
+    {
+        "key": "hr_tab",
+        "value": "hr_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_hr_tab",
+        "value": "read_hr_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "shift",
+        "value": "shift",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_shift",
+        "value": "create_shift",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_shift",
+        "value": "read_shift",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_shift",
+        "value": "update_shift",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_shift",
+        "value": "delete_shift",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_shift",
+        "value": "export_shift",
+        "language_code": "ar"
+    },
+    {
+        "key": "attendance",
+        "value": "attendance",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_attendance",
+        "value": "create_attendance",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_attendance",
+        "value": "read_attendance",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_attendance",
+        "value": "update_attendance",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_attendance",
+        "value": "delete_attendance",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_attendance",
+        "value": "export_attendance",
+        "language_code": "ar"
+    },
+    {
+        "key": "salary",
+        "value": "salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_salary",
+        "value": "create_salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_salary",
+        "value": "read_salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_salary",
+        "value": "update_salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_salary",
+        "value": "delete_salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_salary",
+        "value": "export_salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "generated_salary",
+        "value": "generated_salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_generated_salary",
+        "value": "create_generated_salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_generated_salary",
+        "value": "read_generated_salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_generated_salary",
+        "value": "update_generated_salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_generated_salary",
+        "value": "delete_generated_salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_generated_salary",
+        "value": "export_generated_salary",
+        "language_code": "ar"
+    },
+    {
+        "key": "vacation",
+        "value": "vacation",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_vacation",
+        "value": "create_vacation",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_vacation",
+        "value": "read_vacation",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_vacation",
+        "value": "update_vacation",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_vacation",
+        "value": "delete_vacation",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_vacation",
+        "value": "export_vacation",
+        "language_code": "ar"
+    },
+    {
+        "key": "financial_tab",
+        "value": "financial_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_financial_tab",
+        "value": "read_financial_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "payment",
+        "value": "payment",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_payment",
+        "value": "create_payment",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_payment",
+        "value": "read_payment",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_payment",
+        "value": "update_payment",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_payment",
+        "value": "delete_payment",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_payment",
+        "value": "export_payment",
+        "language_code": "ar"
+    },
+    {
+        "key": "cash_flow",
+        "value": "cash_flow",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_cash_flow",
+        "value": "create_cash_flow",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_cash_flow",
+        "value": "read_cash_flow",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_cash_flow",
+        "value": "update_cash_flow",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_cash_flow",
+        "value": "delete_cash_flow",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_cash_flow",
+        "value": "export_cash_flow",
+        "language_code": "ar"
+    },
+    {
+        "key": "system_tab",
+        "value": "system_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_system_tab",
+        "value": "read_system_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "translation",
+        "value": "translation",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_translation",
+        "value": "create_translation",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_translation",
+        "value": "read_translation",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_translation",
+        "value": "update_translation",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_translation",
+        "value": "delete_translation",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_translation",
+        "value": "export_translation",
+        "language_code": "ar"
+    },
+    {
+        "key": "model_record",
+        "value": "model_record",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_model_record",
+        "value": "create_model_record",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_model_record",
+        "value": "read_model_record",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_model_record",
+        "value": "update_model_record",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_model_record",
+        "value": "delete_model_record",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_model_record",
+        "value": "export_model_record",
+        "language_code": "ar"
+    },
+    {
+        "key": "driver_tab",
+        "value": "driver_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_driver_tab",
+        "value": "read_driver_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "driver",
+        "value": "driver",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_driver",
+        "value": "create_driver",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_driver",
+        "value": "read_driver",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_driver",
+        "value": "update_driver",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_driver",
+        "value": "delete_driver",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_driver",
+        "value": "export_driver",
+        "language_code": "ar"
+    },
+    {
+        "key": "trip",
+        "value": "trip",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_trip",
+        "value": "create_trip",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_trip",
+        "value": "read_trip",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_trip",
+        "value": "update_trip",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_trip",
+        "value": "delete_trip",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_trip",
+        "value": "export_trip",
+        "language_code": "ar"
+    },
+    {
+        "key": "customer_tab",
+        "value": "customer_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_customer_tab",
+        "value": "read_customer_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "customer",
+        "value": "customer",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_customer",
+        "value": "create_customer",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_customer",
+        "value": "read_customer",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_customer",
+        "value": "update_customer",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_customer",
+        "value": "delete_customer",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_customer",
+        "value": "export_customer",
+        "language_code": "ar"
+    },
+    {
+        "key": "employee_tab",
+        "value": "employee_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_employee_tab",
+        "value": "read_employee_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "role",
+        "value": "role",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_role",
+        "value": "create_role",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_role",
+        "value": "read_role",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_role",
+        "value": "update_role",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_role",
+        "value": "delete_role",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_role",
+        "value": "export_role",
+        "language_code": "ar"
+    },
+    {
+        "key": "employee",
+        "value": "employee",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_employee",
+        "value": "create_employee",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_employee",
+        "value": "read_employee",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_employee",
+        "value": "update_employee",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_employee",
+        "value": "delete_employee",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_employee",
+        "value": "export_employee",
+        "language_code": "ar"
+    },
+    {
+        "key": "admin",
+        "value": "admin",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_admin",
+        "value": "create_admin",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_admin",
+        "value": "read_admin",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_admin",
+        "value": "update_admin",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_admin",
+        "value": "delete_admin",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_admin",
+        "value": "export_admin",
+        "language_code": "ar"
+    },
+    {
+        "key": "task",
+        "value": "task",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_task",
+        "value": "create_task",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_task",
+        "value": "read_task",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_task",
+        "value": "update_task",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_task",
+        "value": "delete_task",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_task",
+        "value": "export_task",
+        "language_code": "ar"
+    },
+    {
+        "key": "job",
+        "value": "job",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_job",
+        "value": "create_job",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_job",
+        "value": "read_job",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_job",
+        "value": "update_job",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_job",
+        "value": "delete_job",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_job",
+        "value": "export_job",
+        "language_code": "ar"
+    },
+    {
+        "key": "nationality",
+        "value": "nationality",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_nationality",
+        "value": "create_nationality",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_nationality",
+        "value": "read_nationality",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_nationality",
+        "value": "update_nationality",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_nationality",
+        "value": "delete_nationality",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_nationality",
+        "value": "export_nationality",
+        "language_code": "ar"
+    },
+    {
+        "key": "setting_tab",
+        "value": "setting_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_setting_tab",
+        "value": "read_setting_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "state",
+        "value": "state",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_state",
+        "value": "create_state",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_state",
+        "value": "read_state",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_state",
+        "value": "update_state",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_state",
+        "value": "delete_state",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_state",
+        "value": "export_state",
+        "language_code": "ar"
+    },
+    {
+        "key": "city",
+        "value": "city",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_city",
+        "value": "create_city",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_city",
+        "value": "read_city",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_city",
+        "value": "update_city",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_city",
+        "value": "delete_city",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_city",
+        "value": "export_city",
+        "language_code": "ar"
+    },
+    {
+        "key": "municipal",
+        "value": "municipal",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_municipal",
+        "value": "create_municipal",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_municipal",
+        "value": "read_municipal",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_municipal",
+        "value": "update_municipal",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_municipal",
+        "value": "delete_municipal",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_municipal",
+        "value": "export_municipal",
+        "language_code": "ar"
+    },
+    {
+        "key": "setting",
+        "value": "setting",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_setting",
+        "value": "create_setting",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_setting",
+        "value": "read_setting",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_setting",
+        "value": "update_setting",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_setting",
+        "value": "delete_setting",
+        "language_code": "ar"
+    },
+    {
+        "key": "notification",
+        "value": "notification",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_notification",
+        "value": "create_notification",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_notification",
+        "value": "read_notification",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_notification",
+        "value": "update_notification",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_notification",
+        "value": "delete_notification",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_notification",
+        "value": "export_notification",
+        "language_code": "ar"
+    },
+    {
+        "key": "branch",
+        "value": "branch",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_branch",
+        "value": "create_branch",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_branch",
+        "value": "read_branch",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_branch",
+        "value": "update_branch",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_branch",
+        "value": "delete_branch",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_branch",
+        "value": "export_branch",
+        "language_code": "ar"
+    },
+    {
+        "key": "faq",
+        "value": "faq",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_faq",
+        "value": "create_faq",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_faq",
+        "value": "read_faq",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_faq",
+        "value": "update_faq",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_faq",
+        "value": "delete_faq",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_faq",
+        "value": "export_faq",
+        "language_code": "ar"
+    },
+    {
+        "key": "slider",
+        "value": "slider",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_slider",
+        "value": "create_slider",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_slider",
+        "value": "read_slider",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_slider",
+        "value": "update_slider",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_slider",
+        "value": "delete_slider",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_slider",
+        "value": "export_slider",
+        "language_code": "ar"
+    },
+    {
+        "key": "marketing_tab",
+        "value": "marketing_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_marketing_tab",
+        "value": "read_marketing_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "package",
+        "value": "package",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_package",
+        "value": "create_package",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_package",
+        "value": "read_package",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_package",
+        "value": "update_package",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_package",
+        "value": "delete_package",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_package",
+        "value": "export_package",
+        "language_code": "ar"
+    },
+    {
+        "key": "coupon",
+        "value": "coupon",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_coupon",
+        "value": "create_coupon",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_coupon",
+        "value": "read_coupon",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_coupon",
+        "value": "update_coupon",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_coupon",
+        "value": "delete_coupon",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_coupon",
+        "value": "export_coupon",
+        "language_code": "ar"
+    },
+    {
+        "key": "loyalty",
+        "value": "loyalty",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_loyalty",
+        "value": "create_loyalty",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_loyalty",
+        "value": "read_loyalty",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_loyalty",
+        "value": "update_loyalty",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_loyalty",
+        "value": "delete_loyalty",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_loyalty",
+        "value": "export_loyalty",
+        "language_code": "ar"
+    },
+    {
+        "key": "stock_tab",
+        "value": "stock_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_stock_tab",
+        "value": "read_stock_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "supplier",
+        "value": "supplier",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_supplier",
+        "value": "create_supplier",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_supplier",
+        "value": "read_supplier",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_supplier",
+        "value": "update_supplier",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_supplier",
+        "value": "delete_supplier",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_supplier",
+        "value": "export_supplier",
+        "language_code": "ar"
+    },
+    {
+        "key": "expense_type",
+        "value": "expense_type",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_expense_type",
+        "value": "create_expense_type",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_expense_type",
+        "value": "read_expense_type",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_expense_type",
+        "value": "update_expense_type",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_expense_type",
+        "value": "delete_expense_type",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_expense_type",
+        "value": "export_expense_type",
+        "language_code": "ar"
+    },
+    {
+        "key": "bill",
+        "value": "bill",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_bill",
+        "value": "create_bill",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_bill",
+        "value": "read_bill",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_bill",
+        "value": "update_bill",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_bill",
+        "value": "delete_bill",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_bill",
+        "value": "export_bill",
+        "language_code": "ar"
+    },
+    {
+        "key": "bill_dept",
+        "value": "bill_dept",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_bill_dept",
+        "value": "create_bill_dept",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_bill_dept",
+        "value": "read_bill_dept",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_bill_dept",
+        "value": "update_bill_dept",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_bill_dept",
+        "value": "delete_bill_dept",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_bill_dept",
+        "value": "export_bill_dept",
+        "language_code": "ar"
+    },
+    {
+        "key": "bill_type",
+        "value": "bill_type",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_bill_type",
+        "value": "create_bill_type",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_bill_type",
+        "value": "read_bill_type",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_bill_type",
+        "value": "update_bill_type",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_bill_type",
+        "value": "delete_bill_type",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_bill_type",
+        "value": "export_bill_type",
+        "language_code": "ar"
+    },
+    {
+        "key": "bill_return",
+        "value": "bill_return",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_bill_return",
+        "value": "create_bill_return",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_bill_return",
+        "value": "read_bill_return",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_bill_return",
+        "value": "update_bill_return",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_bill_return",
+        "value": "delete_bill_return",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_bill_return",
+        "value": "export_bill_return",
+        "language_code": "ar"
+    },
+    {
+        "key": "product",
+        "value": "product",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_product",
+        "value": "create_product",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_product",
+        "value": "read_product",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_product",
+        "value": "update_product",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_product",
+        "value": "delete_product",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_product",
+        "value": "export_product",
+        "language_code": "ar"
+    },
+    {
+        "key": "stock",
+        "value": "stock",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_stock",
+        "value": "create_stock",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_stock",
+        "value": "read_stock",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_stock",
+        "value": "update_stock",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_stock",
+        "value": "delete_stock",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_stock",
+        "value": "export_stock",
+        "language_code": "ar"
+    },
+    {
+        "key": "stock_withdrawal",
+        "value": "stock_withdrawal",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_stock_withdrawal",
+        "value": "create_stock_withdrawal",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_stock_withdrawal",
+        "value": "read_stock_withdrawal",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_stock_withdrawal",
+        "value": "update_stock_withdrawal",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_stock_withdrawal",
+        "value": "delete_stock_withdrawal",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_stock_withdrawal",
+        "value": "export_stock_withdrawal",
+        "language_code": "ar"
+    },
+    {
+        "key": "custody",
+        "value": "custody",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_custody",
+        "value": "create_custody",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_custody",
+        "value": "read_custody",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_custody",
+        "value": "update_custody",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_custody",
+        "value": "delete_custody",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_custody",
+        "value": "export_custody",
+        "language_code": "ar"
+    },
+    {
+        "key": "transfer",
+        "value": "transfer",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_transfer",
+        "value": "create_transfer",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_transfer",
+        "value": "read_transfer",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_transfer",
+        "value": "update_transfer",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_transfer",
+        "value": "delete_transfer",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_transfer",
+        "value": "export_transfer",
+        "language_code": "ar"
+    },
+    {
+        "key": "brand",
+        "value": "brand",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_brand",
+        "value": "create_brand",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_brand",
+        "value": "read_brand",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_brand",
+        "value": "update_brand",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_brand",
+        "value": "delete_brand",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_brand",
+        "value": "export_brand",
+        "language_code": "ar"
+    },
+    {
+        "key": "unit",
+        "value": "unit",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_unit",
+        "value": "create_unit",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_unit",
+        "value": "read_unit",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_unit",
+        "value": "update_unit",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_unit",
+        "value": "delete_unit",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_unit",
+        "value": "export_unit",
+        "language_code": "ar"
+    },
+    {
+        "key": "service_tab",
+        "value": "service_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_service_tab",
+        "value": "read_service_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "category",
+        "value": "category",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_category",
+        "value": "create_category",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_category",
+        "value": "read_category",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_category",
+        "value": "update_category",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_category",
+        "value": "delete_category",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_category",
+        "value": "export_category",
+        "language_code": "ar"
+    },
+    {
+        "key": "service",
+        "value": "service",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_service",
+        "value": "create_service",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_service",
+        "value": "read_service",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_service",
+        "value": "update_service",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_service",
+        "value": "delete_service",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_service",
+        "value": "export_service",
+        "language_code": "ar"
+    },
+    {
+        "key": "booking_tab",
+        "value": "booking_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_booking_tab",
+        "value": "read_booking_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "booking",
+        "value": "booking",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_booking",
+        "value": "create_booking",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_booking",
+        "value": "read_booking",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_booking",
+        "value": "update_booking",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_booking",
+        "value": "delete_booking",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_booking",
+        "value": "export_booking",
+        "language_code": "ar"
+    },
+    {
+        "key": "booking_edit_request",
+        "value": "booking_edit_request",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_booking_edit_request",
+        "value": "create_booking_edit_request",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_booking_edit_request",
+        "value": "read_booking_edit_request",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_booking_edit_request",
+        "value": "update_booking_edit_request",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_booking_edit_request",
+        "value": "delete_booking_edit_request",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_booking_edit_request",
+        "value": "export_booking_edit_request",
+        "language_code": "ar"
+    },
+    {
+        "key": "booking_cancel_request",
+        "value": "booking_cancel_request",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_booking_cancel_request",
+        "value": "create_booking_cancel_request",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_booking_cancel_request",
+        "value": "read_booking_cancel_request",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_booking_cancel_request",
+        "value": "update_booking_cancel_request",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_booking_cancel_request",
+        "value": "delete_booking_cancel_request",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_booking_cancel_request",
+        "value": "export_booking_cancel_request",
+        "language_code": "ar"
+    },
+    {
+        "key": "report_tab",
+        "value": "report_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_report_tab",
+        "value": "read_report_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "order_report",
+        "value": "order_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_order_report",
+        "value": "read_order_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "employee_report",
+        "value": "employee_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_employee_report",
+        "value": "read_employee_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "supplier_report",
+        "value": "supplier_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_supplier_report",
+        "value": "read_supplier_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "expense_report",
+        "value": "expense_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_expense_report",
+        "value": "read_expense_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "trial_report",
+        "value": "trial_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_trial_report",
+        "value": "read_trial_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "financial_report",
+        "value": "financial_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_financial_report",
+        "value": "read_financial_report",
+        "language_code": "ar"
+    },
+    {
+        "key": "order_tab",
+        "value": "order_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_order_tab",
+        "value": "read_order_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "order",
+        "value": "order",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_order",
+        "value": "create_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_order",
+        "value": "read_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_order",
+        "value": "update_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_order",
+        "value": "delete_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_order",
+        "value": "export_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "order_service_return",
+        "value": "order_service_return",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_order_service_return",
+        "value": "create_order_service_return",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_order_service_return",
+        "value": "read_order_service_return",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_order_service_return",
+        "value": "update_order_service_return",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_order_service_return",
+        "value": "delete_order_service_return",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_order_service_return",
+        "value": "export_order_service_return",
+        "language_code": "ar"
+    },
+    {
+        "key": "order_service_postpone",
+        "value": "order_service_postpone",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_order_service_postpone",
+        "value": "create_order_service_postpone",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_order_service_postpone",
+        "value": "read_order_service_postpone",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_order_service_postpone",
+        "value": "update_order_service_postpone",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_order_service_postpone",
+        "value": "delete_order_service_postpone",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_order_service_postpone",
+        "value": "export_order_service_postpone",
+        "language_code": "ar"
+    },
+    {
+        "key": "listed_order",
+        "value": "listed_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_listed_order",
+        "value": "create_listed_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_listed_order",
+        "value": "read_listed_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_listed_order",
+        "value": "update_listed_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_listed_order",
+        "value": "delete_listed_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_listed_order",
+        "value": "export_listed_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "rate",
+        "value": "rate",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_rate",
+        "value": "create_rate",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_rate",
+        "value": "read_rate",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_rate",
+        "value": "update_rate",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_rate",
+        "value": "delete_rate",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_rate",
+        "value": "export_rate",
+        "language_code": "ar"
+    },
+    {
+        "key": "rate_reason",
+        "value": "rate_reason",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_rate_reason",
+        "value": "create_rate_reason",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_rate_reason",
+        "value": "read_rate_reason",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_rate_reason",
+        "value": "update_rate_reason",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_rate_reason",
+        "value": "delete_rate_reason",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_rate_reason",
+        "value": "export_rate_reason",
+        "language_code": "ar"
+    },
+    {
+        "key": "cafeteria_tab",
+        "value": "cafeteria_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_cafeteria_tab",
+        "value": "read_cafeteria_tab",
+        "language_code": "ar"
+    },
+    {
+        "key": "cafeteria_order",
+        "value": "cafeteria_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "create_cafeteria_order",
+        "value": "create_cafeteria_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "read_cafeteria_order",
+        "value": "read_cafeteria_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "update_cafeteria_order",
+        "value": "update_cafeteria_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "delete_cafeteria_order",
+        "value": "delete_cafeteria_order",
+        "language_code": "ar"
+    },
+    {
+        "key": "export_cafeteria_order",
+        "value": "export_cafeteria_order",
+        "language_code": "ar"
+    }
+]

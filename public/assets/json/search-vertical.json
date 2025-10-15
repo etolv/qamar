@@ -1,0 +1,231 @@
+{
+  "pages": [
+    {
+      "url": "",
+      "name": "Dashboard",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "home",
+      "permission": "read_dashboard"
+    },
+    {
+      "url": "admin",
+      "name": "Admins",
+      "icon": "menu-icon tf-icons ti ti-users",
+      "slug": "admin.index",
+      "permission": "read_admin"
+    },
+    {
+      "url": "employee",
+      "name": "Employees",
+      "icon": "menu-icon tf-icons ti ti-users",
+      "slug": "employee.index",
+      "permission": "read_employee"
+    },
+    {
+      "url": "customer",
+      "name": "Customers",
+      "icon": "menu-icon tf-icons ti ti-users",
+      "slug": "customer.index",
+      "permission": "read_customer"
+    },
+    {
+      "url": "roles",
+      "name": "Roles",
+      "slug": "roles.index",
+      "icon": "menu-icon tf-icons ti ti-menu",
+      "permission": "read_role"
+    },
+    {
+      "url": "payment",
+      "name": "Payments",
+      "icon": "menu-icon tf-icons fa-solid fa-credit-card",
+      "slug": "payment.index",
+      "permission": "read_payment"
+    },
+    {
+      "url": "order",
+      "name": "Orders",
+      "icon": "menu-icon tf-icons ti ti-package",
+      "slug": "order.index",
+      "permission": "read_order"
+    },
+    {
+      "url": "pending-booking",
+      "name": "Pending Bookings",
+      "icon": "menu-icon tf-icons ti ti-package",
+      "slug": "booking.pending",
+      "permission": "read_booking"
+    },
+    {
+      "url": "today-booking",
+      "name": "Today Bookings",
+      "icon": "menu-icon tf-icons ti ti-package",
+      "slug": "booking.today",
+      "permission": "read_booking"
+    },
+    {
+      "url": "rate",
+      "name": "Booking Rates",
+      "icon": "menu-icon tf-icons fa fa-star",
+      "slug": "rate.index",
+      "permission": "read_rate"
+    },
+    {
+      "url": "booking-edit-request?type=1",
+      "name": "Booking edit requests",
+      "icon": "menu-icon tf-icons fa-solid fa-timeline",
+      "slug": "booking-edit-request.index",
+      "permission": "read_booking_edit_request"
+    },
+    {
+      "url": "booking-edit-request-delete?type=2",
+      "name": "Booking cancel requests",
+      "icon": "menu-icon tf-icons fa-solid fa-ban",
+      "slug": "booking-edit-request-delete.index",
+      "permission": "read_booking_edit_request"
+    },
+    {
+      "url": "product",
+      "name": "Products",
+      "icon": "menu-icon tf-icons ti ti-package",
+      "slug": "product.index",
+      "permission": "read_product"
+    },
+    {
+      "url": "transfer",
+      "name": "Transfers",
+      "icon": "menu-icon tf-icons fa-solid fa-right-left",
+      "slug": "transfer.index",
+      "permission": "read_transfer"
+    },
+    {
+      "url": "stock",
+      "name": "Stocks",
+      "icon": "menu-icon tf-icons fa fa-warehouse",
+      "slug": "stock.index",
+      "permission": "read_stock"
+    },
+    {
+      "url": "service",
+      "name": "Services",
+      "icon": "menu-icon tf-icons fa-solid fa-bell",
+      "slug": "service.index",
+      "permission": "read_service"
+    },
+    {
+      "url": "category",
+      "name": "Categories",
+      "icon": "menu-icon tf-icons ti ti-color-swatch",
+      "slug": "category.index",
+      "permission": "read_category"
+    },
+    {
+      "url": "brand",
+      "name": "Brands",
+      "icon": "menu-icon tf-icons ti ti-color-swatch",
+      "slug": "brand.index",
+      "permission": "read_brand"
+    },
+    {
+      "url": "supplier",
+      "name": "Suppliers",
+      "icon": "menu-icon tf-icons fa-solid fa-truck-field",
+      "slug": "supplier.index",
+      "permission": "read_company"
+    },
+    {
+      "url": "job",
+      "name": "Jobs",
+      "icon": "menu-icon tf-icons ti ti-briefcase",
+      "slug": "job.index",
+      "permission": "read_job"
+    },
+    {
+      "url": "unit",
+      "name": "Units",
+      "icon": "menu-icon tf-icons fa-solid fa-box",
+      "slug": "unit.index",
+      "permission": "read_unit"
+    },
+    {
+      "url": "nationality",
+      "name": "Nationalities",
+      "icon": "menu-icon tf-icons fa-solid fa-earth-asia",
+      "slug": "nationality.index",
+      "permission": "read_nationality"
+    },
+    {
+      "url": "branch",
+      "name": "Branches",
+      "icon": "menu-icon tf-icons fa-solid fa-shop",
+      "slug": "branch.index",
+      "permission": "read_branch"
+    },
+    {
+      "url": "coupon",
+      "name": "Coupons",
+      "icon": "menu-icon tf-icons fa-solid fa-ticket",
+      "slug": "coupon.index",
+      "permission": "read_coupon"
+    },
+    {
+      "url": "setting",
+      "name": "Settings",
+      "icon": "menu-icon tf-icons ti ti-settings",
+      "slug": "setting.index",
+      "permission": "read_setting"
+    },
+    {
+      "url": "notification/create",
+      "name": "Notifications",
+      "icon": "menu-icon tf-icons ti ti-mail",
+      "slug": "notification.create",
+      "permission": "read_notification"
+    },
+    {
+      "url": "state",
+      "name": "States",
+      "icon": "menu-icon tf-icons ti ti-world",
+      "slug": "state.index",
+      "permission": "read_state"
+    },
+    {
+      "url": "city",
+      "name": "Cities",
+      "icon": "menu-icon tf-icons ti ti-world",
+      "slug": "city.index",
+      "permission": "read_city"
+    },
+    {
+      "url": "translation/index",
+      "name": "Translations",
+      "icon": "menu-icon tf-icons ti ti-world",
+      "slug": "translation.index",
+      "permission": "read_translation"
+    },
+    {
+      "url": "model-record",
+      "name": "System Records",
+      "icon": "menu-icon tf-icons fa-solid fa-floppy-disk",
+      "slug": "model-record.index",
+      "permission": "read_model_record"
+    }
+  ],
+  "files": [
+    {
+      "name": "Class Attendance",
+      "subtitle": "By Tommy Shelby",
+      "src": "img/icons/misc/search-xls.png",
+      "meta": "17kb",
+      "url": "javascript:;"
+    }
+  ],
+  "members": [
+    {
+      "name": "Super Admin",
+      "subtitle": "Admin",
+      "src": "img/avatars/1.png",
+      "url": "admin/1/edit/"
+    }
+  ]
+}

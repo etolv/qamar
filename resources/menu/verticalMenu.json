@@ -1,0 +1,733 @@
+{
+  "menu": [
+    {
+      "url": "dashboard",
+      "name": "Dashboard",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "home",
+      "permission": "read_dashboard"
+    },
+    {
+      "name": "Branch Orders",
+      "icon": "menu-icon tf-icons ti ti-package",
+      "slug": "order",
+      "permission": "read_order_tab",
+      "submenu": [
+        {
+          "url": "order?date=today",
+          "name": "Today Orders",
+          "icon": "menu-icon tf-icons ti ti-package",
+          "slug": "order.index.date=today",
+          "permission": "read_order"
+        },
+        {
+          "url": "order",
+          "name": "Orders",
+          "icon": "menu-icon tf-icons ti ti-package",
+          "slug": [
+            "order.index",
+            "order.index.customer="
+          ],
+          "permission": "read_order"
+        },
+        {
+          "url": "order?is_mobile=1",
+          "name": "Application Orders",
+          "icon": "menu-icon tf-icons ti ti-package",
+          "slug": "order.index.is_mobile=1",
+          "permission": "read_order"
+        },
+        {
+          "url": "order-service-return",
+          "name": "Order Service Return",
+          "icon": "menu-icon tf-icons fa-solid fa-rotate-left",
+          "slug": "order-service-return.index",
+          "permission": "read_order_service_return"
+        },
+        {
+          "url": "order-service-postpone",
+          "name": "Order Service Postpone",
+          "icon": "menu-icon tf-icons fa-solid fa-clock-rotate-left",
+          "slug": "order-service-postpone.index",
+          "permission": "read_order_service_postpone"
+        },
+        {
+          "url": "listed-order",
+          "name": "Listed Orders",
+          "icon": "menu-icon tf-icons fa-solid fa-list",
+          "slug": "listed-order.index",
+          "permission": "read_listed_order"
+        },
+        {
+          "url": "rate",
+          "name": "Rates",
+          "icon": "menu-icon tf-icons fa fa-star",
+          "slug": "rate.index",
+          "permission": "read_rate"
+        },
+        {
+          "url": "rate-reason",
+          "name": "Rate Reasons",
+          "icon": "menu-icon tf-icons fa-solid fa-circle-question",
+          "slug": "rate-reason.index",
+          "permission": "read_rate"
+        }
+      ]
+    },
+    {
+      "name": "Bookings",
+      "icon": "menu-icon tf-icons ti ti-package",
+      "slug": [
+        "booking"
+      ],
+      "permission": "read_booking_tab",
+      "submenu": [
+        {
+          "url": "booking",
+          "name": "Bookings",
+          "icon": "menu-icon tf-icons ti ti-package",
+          "slug": "booking.index",
+          "permission": "read_booking"
+        },
+        {
+          "url": "booking?is_mobile=1",
+          "name": "Application Bookings",
+          "icon": "menu-icon tf-icons ti ti-package",
+          "slug": "booking.index.is_mobile=1",
+          "permission": "read_booking"
+        },
+        {
+          "url": "pending-booking",
+          "name": "Pending Bookings",
+          "icon": "menu-icon tf-icons ti ti-package",
+          "slug": "booking.pending",
+          "permission": "read_booking"
+        },
+        {
+          "url": "today-booking",
+          "name": "Today Bookings",
+          "icon": "menu-icon tf-icons ti ti-package",
+          "slug": "booking.today",
+          "permission": "read_booking"
+        },
+        {
+          "url": "booking-edit-request?type=1",
+          "name": "Booking edit requests",
+          "icon": "menu-icon tf-icons fa-solid fa-timeline",
+          "slug": "booking-edit-request.index",
+          "permission": "read_booking_edit_request"
+        },
+        {
+          "url": "booking-edit-request-delete?type=2",
+          "name": "Booking cancel requests",
+          "icon": "menu-icon tf-icons fa-solid fa-ban",
+          "slug": "booking-edit-request-delete.index",
+          "permission": "read_booking_edit_request"
+        }
+      ]
+    },
+    {
+      "name": "Services",
+      "icon": "menu-icon tf-icons fa-solid fa-bell",
+      "slug": [
+        "service",
+        "category"
+      ],
+      "permission": "read_service_tab",
+      "submenu": [
+        {
+          "url": "category",
+          "name": "Categories",
+          "icon": "menu-icon tf-icons ti ti-color-swatch",
+          "slug": "category.index",
+          "permission": "read_category"
+        },
+        {
+          "url": "service?department=1",
+          "name": "Services",
+          "icon": "menu-icon tf-icons fa-solid fa-bell",
+          "slug": "service.index.department=1",
+          "permission": "read_service"
+        }
+      ]
+    },
+    {
+      "name": "Stocks",
+      "icon": "menu-icon tf-icons ti ti-package",
+      "slug": [
+        "card",
+        "product",
+        "brand",
+        "stock",
+        "withdrawal",
+        "transfer",
+        "unit",
+        "bill-debt",
+        "bill",
+        "custody"
+      ],
+      "permission": "read_stock_tab",
+      "submenu": [
+        {
+          "url": "card",
+          "name": "Cards",
+          "icon": "menu-icon tf-icons fa-solid fa-truck-field",
+          "slug": "card.index",
+          "permission": "read_supplier"
+        },
+        {
+          "url": "supplier",
+          "name": "Suppliers",
+          "icon": "menu-icon tf-icons fa-solid fa-truck-field",
+          "slug": "supplier.index",
+          "permission": "read_supplier"
+        },
+        {
+          "url": "bill-type",
+          "name": "Expense Types",
+          "icon": "menu-icon tf-icons fa-regular fa-folder-open",
+          "slug": "bill-type.index",
+          "permission": "read_supplier"
+        },
+        {
+          "url": "bill?department=1",
+          "name": "Bills",
+          "icon": "menu-icon tf-icons fa-regular fa-folder-open",
+          "slug": "bill.index",
+          "permission": "read_supplier"
+        },
+        {
+          "url": "bill-debt?department=1",
+          "name": "Debts",
+          "icon": "menu-icon tf-icons fa-regular fa-credit-card",
+          "slug": "bill.debt",
+          "permission": "read_supplier"
+        },
+        {
+          "url": "bill-return",
+          "name": "Bill Returns",
+          "icon": "menu-icon tf-icons fa-regular fa-folder-open",
+          "slug": "bill-return.index",
+          "permission": "read_supplier"
+        },
+        {
+          "url": "product?department=1",
+          "name": "Products",
+          "icon": "menu-icon tf-icons ti ti-package",
+          "slug": "product.index.department=1",
+          "permission": "read_product"
+        },
+        {
+          "url": "stock",
+          "name": "Stocks",
+          "icon": "menu-icon tf-icons fa fa-warehouse",
+          "slug": "stock.index",
+          "permission": "read_stock"
+        },
+        {
+          "url": "stock-withdrawal",
+          "name": "Stock Withdrawals",
+          "icon": "menu-icon tf-icons fa fa-warehouse",
+          "slug": "stock-withdrawal.index",
+          "permission": "read_stock"
+        },
+        {
+          "url": "custody",
+          "name": "Custodies",
+          "icon": "menu-icon tf-icons fa fa-warehouse",
+          "slug": "custody.index",
+          "permission": "read_stock"
+        },
+        {
+          "url": "brand",
+          "name": "Brands",
+          "icon": "menu-icon tf-icons ti ti-color-swatch",
+          "slug": "brand.index",
+          "permission": "read_brand"
+        },
+        {
+          "url": "unit",
+          "name": "Units",
+          "icon": "menu-icon tf-icons fa-solid fa-box",
+          "slug": "unit.index",
+          "permission": "read_unit"
+        }
+      ]
+    },
+    {
+      "name": "Marketing",
+      "icon": "menu-icon tf-icons fa-solid fa-chart-simple",
+      "slug": [
+        "package.index",
+        "coupon.index",
+        "loyalty.settings"
+      ],
+      "permission": "read_marketing_tab",
+      "submenu": [
+        {
+          "url": "package",
+          "name": "Packages",
+          "icon": "menu-icon tf-icons fa-solid fa-box-open",
+          "slug": "package.index",
+          "permission": "read_package"
+        },
+        {
+          "url": "coupon",
+          "name": "Coupons",
+          "icon": "menu-icon tf-icons fa-solid fa-ticket",
+          "slug": "coupon.index",
+          "permission": "read_coupon"
+        },
+        {
+          "url": "loyalty-settings",
+          "name": "Loyalty Settings",
+          "icon": "menu-icon tf-icons fa-solid fa-ticket",
+          "slug": "loyalty.settings",
+          "permission": "read_coupon"
+        }
+      ]
+    },
+    {
+      "name": "Settings",
+      "icon": "menu-icon tf-icons ti ti-settings",
+      "slug": [
+        "setting",
+        "state",
+        "city",
+        "municipal",
+        "notification",
+        "branch",
+        "slider"
+      ],
+      "permission": "read_setting_tab",
+      "submenu": [
+        {
+          "url": "state",
+          "name": "States",
+          "icon": "menu-icon tf-icons ti ti-world",
+          "slug": "state.index",
+          "permission": "read_state"
+        },
+        {
+          "url": "city",
+          "name": "Cities",
+          "icon": "menu-icon tf-icons ti ti-world",
+          "slug": "city.index",
+          "permission": "read_city"
+        },
+        {
+          "url": "municipal",
+          "name": "Municipals",
+          "icon": "menu-icon tf-icons ti ti-world",
+          "slug": "municipal.index",
+          "permission": "read_municipal"
+        },
+        {
+          "url": "slider",
+          "name": "Slider",
+          "icon": "menu-icon tf-icons ti ti-settings",
+          "slug": "slider.index",
+          "permission": "read_slider"
+        },
+        {
+          "url": "setting",
+          "name": "Settings",
+          "icon": "menu-icon tf-icons ti ti-settings",
+          "slug": "setting.index",
+          "permission": "read_setting"
+        },
+        {
+          "url": "notification",
+          "name": "Notifications",
+          "icon": "menu-icon tf-icons ti ti-mail",
+          "slug": "notification.index",
+          "permission": "read_notification"
+        },
+        {
+          "url": "branch",
+          "name": "Branches",
+          "icon": "menu-icon tf-icons fa-solid fa-shop",
+          "slug": "branch.index",
+          "permission": "read_branch"
+        }
+      ]
+    },
+    {
+      "name": "Employees",
+      "icon": "menu-icon tf-icons ti ti-users",
+      "slug": "employee",
+      "permission": "read_employee_tab",
+      "submenu": [
+        {
+          "url": "roles",
+          "name": "Roles",
+          "slug": "roles.index",
+          "icon": "menu-icon tf-icons ti ti-menu",
+          "permission": "read_role"
+        },
+        {
+          "url": "employee",
+          "name": "Employees",
+          "icon": "menu-icon tf-icons ti ti-users",
+          "slug": "employee.index",
+          "permission": "read_employee"
+        },
+        {
+          "url": "admin",
+          "name": "Admins",
+          "icon": "menu-icon tf-icons ti ti-users",
+          "slug": "admin.index",
+          "permission": "read_admin"
+        },
+        {
+          "url": "task",
+          "name": "Tasks",
+          "icon": "menu-icon tf-icons fa-solid fa-list-check",
+          "slug": "task.create",
+          "permission": "read_task"
+        },
+        {
+          "url": "job",
+          "name": "Jobs",
+          "icon": "menu-icon tf-icons ti ti-briefcase",
+          "slug": "job.index",
+          "permission": "read_job"
+        },
+        {
+          "url": "nationality",
+          "name": "Nationalities",
+          "icon": "menu-icon tf-icons fa-solid fa-earth-asia",
+          "slug": "nationality.index",
+          "permission": "read_nationality"
+        }
+      ]
+    },
+    {
+      "name": "Customers",
+      "icon": "menu-icon tf-icons ti ti-users",
+      "slug": [
+        "customer",
+        "loyalty"
+      ],
+      "permission": "read_customer_tab",
+      "submenu": [
+        {
+          "url": "customer",
+          "name": "Customers",
+          "icon": "menu-icon tf-icons ti ti-users",
+          "slug": "customer.index",
+          "permission": "read_customer"
+        },
+        {
+          "url": "loyalty",
+          "name": "Customers' Points",
+          "icon": "menu-icon tf-icons ti ti-users",
+          "slug": "loyalty.index",
+          "permission": "read_loyalty"
+        }
+      ]
+    },
+    {
+      "name": "Drivers",
+      "icon": "menu-icon tf-icons ti ti-users",
+      "slug": [
+        "driver",
+        "trip"
+      ],
+      "permission": "read_driver_tab",
+      "submenu": [
+        {
+          "url": "driver",
+          "name": "Drivers",
+          "icon": "menu-icon tf-icons ti ti-users",
+          "slug": "driver.index",
+          "permission": "read_driver"
+        },
+        {
+          "url": "trip",
+          "name": "Trips",
+          "icon": "menu-icon tf-icons ti ti-users",
+          "slug": "trip.index",
+          "permission": "read_trip"
+        }
+      ]
+    },
+    {
+      "name": "System",
+      "icon": "menu-icon tf-icons fa-brands fa-ubuntu",
+      "slug": "system",
+      "permission": "read_system_tab",
+      "submenu": [
+        {
+          "url": "translation/index",
+          "name": "Translations",
+          "icon": "menu-icon tf-icons ti ti-world",
+          "slug": "translation.index",
+          "permission": "read_translation"
+        },
+        {
+          "url": "model-record",
+          "name": "System Records",
+          "icon": "menu-icon tf-icons fa-solid fa-floppy-disk",
+          "slug": "model-record.index",
+          "permission": "read_model_record"
+        }
+      ]
+    },
+    {
+      "name": "Financial",
+      "icon": "menu-icon tf-icons fa-solid fa-coins",
+      "slug": [
+        "payment",
+        "cash-flow",
+        "cash-flow.index",
+        "transaction.index",
+        "account.index"
+      ],
+      "permission": "read_financial_tab",
+      "submenu": [
+        {
+          "url": "account",
+          "name": "Accounts",
+          "icon": "menu-icon tf-icons fa-solid fa-credit-card",
+          "slug": "account.index",
+          "permission": "read_payment"
+        },
+        {
+          "url": "transaction",
+          "name": "Transaction",
+          "icon": "menu-icon tf-icons fa-solid fa-credit-card",
+          "slug": "transaction.index",
+          "permission": "read_payment"
+        },
+        {
+          "url": "payment",
+          "name": "Payments",
+          "icon": "menu-icon tf-icons fa-solid fa-credit-card",
+          "slug": "payment.index",
+          "permission": "read_payment"
+        },
+        {
+          "url": "cash-flow",
+          "name": "Cash",
+          "icon": "menu-icon tf-icons fa-solid fa-credit-card",
+          "slug": "cash-flow.index",
+          "permission": "read_payment"
+        }
+      ]
+    },
+    {
+      "name": "HR",
+      "icon": "menu-icon tf-icons fa-solid fa-fingerprint",
+      "slug": [
+        "shift",
+        "attendance",
+        "salary",
+        "employee-shift",
+        "temp-attendance",
+        "generated-salary"
+      ],
+      "permission": "read_hr_tab",
+      "submenu": [
+        {
+          "url": "shift",
+          "name": "Shifts",
+          "icon": "menu-icon tf-icons fa-solid fa-calender-days",
+          "slug": "shift.index",
+          "permission": "read_shift"
+        },
+        {
+          "url": "employee-shift",
+          "name": "Employee Shifts",
+          "icon": "menu-icon tf-icons fa-solid fa-calender-days",
+          "slug": "employee-shift.index",
+          "permission": "read_shift"
+        },
+        {
+          "url": "attendance",
+          "name": "Attendance",
+          "icon": "menu-icon tf-icons fa-solid fa-calender-days",
+          "slug": "attendance.index",
+          "permission": "read_attendance"
+        },
+        {
+          "url": "temp-attendance",
+          "name": "Temp Attendance",
+          "icon": "menu-icon tf-icons fa-solid fa-calender-days",
+          "slug": "temp-attendance.index",
+          "permission": "read_attendance"
+        },
+        {
+          "url": "attendance?overtime=1",
+          "name": "Over Time",
+          "icon": "menu-icon tf-icons fa-solid fa-calender-days",
+          "slug": "attendance.index?overtime=1",
+          "permission": "read_attendance"
+        },
+        {
+          "url": "salary",
+          "name": "Salaries",
+          "icon": "menu-icon tf-icons fa-solid fa-calender-days",
+          "slug": "salary.index",
+          "permission": "read_salary"
+        },
+        {
+          "url": "generated-salary",
+          "name": "Generated Salaries",
+          "icon": "menu-icon tf-icons fa-solid fa-calender-days",
+          "slug": "generated-salary.index",
+          "permission": "read_generated_salary"
+        },
+        {
+          "url": "vacation",
+          "name": "Vacations",
+          "icon": "menu-icon tf-icons fa-solid fa-plane",
+          "slug": "vacation.index",
+          "permission": "read_vacation"
+        }
+      ]
+    },
+    {
+      "name": "Cafeteria",
+      "icon": "menu-icon tf-icons fa-solid fa-shop",
+      "slug": [
+        "cafeteria",
+        "bill",
+        "product",
+        "service"
+      ],
+      "permission": "read_cafeteria_tab",
+      "submenu": [
+        {
+          "url": "bill?department=2",
+          "name": "Bills",
+          "icon": "menu-icon tf-icons fa-regular fa-folder-open",
+          "slug": "bill.index.department=2",
+          "permission": "read_supplier"
+        },
+        {
+          "url": "bill-debt?department=2",
+          "name": "Debts",
+          "icon": "menu-icon tf-icons fa-regular fa-credit-card",
+          "slug": "bill.debt.department=2",
+          "permission": "read_supplier"
+        },
+        {
+          "url": "product?department=2",
+          "name": "Products",
+          "icon": "menu-icon tf-icons ti ti-package",
+          "slug": "product.index.department=2",
+          "permission": "read_product"
+        },
+        {
+          "url": "stock?department=2",
+          "name": "Stocks",
+          "icon": "menu-icon tf-icons fa fa-warehouse",
+          "slug": "stock.index.department=2",
+          "permission": "read_stock"
+        },
+        {
+          "url": "service?department=2",
+          "name": "services",
+          "icon": "menu-icon tf-icons ti ti-package",
+          "slug": "service.index.department=2",
+          "permission": "read_service"
+        },
+        {
+          "url": "cafeteria-order?department=2",
+          "name": "Orders",
+          "icon": "menu-icon tf-icons fa fa-warehouse",
+          "slug": "cafeteria-order.index.department=2",
+          "permission": "read_stock"
+        }
+      ]
+    },
+    {
+      "name": "Reports",
+      "icon": "menu-icon tf-icons fa-solid fa-folder-open",
+      "slug": [
+        "report"
+      ],
+      "permission": "read_report_tab",
+      "submenu": [
+        {
+          "url": "report/offer",
+          "name": "Offers",
+          "icon": "menu-icon tf-icons fa-regular fa-folder-open",
+          "slug": "offer.expense",
+          "permission": "read_order_report"
+        },
+        {
+          "url": "report/expense",
+          "name": "Expenses",
+          "icon": "menu-icon tf-icons fa-regular fa-folder-open",
+          "slug": "report.expense",
+          "permission": "read_expense_report"
+        },
+        {
+          "url": "report/employee",
+          "name": "Employees",
+          "icon": "menu-icon tf-icons fa-regular fa-folder-open",
+          "slug": "report.employee",
+          "permission": "read_employee_report"
+        },
+        {
+          "url": "report/supplier",
+          "name": "Suppliers",
+          "icon": "menu-icon tf-icons fa-regular fa-folder-open",
+          "slug": "report.supplier",
+          "permission": "read_supplier_report"
+        },
+        {
+          "url": "report/finance",
+          "name": "Finance",
+          "icon": "menu-icon tf-icons fa-regular fa-folder-open",
+          "slug": "report.finance",
+          "permission": "read_financial_report"
+        },
+        {
+          "url": "report/financial-center",
+          "name": "Financial Center",
+          "icon": "menu-icon tf-icons fa-regular fa-folder-open",
+          "slug": "report.finance.center",
+          "permission": "read_financial_report"
+        },
+        {
+          "url": "report/revenue",
+          "name": "Revenue",
+          "icon": "menu-icon tf-icons fa-regular fa-folder-open",
+          "slug": "report.revenue",
+          "permission": "read_financial_report"
+        },
+        {
+          "url": "report/trial",
+          "name": "Trial Balance",
+          "icon": "menu-icon tf-icons fa-regular fa-folder-open",
+          "slug": "report.trial",
+          "permission": "read_trial_report"
+        },
+        {
+          "url": "report/ledger",
+          "name": "Ledger",
+          "icon": "menu-icon tf-icons fa-regular fa-folder-open",
+          "slug": "report.ledger",
+          "permission": "read_trial_report"
+        },
+        {
+          "url": "report/order",
+          "name": "orders",
+          "icon": "menu-icon tf-icons fa-regular fa-folder-open",
+          "slug": "report.order",
+          "permission": "read_order_report"
+        },
+        {
+          "url": "report/service",
+          "name": "services",
+          "icon": "menu-icon tf-icons fa-regular fa-folder-open",
+          "slug": "report.service",
+          "permission": "read_service_report"
+        }
+      ]
+    }
+  ]
+}

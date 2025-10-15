@@ -1,0 +1,1457 @@
+[
+    {
+        "key": "Softlix",
+        "value": "سوفتليكس",
+        "language_key": "ar"
+    },
+    {
+        "key": "INVOICE",
+        "value": "فاتورة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Email",
+        "value": "بريد إلكتروني",
+        "language_key": "ar"
+    },
+    {
+        "key": "Order ID",
+        "value": "رقم التعريف الخاص بالطلب",
+        "language_key": "ar"
+    },
+    {
+        "key": "Phone",
+        "value": "هاتف",
+        "language_key": "ar"
+    },
+    {
+        "key": "Order Date",
+        "value": "تاريخ الطلب",
+        "language_key": "ar"
+    },
+    {
+        "key": "Payment method",
+        "value": "طريقة الدفع او السداد",
+        "language_key": "ar"
+    },
+    {
+        "key": "Bill to",
+        "value": "دفعة لـ",
+        "language_key": "ar"
+    },
+    {
+        "key": "City",
+        "value": "مدينة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Products",
+        "value": "منتجات",
+        "language_key": "ar"
+    },
+    {
+        "key": "Image",
+        "value": "صورة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Name",
+        "value": "اسم",
+        "language_key": "ar"
+    },
+    {
+        "key": "Barcode",
+        "value": "الباركود",
+        "language_key": "ar"
+    },
+    {
+        "key": "Quantity",
+        "value": "كمية",
+        "language_key": "ar"
+    },
+    {
+        "key": "Price",
+        "value": "سعر",
+        "language_key": "ar"
+    },
+    {
+        "key": "Total",
+        "value": "المجموع",
+        "language_key": "ar"
+    },
+    {
+        "key": "Services",
+        "value": "خدمات",
+        "language_key": "ar"
+    },
+    {
+        "key": "SKU",
+        "value": "SKU",
+        "language_key": "ar"
+    },
+    {
+        "key": "Sub Total",
+        "value": "المجموع الفرعي",
+        "language_key": "ar"
+    },
+    {
+        "key": "Total Tax",
+        "value": "مجموع الضريبة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Coupon Discount",
+        "value": "خصم القسيمة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Grand Total",
+        "value": "المجموع الإجمالي",
+        "language_key": "ar"
+    },
+    {
+        "key": "locale.select_value",
+        "value": "locale.select_value",
+        "language_key": "ar"
+    },
+    {
+        "key": " Export ",
+        "value": "تصدير",
+        "language_key": "ar"
+    },
+    {
+        "key": " Print ",
+        "value": "طباعة",
+        "language_key": "ar"
+    },
+    {
+        "key": "States",
+        "value": "المناطق",
+        "language_key": "ar"
+    },
+    {
+        "key": "New State",
+        "value": "منطقة جديدة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Cities count",
+        "value": "عدد المدن",
+        "language_key": "ar"
+    },
+    {
+        "key": "Status",
+        "value": "حالة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Actions",
+        "value": "أجراءات",
+        "language_key": "ar"
+    },
+    {
+        "key": "Update",
+        "value": "تعديل",
+        "language_key": "ar"
+    },
+    {
+        "key": "Info",
+        "value": "معلومات",
+        "language_key": "ar"
+    },
+    {
+        "key": "Create",
+        "value": "إضافة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Admins",
+        "value": "المشرفين",
+        "language_key": "ar"
+    },
+    {
+        "key": "New admin",
+        "value": "المشرف الجديد",
+        "language_key": "ar"
+    },
+    {
+        "key": "Role",
+        "value": "دور",
+        "language_key": "ar"
+    },
+    {
+        "key": "Select Role",
+        "value": "حدد الدور",
+        "language_key": "ar"
+    },
+    {
+        "key": "Password",
+        "value": "كلمة المرور",
+        "language_key": "ar"
+    },
+    {
+        "key": "Profile image",
+        "value": "صورة الملف الشخصي",
+        "language_key": "ar"
+    },
+    {
+        "key": "Yes",
+        "value": "نعم",
+        "language_key": "ar"
+    },
+    {
+        "key": "No",
+        "value": "لا",
+        "language_key": "ar"
+    },
+    {
+        "key": "Stock",
+        "value": "مخزون",
+        "language_key": "ar"
+    },
+    {
+        "key": "New product",
+        "value": "منتج جديد",
+        "language_key": "ar"
+    },
+    {
+        "key": "Min Quantity",
+        "value": "الحد الأدنى للكمية",
+        "language_key": "ar"
+    },
+    {
+        "key": "Category",
+        "value": "فئة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Brand",
+        "value": "ماركة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Consumption Type",
+        "value": "نوع الاستهلاك",
+        "language_key": "ar"
+    },
+    {
+        "key": "Refundable",
+        "value": "يمكن الاسترداد",
+        "language_key": "ar"
+    },
+    {
+        "key": "Select Category",
+        "value": "اختر الفئة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Select Brand",
+        "value": "حدد البراند",
+        "language_key": "ar"
+    },
+    {
+        "key": "Select Branch",
+        "value": "حدد الفرع",
+        "language_key": "ar"
+    },
+    {
+        "key": "min_quantity",
+        "value": "min_quantity",
+        "language_key": "ar"
+    },
+    {
+        "key": "Cities",
+        "value": "مدن",
+        "language_key": "ar"
+    },
+    {
+        "key": "New City",
+        "value": "مدينة جديدة",
+        "language_key": "ar"
+    },
+    {
+        "key": "State",
+        "value": "منطقة",
+        "language_key": "ar"
+    },
+    {
+        "key": "New service",
+        "value": "خدمة جديدة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Parent Service",
+        "value": "القسم",
+        "language_key": "ar"
+    },
+    {
+        "key": "Description",
+        "value": "وصف",
+        "language_key": "ar"
+    },
+    {
+        "key": "Select Service",
+        "value": "اختر الخدمة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Select Product",
+        "value": "حدد المنتج",
+        "language_key": "ar"
+    },
+    {
+        "key": "Required",
+        "value": "مطلوب",
+        "language_key": "ar"
+    },
+    {
+        "key": "Service",
+        "value": "خدمة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Related Products",
+        "value": "منتجات ذات صله",
+        "language_key": "ar"
+    },
+    {
+        "key": "Add product",
+        "value": "أضف منتج",
+        "language_key": "ar"
+    },
+    {
+        "key": "Jobs",
+        "value": "وظائف",
+        "language_key": "ar"
+    },
+    {
+        "key": "New job",
+        "value": "عمل جديد",
+        "language_key": "ar"
+    },
+    {
+        "key": "Title",
+        "value": "عنوان",
+        "language_key": "ar"
+    },
+    {
+        "key": "Section",
+        "value": "قسم",
+        "language_key": "ar"
+    },
+    {
+        "key": "Select City",
+        "value": "اختر مدينة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Customer",
+        "value": "عميل",
+        "language_key": "ar"
+    },
+    {
+        "key": "Join date:",
+        "value": "تاريخ الانضمام:",
+        "language_key": "ar"
+    },
+    {
+        "key": "Wallet",
+        "value": "محفظة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Transaction",
+        "value": "عملية",
+        "language_key": "ar"
+    },
+    {
+        "key": "Amount",
+        "value": "كمية",
+        "language_key": "ar"
+    },
+    {
+        "key": "Balance",
+        "value": "توازن",
+        "language_key": "ar"
+    },
+    {
+        "key": "Currency",
+        "value": "عملة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Date",
+        "value": "تاريخ",
+        "language_key": "ar"
+    },
+    {
+        "key": "Customer details",
+        "value": "تفاصيل العميل",
+        "language_key": "ar"
+    },
+    {
+        "key": "Customer ID",
+        "value": "هوية الزبون",
+        "language_key": "ar"
+    },
+    {
+        "key": "Orders",
+        "value": "طلبات",
+        "language_key": "ar"
+    },
+    {
+        "key": "Bookings",
+        "value": "الحجوزات",
+        "language_key": "ar"
+    },
+    {
+        "key": "Contact info",
+        "value": "معلومات الاتصال",
+        "language_key": "ar"
+    },
+    {
+        "key": "Mobile",
+        "value": "موبايل",
+        "language_key": "ar"
+    },
+    {
+        "key": "Shipping address",
+        "value": "عنوان الشحن",
+        "language_key": "ar"
+    },
+    {
+        "key": "Map",
+        "value": "خريطة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Address location",
+        "value": "موقع العنوان",
+        "language_key": "ar"
+    },
+    {
+        "key": "Select Section",
+        "value": "حدد القسم",
+        "language_key": "ar"
+    },
+    {
+        "key": "Percentage",
+        "value": "نسبة مئوية",
+        "language_key": "ar"
+    },
+    {
+        "key": "Fixed",
+        "value": "مُثَبَّت",
+        "language_key": "ar"
+    },
+    {
+        "key": "Coupons",
+        "value": "كوبونات",
+        "language_key": "ar"
+    },
+    {
+        "key": "New Coupon",
+        "value": "قسيمة جديدة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Code",
+        "value": "الرمز",
+        "language_key": "ar"
+    },
+    {
+        "key": "Type",
+        "value": "كتابة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Discount",
+        "value": "تخفيض",
+        "language_key": "ar"
+    },
+    {
+        "key": "Select Type",
+        "value": "اختر صنف",
+        "language_key": "ar"
+    },
+    {
+        "key": "Nationalities",
+        "value": "الجنسيات",
+        "language_key": "ar"
+    },
+    {
+        "key": "New nationality",
+        "value": "جنسية جديدة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Country",
+        "value": "دولة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Units",
+        "value": "الوحدات",
+        "language_key": "ar"
+    },
+    {
+        "key": "New Unit",
+        "value": "وحدة جديدة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Parent",
+        "value": "الأبوين",
+        "language_key": "ar"
+    },
+    {
+        "key": "Factor",
+        "value": "عامل",
+        "language_key": "ar"
+    },
+    {
+        "key": "Select Unit",
+        "value": "حدد الوحدة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Parent Unit",
+        "value": "وحدة الأساسية",
+        "language_key": "ar"
+    },
+    {
+        "key": "New booking placed",
+        "value": "تم الحجز الجديد",
+        "language_key": "ar"
+    },
+    {
+        "key": "Not assigned",
+        "value": "غيرمعتمد",
+        "language_key": "ar"
+    },
+    {
+        "key": "rates",
+        "value": "تقييمات",
+        "language_key": "ar"
+    },
+    {
+        "key": "New Booking",
+        "value": "حجز جديد",
+        "language_key": "ar"
+    },
+    {
+        "key": "Employee",
+        "value": "موظف",
+        "language_key": "ar"
+    },
+    {
+        "key": "Driver",
+        "value": "سائق",
+        "language_key": "ar"
+    },
+    {
+        "key": "Payment status",
+        "value": "حالة السداد",
+        "language_key": "ar"
+    },
+    {
+        "key": "Reservation Date",
+        "value": "تاريخ الحجز",
+        "language_key": "ar"
+    },
+    {
+        "key": "Created Date",
+        "value": "تاريخ الإنشاء",
+        "language_key": "ar"
+    },
+    {
+        "key": "Select Customer",
+        "value": "حدد العميل",
+        "language_key": "ar"
+    },
+    {
+        "key": "Select Employee",
+        "value": "حدد الموظف",
+        "language_key": "ar"
+    },
+    {
+        "key": "Select Driver",
+        "value": "حدد السائق",
+        "language_key": "ar"
+    },
+    {
+        "key": "Select Products",
+        "value": "حدد المنتجات",
+        "language_key": "ar"
+    },
+    {
+        "key": "Select Services",
+        "value": "حدد الخدمات",
+        "language_key": "ar"
+    },
+    {
+        "key": "Edit",
+        "value": "تعديل",
+        "language_key": "ar"
+    },
+    {
+        "key": "Address",
+        "value": "عنوان",
+        "language_key": "ar"
+    },
+    {
+        "key": "Location",
+        "value": "موقع",
+        "language_key": "ar"
+    },
+    {
+        "key": "Booking customer location",
+        "value": " موقع العميل",
+        "language_key": "ar"
+    },
+    {
+        "key": "Booking",
+        "value": "الحجز",
+        "language_key": "ar"
+    },
+    {
+        "key": "Booking details",
+        "value": "تفاصيل الحجز",
+        "language_key": "ar"
+    },
+    {
+        "key": "Delivery",
+        "value": "توصيل",
+        "language_key": "ar"
+    },
+    {
+        "key": "product",
+        "value": "منتج",
+        "language_key": "ar"
+    },
+    {
+        "key": "Subtotal",
+        "value": "المجموع الفرعي",
+        "language_key": "ar"
+    },
+    {
+        "key": "Booking Rates",
+        "value": "أسعار الحجز",
+        "language_key": "ar"
+    },
+    {
+        "key": "Rate",
+        "value": "تقييم",
+        "language_key": "ar"
+    },
+    {
+        "key": "Rate AVG",
+        "value": "متوسط التقييم",
+        "language_key": "ar"
+    },
+    {
+        "key": "Booking statuses",
+        "value": "حالات الحجز",
+        "language_key": "ar"
+    },
+    {
+        "key": "Pending",
+        "value": "قيد الانتظار",
+        "language_key": "ar"
+    },
+    {
+        "key": "DONE",
+        "value": "منتهي",
+        "language_key": "ar"
+    },
+    {
+        "key": "Accepted",
+        "value": "مقبول",
+        "language_key": "ar"
+    },
+    {
+        "key": "Confirmed",
+        "value": "مؤكد",
+        "language_key": "ar"
+    },
+    {
+        "key": "Started",
+        "value": "بدأت",
+        "language_key": "ar"
+    },
+    {
+        "key": "Completed",
+        "value": "مكتمل",
+        "language_key": "ar"
+    },
+    {
+        "key": "Customer address",
+        "value": "عنوان العميل",
+        "language_key": "ar"
+    },
+    {
+        "key": "Edit Booking",
+        "value": "تعديل الحجز",
+        "language_key": "ar"
+    },
+    {
+        "key": "Bookings Edit Requests",
+        "value": "طلبات تعديل الحجز",
+        "language_key": "ar"
+    },
+    {
+        "key": "Booking ID",
+        "value": "رقم الحجز",
+        "language_key": "ar"
+    },
+    {
+        "key": "Booking Date",
+        "value": "تاريخ الحجز",
+        "language_key": "ar"
+    },
+    {
+        "key": "Request Date",
+        "value": "تاريخ الطلب",
+        "language_key": "ar"
+    },
+    {
+        "key": "Edit Request",
+        "value": "تحرير الطلب",
+        "language_key": "ar"
+    },
+    {
+        "key": "Translations",
+        "value": "ترجمات",
+        "language_key": "ar"
+    },
+    {
+        "key": "Choose language",
+        "value": "اختر اللغة",
+        "language_key": "ar"
+    },
+    {
+        "key": "All",
+        "value": "الجميع",
+        "language_key": "ar"
+    },
+    {
+        "key": "Translation key",
+        "value": "مفتاح الترجمة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Search",
+        "value": "يبحث",
+        "language_key": "ar"
+    },
+    {
+        "key": "Auto Translate",
+        "value": "ترجمة تلقائية",
+        "language_key": "ar"
+    },
+    {
+        "key": "Action",
+        "value": "فعل",
+        "language_key": "ar"
+    },
+    {
+        "key": "ID",
+        "value": "الرقم المعرف",
+        "language_key": "ar"
+    },
+    {
+        "key": "Key",
+        "value": "مفتاح",
+        "language_key": "ar"
+    },
+    {
+        "key": "dashboard.Translations",
+        "value": "لوحة القيادة.ترجمات",
+        "language_key": "ar"
+    },
+    {
+        "key": "dashboard.Title",
+        "value": "لوحة القيادة.العنوان",
+        "language_key": "ar"
+    },
+    {
+        "key": "dashboard.Submit",
+        "value": "لوحة القيادة.إرسال",
+        "language_key": "ar"
+    },
+    {
+        "key": "Stocks",
+        "value": "مخازن",
+        "language_key": "ar"
+    },
+    {
+        "key": "New rate",
+        "value": "تقييم جديد",
+        "language_key": "ar"
+    },
+    {
+        "key": "Select Supplier",
+        "value": "حدد المورد",
+        "language_key": "ar"
+    },
+    {
+        "key": "Branch",
+        "value": "فرع",
+        "language_key": "ar"
+    },
+    {
+        "key": "Supplier",
+        "value": "المورد",
+        "language_key": "ar"
+    },
+    {
+        "key": "Purchase Unit",
+        "value": "وحدة الشراء",
+        "language_key": "ar"
+    },
+    {
+        "key": "Sell Unit",
+        "value": "بيع الوحدة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Purchase Price",
+        "value": "سعر الشراء",
+        "language_key": "ar"
+    },
+    {
+        "key": "Retail Price",
+        "value": "سعر التجزئة",
+        "language_key": "ar"
+    },
+    {
+        "key": "expiration_date",
+        "value": "تاريخ انتهاء الصلاحية",
+        "language_key": "ar"
+    },
+    {
+        "key": "Expiration date",
+        "value": "تاريخ انتهاء الصلاحية",
+        "language_key": "ar"
+    },
+    {
+        "key": "Management",
+        "value": "إدارة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Procurement",
+        "value": "شراء",
+        "language_key": "ar"
+    },
+    {
+        "key": "Sales",
+        "value": "مبيعات",
+        "language_key": "ar"
+    },
+    {
+        "key": "Staff",
+        "value": "طاقم عمل",
+        "language_key": "ar"
+    },
+    {
+        "key": "Warehouse",
+        "value": "مستودع",
+        "language_key": "ar"
+    },
+    {
+        "key": "Financial",
+        "value": "مالي",
+        "language_key": "ar"
+    },
+    {
+        "key": "Employees",
+        "value": "موظفين",
+        "language_key": "ar"
+    },
+    {
+        "key": "New Employee",
+        "value": "موظف جديد",
+        "language_key": "ar"
+    },
+    {
+        "key": "JOb",
+        "value": "وظيفة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Select Job",
+        "value": "حدد الوظيفة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Role users",
+        "value": "مستخدمو الدور",
+        "language_key": "ar"
+    },
+    {
+        "key": "New role",
+        "value": "دور جديد",
+        "language_key": "ar"
+    },
+    {
+        "key": "Add new role",
+        "value": "إضافة دور جديد",
+        "language_key": "ar"
+    },
+    {
+        "key": "Role name",
+        "value": "اسم الدور",
+        "language_key": "ar"
+    },
+    {
+        "key": "Role permissions",
+        "value": "أذونات الدور",
+        "language_key": "ar"
+    },
+    {
+        "key": "Admin",
+        "value": "مسؤل",
+        "language_key": "ar"
+    },
+    {
+        "key": "Allow full access",
+        "value": "السماح بالوصول الكامل",
+        "language_key": "ar"
+    },
+    {
+        "key": "Select all",
+        "value": "اختر الكل",
+        "language_key": "ar"
+    },
+    {
+        "key": "User",
+        "value": "مستخدم",
+        "language_key": "ar"
+    },
+    {
+        "key": "Model",
+        "value": "نموذج",
+        "language_key": "ar"
+    },
+    {
+        "key": "Model Name",
+        "value": "اسم النموذج",
+        "language_key": "ar"
+    },
+    {
+        "key": "Model Id",
+        "value": "معرف النموذج",
+        "language_key": "ar"
+    },
+    {
+        "key": "New stock",
+        "value": "الأسهم الجديدة",
+        "language_key": "ar"
+    },
+    {
+        "key": "From",
+        "value": "من",
+        "language_key": "ar"
+    },
+    {
+        "key": "To",
+        "value": "ل",
+        "language_key": "ar"
+    },
+    {
+        "key": "Bills",
+        "value": "فواتير",
+        "language_key": "ar"
+    },
+    {
+        "key": "Points",
+        "value": "نقاط",
+        "language_key": "ar"
+    },
+    {
+        "key": "Listed Orders",
+        "value": "الطلبات المجدولة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Customers",
+        "value": "عملاء",
+        "language_key": "ar"
+    },
+    {
+        "key": "New customer",
+        "value": "عميل جديد",
+        "language_key": "ar"
+    },
+    {
+        "key": "Status changed",
+        "value": "تغيرت الحالة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Order",
+        "value": "طلب",
+        "language_key": "ar"
+    },
+    {
+        "key": "Order Status",
+        "value": "حالة الطلب",
+        "language_key": "ar"
+    },
+    {
+        "key": "Services detail",
+        "value": "تفاصيل الخدمات",
+        "language_key": "ar"
+    },
+    {
+        "key": "Return",
+        "value": "يعود",
+        "language_key": "ar"
+    },
+    {
+        "key": "Session Count",
+        "value": "عدد الجلسات",
+        "language_key": "ar"
+    },
+    {
+        "key": "Left Sessions",
+        "value": "الجلسات اليمتبقية",
+        "language_key": "ar"
+    },
+    {
+        "key": "Due Date",
+        "value": "تاريخ الاستحقاق",
+        "language_key": "ar"
+    },
+    {
+        "key": "New order placed",
+        "value": "تم تقديم طلب جديد",
+        "language_key": "ar"
+    },
+    {
+        "key": "View Order",
+        "value": "مشاهدة الطلب",
+        "language_key": "ar"
+    },
+    {
+        "key": "Sessions",
+        "value": "الجلسات",
+        "language_key": "ar"
+    },
+    {
+        "key": "Order Service Return",
+        "value": "طلبات الإلغاء",
+        "language_key": "ar"
+    },
+    {
+        "key": "New Order",
+        "value": "طلب جديد",
+        "language_key": "ar"
+    },
+    {
+        "key": "Service Price",
+        "value": "سعر الخدمة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Postpone",
+        "value": "مؤجلة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Select Coupon",
+        "value": "حدد القسيمة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Session",
+        "value": "جلسة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Sessions Count",
+        "value": "عدد الجلسات",
+        "language_key": "ar"
+    },
+    {
+        "key": "Bill Preview",
+        "value": "معاينة الفاتورة",
+        "language_key": "ar"
+    },
+    {
+        "key": "SAR",
+        "value": "ريال سعودي",
+        "language_key": "ar"
+    },
+    {
+        "key": "Extra Fees",
+        "value": "رسوم إضافية",
+        "language_key": "ar"
+    },
+    {
+        "key": "Total Amount",
+        "value": "المبلغ الإجمالي",
+        "language_key": "ar"
+    },
+    {
+        "key": "Update Order",
+        "value": "تعديل الطلب",
+        "language_key": "ar"
+    },
+    {
+        "key": "Coupon",
+        "value": "قسيمة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Payment Type",
+        "value": "نوع الدفع",
+        "language_key": "ar"
+    },
+    {
+        "key": "Add service",
+        "value": "أضف الخدمة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Submit",
+        "value": "يُقدِّم",
+        "language_key": "ar"
+    },
+    {
+        "key": "Order Service Postpone",
+        "value": "الطلبات المؤجلة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Notification",
+        "value": "إشعار",
+        "language_key": "ar"
+    },
+    {
+        "key": "Whatsapp",
+        "value": "واتس اب",
+        "language_key": "ar"
+    },
+    {
+        "key": "Service detail",
+        "value": "تفاصيل الخدمة",
+        "language_key": "ar"
+    },
+    {
+        "key": "New Session",
+        "value": "جلسه جديده",
+        "language_key": "ar"
+    },
+    {
+        "key": "Store",
+        "value": "مخزن",
+        "language_key": "ar"
+    },
+    {
+        "key": "Order details",
+        "value": "تفاصيل الطلب",
+        "language_key": "ar"
+    },
+    {
+        "key": "Value",
+        "value": "قيمة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Order statuses",
+        "value": "حالات الطلب",
+        "language_key": "ar"
+    },
+    {
+        "key": "QR",
+        "value": "ريال قطري",
+        "language_key": "ar"
+    },
+    {
+        "key": "Paid",
+        "value": "مدفوع",
+        "language_key": "ar"
+    },
+    {
+        "key": "Remove",
+        "value": "حذف",
+        "language_key": "ar"
+    },
+    {
+        "key": "Create Order",
+        "value": "إنشاء طلب",
+        "language_key": "ar"
+    },
+    {
+        "key": "Payments",
+        "value": "المدفوعات",
+        "language_key": "ar"
+    },
+    {
+        "key": "Add payment",
+        "value": "إضافة دفعات",
+        "language_key": "ar"
+    },
+    {
+        "key": "Tasks",
+        "value": "مهام",
+        "language_key": "ar"
+    },
+    {
+        "key": "New Task",
+        "value": "مهمة جديدة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Body",
+        "value": "جسم",
+        "language_key": "ar"
+    },
+    {
+        "key": "Users",
+        "value": "المستخدمين",
+        "language_key": "ar"
+    },
+    {
+        "key": "Select Users",
+        "value": "حدد المستخدمين",
+        "language_key": "ar"
+    },
+    {
+        "key": "All Employees",
+        "value": "كل الموظفين",
+        "language_key": "ar"
+    },
+    {
+        "key": "Specific Employees",
+        "value": "موظفين محددين",
+        "language_key": "ar"
+    },
+    {
+        "key": "Branches",
+        "value": "الفروع",
+        "language_key": "ar"
+    },
+    {
+        "key": "New Branch",
+        "value": "فرع جديد",
+        "language_key": "ar"
+    },
+    {
+        "key": "Physical",
+        "value": "بشكل شخصي",
+        "language_key": "ar"
+    },
+    {
+        "key": "Dashboard",
+        "value": "لوحة التحكم",
+        "language_key": "ar"
+    },
+    {
+        "key": "Notifications",
+        "value": "إشعارات",
+        "language_key": "ar"
+    },
+    {
+        "key": "New Notification",
+        "value": "إشعار جديد",
+        "language_key": "ar"
+    },
+    {
+        "key": "Source",
+        "value": "مصدر",
+        "language_key": "ar"
+    },
+    {
+        "key": "Companies",
+        "value": "شركات",
+        "language_key": "ar"
+    },
+    {
+        "key": "Specific users",
+        "value": "مستخدمين محددين",
+        "language_key": "ar"
+    },
+    {
+        "key": "Visible",
+        "value": "مرئي",
+        "language_key": "ar"
+    },
+    {
+        "key": "Invisible",
+        "value": "غير مرئى",
+        "language_key": "ar"
+    },
+    {
+        "key": "Categories",
+        "value": "فئات",
+        "language_key": "ar"
+    },
+    {
+        "key": "New category",
+        "value": "فئة جديدة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Home",
+        "value": "بيت",
+        "language_key": "ar"
+    },
+    {
+        "key": "Product count",
+        "value": "عدد المنتجات",
+        "language_key": "ar"
+    },
+    {
+        "key": "Sliders",
+        "value": "الإعلانات",
+        "language_key": "ar"
+    },
+    {
+        "key": "Settings",
+        "value": "إعدادات",
+        "language_key": "ar"
+    },
+    {
+        "key": "New Setting",
+        "value": "إعداد جديد",
+        "language_key": "ar"
+    },
+    {
+        "key": "Instagram",
+        "value": "انستغرام",
+        "language_key": "ar"
+    },
+    {
+        "key": "Snap Chat",
+        "value": "سناب شات",
+        "language_key": "ar"
+    },
+    {
+        "key": "Tik Tok",
+        "value": "تيك توك",
+        "language_key": "ar"
+    },
+    {
+        "key": "Youtube",
+        "value": "موقع YouTube",
+        "language_key": "ar"
+    },
+    {
+        "key": "Tax",
+        "value": "ضريبة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Privacy policy",
+        "value": "سياسة الخصوصية",
+        "language_key": "ar"
+    },
+    {
+        "key": "Terms and conditions",
+        "value": "الأحكام والشروط",
+        "language_key": "ar"
+    },
+    {
+        "key": "About us",
+        "value": "معلومات عنا",
+        "language_key": "ar"
+    },
+    {
+        "key": "Qty",
+        "value": "الكمية",
+        "language_key": "ar"
+    },
+    {
+        "key": "Brands",
+        "value": "العلامات التجارية",
+        "language_key": "ar"
+    },
+    {
+        "key": "New brand",
+        "value": "البراند الجديدة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Slug",
+        "value": "الرابط",
+        "language_key": "ar"
+    },
+    {
+        "key": "Suppliers",
+        "value": "الموردين",
+        "language_key": "ar"
+    },
+    {
+        "key": "New Supplier",
+        "value": "مورد جديد",
+        "language_key": "ar"
+    },
+    {
+        "key": "Success",
+        "value": "تم بنجاح",
+        "language_key": "ar"
+    },
+    {
+        "key": "Online",
+        "value": "متصل",
+        "language_key": "ar"
+    },
+    {
+        "key": "Translation",
+        "value": "ترجمة",
+        "language_key": "ar"
+    },
+    {
+        "key": "The data updated successful",
+        "value": "تم تحديث البيانات بنجاح",
+        "language_key": "ar"
+    },
+    {
+        "key": "dashboard.Edit",
+        "value": "لوحة القيادة. تحرير",
+        "language_key": "ar"
+    },
+    {
+        "key": "message.The data updated successful",
+        "value": "الرسالة. تم تحديث البيانات بنجاح",
+        "language_key": "ar"
+    },
+    {
+        "key": "message.There is an error",
+        "value": "الرسالة.هناك خطأ",
+        "language_key": "ar"
+    },
+    {
+        "key": "Roles",
+        "value": "الأدوار",
+        "language_key": "ar"
+    },
+    {
+        "key": "New",
+        "value": "جديد",
+        "language_key": "ar"
+    },
+    {
+        "key": "Bills",
+        "value": "الفواتير",
+        "language_key": "ar"
+    },
+    {
+        "key": "Bill Details",
+        "value": "تفاصيل الفاتورة",
+        "language_key": "ar"
+    },
+    {
+        "key": "Debts",
+        "value": "الديون",
+        "language_key": "ar"
+    },
+    {
+        "key": "New Bill",
+        "value": "فاتورة شراء جديدة",
+        "language_key": "ar"
+    }
+]

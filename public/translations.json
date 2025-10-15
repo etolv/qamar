@@ -1,0 +1,1877 @@
+[
+    {
+        "key": "Select Role",
+        "value": "Select Role",
+        "language_code": "ar"
+    },
+    {
+        "key": "Create",
+        "value": "Create",
+        "language_code": "ar"
+    },
+    {
+        "key": "Info",
+        "value": "Info",
+        "language_code": "ar"
+    },
+    {
+        "key": "Name",
+        "value": "Name",
+        "language_code": "ar"
+    },
+    {
+        "key": "Email",
+        "value": "Email",
+        "language_code": "ar"
+    },
+    {
+        "key": "Phone",
+        "value": "Phone",
+        "language_code": "ar"
+    },
+    {
+        "key": "Password",
+        "value": "Password",
+        "language_code": "ar"
+    },
+    {
+        "key": "Profile image",
+        "value": "Profile image",
+        "language_code": "ar"
+    },
+    {
+        "key": "Role",
+        "value": "Role",
+        "language_code": "ar"
+    },
+    {
+        "key": "Update",
+        "value": "Update",
+        "language_code": "ar"
+    },
+    {
+        "key": "locale.select_value",
+        "value": "locale.select_value",
+        "language_code": "ar"
+    },
+    {
+        "key": " Export ",
+        "value": " Export ",
+        "language_code": "ar"
+    },
+    {
+        "key": " Print ",
+        "value": " Print ",
+        "language_code": "ar"
+    },
+    {
+        "key": "Admins",
+        "value": "Admins",
+        "language_code": "ar"
+    },
+    {
+        "key": "New admin",
+        "value": "New admin",
+        "language_code": "ar"
+    },
+    {
+        "key": "Image",
+        "value": "Image",
+        "language_code": "ar"
+    },
+    {
+        "key": "Status",
+        "value": "Status",
+        "language_code": "ar"
+    },
+    {
+        "key": "Actions",
+        "value": "Actions",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Product",
+        "value": "Select Product",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Branch",
+        "value": "Select Branch",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Supplier",
+        "value": "Select Supplier",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Products",
+        "value": "Select Products",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Unit",
+        "value": "Select Unit",
+        "language_code": "ar"
+    },
+    {
+        "key": "Products",
+        "value": "Products",
+        "language_code": "ar"
+    },
+    {
+        "key": "Purchase To Sell",
+        "value": "Purchase To Sell",
+        "language_code": "ar"
+    },
+    {
+        "key": "Convert",
+        "value": "Convert",
+        "language_code": "ar"
+    },
+    {
+        "key": "Price",
+        "value": "Price",
+        "language_code": "ar"
+    },
+    {
+        "key": "Quantity",
+        "value": "Quantity",
+        "language_code": "ar"
+    },
+    {
+        "key": "Expiration Date",
+        "value": "Expiration Date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Expiration date",
+        "value": "Expiration date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Profit Percentage",
+        "value": "Profit Percentage",
+        "language_code": "ar"
+    },
+    {
+        "key": "You can change this value from setting page",
+        "value": "You can change this value from setting page",
+        "language_code": "ar"
+    },
+    {
+        "key": "Supplier",
+        "value": "Supplier",
+        "language_code": "ar"
+    },
+    {
+        "key": "Barcode",
+        "value": "Barcode",
+        "language_code": "ar"
+    },
+    {
+        "key": "Purchase Price",
+        "value": "Purchase Price",
+        "language_code": "ar"
+    },
+    {
+        "key": "Purchase Quantity",
+        "value": "Purchase Quantity",
+        "language_code": "ar"
+    },
+    {
+        "key": "Total",
+        "value": "Total",
+        "language_code": "ar"
+    },
+    {
+        "key": "total",
+        "value": "total",
+        "language_code": "ar"
+    },
+    {
+        "key": "Paid",
+        "value": "Paid",
+        "language_code": "ar"
+    },
+    {
+        "key": "paid",
+        "value": "paid",
+        "language_code": "ar"
+    },
+    {
+        "key": "N\/A",
+        "value": "N\/A",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bills Debt",
+        "value": "Bills Debt",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Bill",
+        "value": "New Bill",
+        "language_code": "ar"
+    },
+    {
+        "key": "ID",
+        "value": "ID",
+        "language_code": "ar"
+    },
+    {
+        "key": "Type",
+        "value": "Type",
+        "language_code": "ar"
+    },
+    {
+        "key": "Date",
+        "value": "Date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Category",
+        "value": "Select Category",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Brand",
+        "value": "Select Brand",
+        "language_code": "ar"
+    },
+    {
+        "key": "SKU",
+        "value": "SKU",
+        "language_code": "ar"
+    },
+    {
+        "key": "sku",
+        "value": "sku",
+        "language_code": "ar"
+    },
+    {
+        "key": "Min Quantity",
+        "value": "Min Quantity",
+        "language_code": "ar"
+    },
+    {
+        "key": "min_quantity",
+        "value": "min_quantity",
+        "language_code": "ar"
+    },
+    {
+        "key": "Refundable",
+        "value": "Refundable",
+        "language_code": "ar"
+    },
+    {
+        "key": "Consumption type",
+        "value": "Consumption type",
+        "language_code": "ar"
+    },
+    {
+        "key": "Brand",
+        "value": "Brand",
+        "language_code": "ar"
+    },
+    {
+        "key": "Category",
+        "value": "Category",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bills",
+        "value": "Bills",
+        "language_code": "ar"
+    },
+    {
+        "key": "Download PDF",
+        "value": "Download PDF",
+        "language_code": "ar"
+    },
+    {
+        "key": "Print",
+        "value": "Print",
+        "language_code": "ar"
+    },
+    {
+        "key": "Rate",
+        "value": "Rate",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bill details",
+        "value": "Bill details",
+        "language_code": "ar"
+    },
+    {
+        "key": "product",
+        "value": "product",
+        "language_code": "ar"
+    },
+    {
+        "key": "Purchase Unit",
+        "value": "Purchase Unit",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sell Unit",
+        "value": "Sell Unit",
+        "language_code": "ar"
+    },
+    {
+        "key": "price",
+        "value": "price",
+        "language_code": "ar"
+    },
+    {
+        "key": "qty",
+        "value": "qty",
+        "language_code": "ar"
+    },
+    {
+        "key": "Initial Payment",
+        "value": "Initial Payment",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bill Payments",
+        "value": "Bill Payments",
+        "language_code": "ar"
+    },
+    {
+        "key": "Amount",
+        "value": "Amount",
+        "language_code": "ar"
+    },
+    {
+        "key": "Left dept",
+        "value": "Left dept",
+        "language_code": "ar"
+    },
+    {
+        "key": "Supplier details",
+        "value": "Supplier details",
+        "language_code": "ar"
+    },
+    {
+        "key": "Supplier ID",
+        "value": "Supplier ID",
+        "language_code": "ar"
+    },
+    {
+        "key": "Contact info",
+        "value": "Contact info",
+        "language_code": "ar"
+    },
+    {
+        "key": "Address",
+        "value": "Address",
+        "language_code": "ar"
+    },
+    {
+        "key": "QR",
+        "value": "QR",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Payment",
+        "value": "New Payment",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Coupon",
+        "value": "Select Coupon",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Customer",
+        "value": "Select Customer",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Employee",
+        "value": "Select Employee",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Driver",
+        "value": "Select Driver",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Services",
+        "value": "Select Services",
+        "language_code": "ar"
+    },
+    {
+        "key": "Employee",
+        "value": "Employee",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bill Preview",
+        "value": "Bill Preview",
+        "language_code": "ar"
+    },
+    {
+        "key": "SAR",
+        "value": "SAR",
+        "language_code": "ar"
+    },
+    {
+        "key": "Services",
+        "value": "Services",
+        "language_code": "ar"
+    },
+    {
+        "key": "Related Products",
+        "value": "Related Products",
+        "language_code": "ar"
+    },
+    {
+        "key": "Extra Fees",
+        "value": "Extra Fees",
+        "language_code": "ar"
+    },
+    {
+        "key": "Discount",
+        "value": "Discount",
+        "language_code": "ar"
+    },
+    {
+        "key": "Total Amount",
+        "value": "Total Amount",
+        "language_code": "ar"
+    },
+    {
+        "key": "Description",
+        "value": "Description",
+        "language_code": "ar"
+    },
+    {
+        "key": "Customer",
+        "value": "Customer",
+        "language_code": "ar"
+    },
+    {
+        "key": "Driver",
+        "value": "Driver",
+        "language_code": "ar"
+    },
+    {
+        "key": "Coupon",
+        "value": "Coupon",
+        "language_code": "ar"
+    },
+    {
+        "key": "Remove",
+        "value": "Remove",
+        "language_code": "ar"
+    },
+    {
+        "key": "address",
+        "value": "address",
+        "language_code": "ar"
+    },
+    {
+        "key": "Location",
+        "value": "Location",
+        "language_code": "ar"
+    },
+    {
+        "key": "Edit Request",
+        "value": "Edit Request",
+        "language_code": "ar"
+    },
+    {
+        "key": "New booking placed",
+        "value": "New booking placed",
+        "language_code": "ar"
+    },
+    {
+        "key": "Booking",
+        "value": "Booking",
+        "language_code": "ar"
+    },
+    {
+        "key": "Not assigned",
+        "value": "Not assigned",
+        "language_code": "ar"
+    },
+    {
+        "key": "Edit Booking",
+        "value": "Edit Booking",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bookings Edit Requests",
+        "value": "Bookings Edit Requests",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Booking",
+        "value": "New Booking",
+        "language_code": "ar"
+    },
+    {
+        "key": "Booking ID",
+        "value": "Booking ID",
+        "language_code": "ar"
+    },
+    {
+        "key": "Booking Date",
+        "value": "Booking Date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Request Date",
+        "value": "Request Date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Edit",
+        "value": "Edit",
+        "language_code": "ar"
+    },
+    {
+        "key": "rates",
+        "value": "rates",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bookings",
+        "value": "Bookings",
+        "language_code": "ar"
+    },
+    {
+        "key": "Payment status",
+        "value": "Payment status",
+        "language_code": "ar"
+    },
+    {
+        "key": "Reservation Date",
+        "value": "Reservation Date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Created Date",
+        "value": "Created Date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Booking customer location",
+        "value": "Booking customer location",
+        "language_code": "ar"
+    },
+    {
+        "key": "Booking details",
+        "value": "Booking details",
+        "language_code": "ar"
+    },
+    {
+        "key": "Delivery",
+        "value": "Delivery",
+        "language_code": "ar"
+    },
+    {
+        "key": "Service",
+        "value": "Service",
+        "language_code": "ar"
+    },
+    {
+        "key": "Not Assigned",
+        "value": "Not Assigned",
+        "language_code": "ar"
+    },
+    {
+        "key": "Subtotal",
+        "value": "Subtotal",
+        "language_code": "ar"
+    },
+    {
+        "key": "Grand Total",
+        "value": "Grand Total",
+        "language_code": "ar"
+    },
+    {
+        "key": "Booking Rates",
+        "value": "Booking Rates",
+        "language_code": "ar"
+    },
+    {
+        "key": "Rate AVG",
+        "value": "Rate AVG",
+        "language_code": "ar"
+    },
+    {
+        "key": "Booking statuses",
+        "value": "Booking statuses",
+        "language_code": "ar"
+    },
+    {
+        "key": "Pending",
+        "value": "Pending",
+        "language_code": "ar"
+    },
+    {
+        "key": "DONE",
+        "value": "DONE",
+        "language_code": "ar"
+    },
+    {
+        "key": "PENDING",
+        "value": "PENDING",
+        "language_code": "ar"
+    },
+    {
+        "key": "Accepted",
+        "value": "Accepted",
+        "language_code": "ar"
+    },
+    {
+        "key": "Confirmed",
+        "value": "Confirmed",
+        "language_code": "ar"
+    },
+    {
+        "key": "Started",
+        "value": "Started",
+        "language_code": "ar"
+    },
+    {
+        "key": "Completed",
+        "value": "Completed",
+        "language_code": "ar"
+    },
+    {
+        "key": "Customer details",
+        "value": "Customer details",
+        "language_code": "ar"
+    },
+    {
+        "key": "Customer ID",
+        "value": "Customer ID",
+        "language_code": "ar"
+    },
+    {
+        "key": "Orders",
+        "value": "Orders",
+        "language_code": "ar"
+    },
+    {
+        "key": "City",
+        "value": "City",
+        "language_code": "ar"
+    },
+    {
+        "key": "Mobile",
+        "value": "Mobile",
+        "language_code": "ar"
+    },
+    {
+        "key": "Customer address",
+        "value": "Customer address",
+        "language_code": "ar"
+    },
+    {
+        "key": "Map",
+        "value": "Map",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select City",
+        "value": "Select City",
+        "language_code": "ar"
+    },
+    {
+        "key": "name",
+        "value": "name",
+        "language_code": "ar"
+    },
+    {
+        "key": "Physical",
+        "value": "Physical",
+        "language_code": "ar"
+    },
+    {
+        "key": "Branches",
+        "value": "Branches",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Branch",
+        "value": "New Branch",
+        "language_code": "ar"
+    },
+    {
+        "key": "Join date:",
+        "value": "Join date:",
+        "language_code": "ar"
+    },
+    {
+        "key": "Wallet",
+        "value": "Wallet",
+        "language_code": "ar"
+    },
+    {
+        "key": "Transaction",
+        "value": "Transaction",
+        "language_code": "ar"
+    },
+    {
+        "key": "Balance",
+        "value": "Balance",
+        "language_code": "ar"
+    },
+    {
+        "key": "Currency",
+        "value": "Currency",
+        "language_code": "ar"
+    },
+    {
+        "key": "Shipping address",
+        "value": "Shipping address",
+        "language_code": "ar"
+    },
+    {
+        "key": "Address location",
+        "value": "Address location",
+        "language_code": "ar"
+    },
+    {
+        "key": "Slug",
+        "value": "Slug",
+        "language_code": "ar"
+    },
+    {
+        "key": "Brands",
+        "value": "Brands",
+        "language_code": "ar"
+    },
+    {
+        "key": "New brand",
+        "value": "New brand",
+        "language_code": "ar"
+    },
+    {
+        "key": "Product count",
+        "value": "Product count",
+        "language_code": "ar"
+    },
+    {
+        "key": "Store",
+        "value": "Store",
+        "language_code": "ar"
+    },
+    {
+        "key": "Parent",
+        "value": "Parent",
+        "language_code": "ar"
+    },
+    {
+        "key": "Visible",
+        "value": "Visible",
+        "language_code": "ar"
+    },
+    {
+        "key": "Invisible",
+        "value": "Invisible",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sons",
+        "value": "Sons",
+        "language_code": "ar"
+    },
+    {
+        "key": "Categories",
+        "value": "Categories",
+        "language_code": "ar"
+    },
+    {
+        "key": "New category",
+        "value": "New category",
+        "language_code": "ar"
+    },
+    {
+        "key": "Home",
+        "value": "Home",
+        "language_code": "ar"
+    },
+    {
+        "key": "State",
+        "value": "State",
+        "language_code": "ar"
+    },
+    {
+        "key": "Cities",
+        "value": "Cities",
+        "language_code": "ar"
+    },
+    {
+        "key": "New City",
+        "value": "New City",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Type",
+        "value": "Select Type",
+        "language_code": "ar"
+    },
+    {
+        "key": "Code",
+        "value": "Code",
+        "language_code": "ar"
+    },
+    {
+        "key": "code",
+        "value": "code",
+        "language_code": "ar"
+    },
+    {
+        "key": "Percentage",
+        "value": "Percentage",
+        "language_code": "ar"
+    },
+    {
+        "key": "Fixed",
+        "value": "Fixed",
+        "language_code": "ar"
+    },
+    {
+        "key": "discount",
+        "value": "discount",
+        "language_code": "ar"
+    },
+    {
+        "key": "From",
+        "value": "From",
+        "language_code": "ar"
+    },
+    {
+        "key": "From Date",
+        "value": "From Date",
+        "language_code": "ar"
+    },
+    {
+        "key": "To",
+        "value": "To",
+        "language_code": "ar"
+    },
+    {
+        "key": "To Date",
+        "value": "To Date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Coupons",
+        "value": "Coupons",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Coupon",
+        "value": "New Coupon",
+        "language_code": "ar"
+    },
+    {
+        "key": "Branch",
+        "value": "Branch",
+        "language_code": "ar"
+    },
+    {
+        "key": "Rates",
+        "value": "Rates",
+        "language_code": "ar"
+    },
+    {
+        "key": "Points",
+        "value": "Points",
+        "language_code": "ar"
+    },
+    {
+        "key": "Listed Orders",
+        "value": "Listed Orders",
+        "language_code": "ar"
+    },
+    {
+        "key": "Customers",
+        "value": "Customers",
+        "language_code": "ar"
+    },
+    {
+        "key": "New customer",
+        "value": "New customer",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Job",
+        "value": "Select Job",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Nationality",
+        "value": "Select Nationality",
+        "language_code": "ar"
+    },
+    {
+        "key": "Job",
+        "value": "Job",
+        "language_code": "ar"
+    },
+    {
+        "key": "Nationality",
+        "value": "Nationality",
+        "language_code": "ar"
+    },
+    {
+        "key": "Management",
+        "value": "Management",
+        "language_code": "ar"
+    },
+    {
+        "key": "Procurement",
+        "value": "Procurement",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sales",
+        "value": "Sales",
+        "language_code": "ar"
+    },
+    {
+        "key": "Staff",
+        "value": "Staff",
+        "language_code": "ar"
+    },
+    {
+        "key": "Warehouse",
+        "value": "Warehouse",
+        "language_code": "ar"
+    },
+    {
+        "key": "Financial",
+        "value": "Financial",
+        "language_code": "ar"
+    },
+    {
+        "key": "Employees",
+        "value": "Employees",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Employee",
+        "value": "New Employee",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Section",
+        "value": "Select Section",
+        "language_code": "ar"
+    },
+    {
+        "key": "Title",
+        "value": "Title",
+        "language_code": "ar"
+    },
+    {
+        "key": "Section",
+        "value": "Section",
+        "language_code": "ar"
+    },
+    {
+        "key": "title",
+        "value": "title",
+        "language_code": "ar"
+    },
+    {
+        "key": "Jobs",
+        "value": "Jobs",
+        "language_code": "ar"
+    },
+    {
+        "key": "New job",
+        "value": "New job",
+        "language_code": "ar"
+    },
+    {
+        "key": "Customers` Points",
+        "value": "Customers` Points",
+        "language_code": "ar"
+    },
+    {
+        "key": "New rate",
+        "value": "New rate",
+        "language_code": "ar"
+    },
+    {
+        "key": "Model",
+        "value": "Model",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sliders",
+        "value": "Sliders",
+        "language_code": "ar"
+    },
+    {
+        "key": "Loyalty Settings",
+        "value": "Loyalty Settings",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Setting",
+        "value": "New Setting",
+        "language_code": "ar"
+    },
+    {
+        "key": "Cash",
+        "value": "Cash",
+        "language_code": "ar"
+    },
+    {
+        "key": "points",
+        "value": "points",
+        "language_code": "ar"
+    },
+    {
+        "key": "Return",
+        "value": "Return",
+        "language_code": "ar"
+    },
+    {
+        "key": "return",
+        "value": "return",
+        "language_code": "ar"
+    },
+    {
+        "key": "Municipals",
+        "value": "Municipals",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Municipal",
+        "value": "New Municipal",
+        "language_code": "ar"
+    },
+    {
+        "key": "Country",
+        "value": "Country",
+        "language_code": "ar"
+    },
+    {
+        "key": "country",
+        "value": "country",
+        "language_code": "ar"
+    },
+    {
+        "key": "Nationalities",
+        "value": "Nationalities",
+        "language_code": "ar"
+    },
+    {
+        "key": "New nationality",
+        "value": "New nationality",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Users",
+        "value": "Select Users",
+        "language_code": "ar"
+    },
+    {
+        "key": "Body",
+        "value": "Body",
+        "language_code": "ar"
+    },
+    {
+        "key": "All",
+        "value": "All",
+        "language_code": "ar"
+    },
+    {
+        "key": "Companies",
+        "value": "Companies",
+        "language_code": "ar"
+    },
+    {
+        "key": "Specific users",
+        "value": "Specific users",
+        "language_code": "ar"
+    },
+    {
+        "key": "Users",
+        "value": "Users",
+        "language_code": "ar"
+    },
+    {
+        "key": "Dashboard",
+        "value": "Dashboard",
+        "language_code": "ar"
+    },
+    {
+        "key": "Notifications",
+        "value": "Notifications",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Notification",
+        "value": "New Notification",
+        "language_code": "ar"
+    },
+    {
+        "key": "Source",
+        "value": "Source",
+        "language_code": "ar"
+    },
+    {
+        "key": "Customer has",
+        "value": "Customer has",
+        "language_code": "ar"
+    },
+    {
+        "key": "point",
+        "value": "point",
+        "language_code": "ar"
+    },
+    {
+        "key": "Customer has been added",
+        "value": "Customer has been added",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Package",
+        "value": "Select Package",
+        "language_code": "ar"
+    },
+    {
+        "key": "package",
+        "value": "package",
+        "language_code": "ar"
+    },
+    {
+        "key": "Session",
+        "value": "Session",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sessions Count",
+        "value": "Sessions Count",
+        "language_code": "ar"
+    },
+    {
+        "key": "Due Date",
+        "value": "Due Date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Package",
+        "value": "Package",
+        "language_code": "ar"
+    },
+    {
+        "key": "Selection",
+        "value": "Selection",
+        "language_code": "ar"
+    },
+    {
+        "key": "Packages",
+        "value": "Packages",
+        "language_code": "ar"
+    },
+    {
+        "key": "Admin Gift",
+        "value": "Admin Gift",
+        "language_code": "ar"
+    },
+    {
+        "key": "Create Order",
+        "value": "Create Order",
+        "language_code": "ar"
+    },
+    {
+        "key": "Normal",
+        "value": "Normal",
+        "language_code": "ar"
+    },
+    {
+        "key": "Gift",
+        "value": "Gift",
+        "language_code": "ar"
+    },
+    {
+        "key": "Gifter",
+        "value": "Gifter",
+        "language_code": "ar"
+    },
+    {
+        "key": "Admin",
+        "value": "Admin",
+        "language_code": "ar"
+    },
+    {
+        "key": "Payments",
+        "value": "Payments",
+        "language_code": "ar"
+    },
+    {
+        "key": "Replace Points",
+        "value": "Replace Points",
+        "language_code": "ar"
+    },
+    {
+        "key": "Remaining",
+        "value": "Remaining",
+        "language_code": "ar"
+    },
+    {
+        "key": "Submit",
+        "value": "Submit",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Customer",
+        "value": "New Customer",
+        "language_code": "ar"
+    },
+    {
+        "key": "Update Order",
+        "value": "Update Order",
+        "language_code": "ar"
+    },
+    {
+        "key": "Payment Type",
+        "value": "Payment Type",
+        "language_code": "ar"
+    },
+    {
+        "key": "Add service",
+        "value": "Add service",
+        "language_code": "ar"
+    },
+    {
+        "key": "Add product",
+        "value": "Add product",
+        "language_code": "ar"
+    },
+    {
+        "key": "New order placed",
+        "value": "New order placed",
+        "language_code": "ar"
+    },
+    {
+        "key": "Complete",
+        "value": "Complete",
+        "language_code": "ar"
+    },
+    {
+        "key": "Postpone",
+        "value": "Postpone",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Order",
+        "value": "New Order",
+        "language_code": "ar"
+    },
+    {
+        "key": "Services Status",
+        "value": "Services Status",
+        "language_code": "ar"
+    },
+    {
+        "key": "Created",
+        "value": "Created",
+        "language_code": "ar"
+    },
+    {
+        "key": "Status changed",
+        "value": "Status changed",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order",
+        "value": "Order",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order Status",
+        "value": "Order Status",
+        "language_code": "ar"
+    },
+    {
+        "key": "Service detail",
+        "value": "Service detail",
+        "language_code": "ar"
+    },
+    {
+        "key": "Session Count",
+        "value": "Session Count",
+        "language_code": "ar"
+    },
+    {
+        "key": "Left Sessions",
+        "value": "Left Sessions",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sessions",
+        "value": "Sessions",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Session",
+        "value": "New Session",
+        "language_code": "ar"
+    },
+    {
+        "key": "View Order",
+        "value": "View Order",
+        "language_code": "ar"
+    },
+    {
+        "key": "Notification",
+        "value": "Notification",
+        "language_code": "ar"
+    },
+    {
+        "key": "Whatsapp",
+        "value": "Whatsapp",
+        "language_code": "ar"
+    },
+    {
+        "key": "Service Price",
+        "value": "Service Price",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order Date",
+        "value": "Order Date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order Service Postpone",
+        "value": "Order Service Postpone",
+        "language_code": "ar"
+    },
+    {
+        "key": "Services detail",
+        "value": "Services detail",
+        "language_code": "ar"
+    },
+    {
+        "key": "Show",
+        "value": "Show",
+        "language_code": "ar"
+    },
+    {
+        "key": "Rate detail",
+        "value": "Rate detail",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order Service Return",
+        "value": "Order Service Return",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order details",
+        "value": "Order details",
+        "language_code": "ar"
+    },
+    {
+        "key": "Value",
+        "value": "Value",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order Payments",
+        "value": "Order Payments",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order statuses",
+        "value": "Order statuses",
+        "language_code": "ar"
+    },
+    {
+        "key": "End Date",
+        "value": "End Date",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Package",
+        "value": "New Package",
+        "language_code": "ar"
+    },
+    {
+        "key": "End date",
+        "value": "End date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Product",
+        "value": "Product",
+        "language_code": "ar"
+    },
+    {
+        "key": "quantity",
+        "value": "quantity",
+        "language_code": "ar"
+    },
+    {
+        "key": "Purchase price",
+        "value": "Purchase price",
+        "language_code": "ar"
+    },
+    {
+        "key": "Retail Price",
+        "value": "Retail Price",
+        "language_code": "ar"
+    },
+    {
+        "key": "Retail price",
+        "value": "Retail price",
+        "language_code": "ar"
+    },
+    {
+        "key": "barcode",
+        "value": "barcode",
+        "language_code": "ar"
+    },
+    {
+        "key": "expiration_date",
+        "value": "expiration_date",
+        "language_code": "ar"
+    },
+    {
+        "key": "Yes",
+        "value": "Yes",
+        "language_code": "ar"
+    },
+    {
+        "key": "No",
+        "value": "No",
+        "language_code": "ar"
+    },
+    {
+        "key": "Stock",
+        "value": "Stock",
+        "language_code": "ar"
+    },
+    {
+        "key": "New product",
+        "value": "New product",
+        "language_code": "ar"
+    },
+    {
+        "key": "Consumption Type",
+        "value": "Consumption Type",
+        "language_code": "ar"
+    },
+    {
+        "key": "User",
+        "value": "User",
+        "language_code": "ar"
+    },
+    {
+        "key": "Model Name",
+        "value": "Model Name",
+        "language_code": "ar"
+    },
+    {
+        "key": "Model Id",
+        "value": "Model Id",
+        "language_code": "ar"
+    },
+    {
+        "key": "Action",
+        "value": "Action",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Role",
+        "value": "New Role",
+        "language_code": "ar"
+    },
+    {
+        "key": "Role name",
+        "value": "Role name",
+        "language_code": "ar"
+    },
+    {
+        "key": "Role permissions",
+        "value": "Role permissions",
+        "language_code": "ar"
+    },
+    {
+        "key": "Allow full access",
+        "value": "Allow full access",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select all",
+        "value": "Select all",
+        "language_code": "ar"
+    },
+    {
+        "key": "Role users",
+        "value": "Role users",
+        "language_code": "ar"
+    },
+    {
+        "key": "New role",
+        "value": "New role",
+        "language_code": "ar"
+    },
+    {
+        "key": "Add new role",
+        "value": "Add new role",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Sub Categories",
+        "value": "Select Sub Categories",
+        "language_code": "ar"
+    },
+    {
+        "key": "Required",
+        "value": "Required",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sub Categories",
+        "value": "Sub Categories",
+        "language_code": "ar"
+    },
+    {
+        "key": "Select Service",
+        "value": "Select Service",
+        "language_code": "ar"
+    },
+    {
+        "key": "New service",
+        "value": "New service",
+        "language_code": "ar"
+    },
+    {
+        "key": "Parent Service",
+        "value": "Parent Service",
+        "language_code": "ar"
+    },
+    {
+        "key": "Settings",
+        "value": "Settings",
+        "language_code": "ar"
+    },
+    {
+        "key": "Instagram",
+        "value": "Instagram",
+        "language_code": "ar"
+    },
+    {
+        "key": "Snap Chat",
+        "value": "Snap Chat",
+        "language_code": "ar"
+    },
+    {
+        "key": "Tik Tok",
+        "value": "Tik Tok",
+        "language_code": "ar"
+    },
+    {
+        "key": "Youtube",
+        "value": "Youtube",
+        "language_code": "ar"
+    },
+    {
+        "key": "Privacy policy",
+        "value": "Privacy policy",
+        "language_code": "ar"
+    },
+    {
+        "key": "Terms and conditions",
+        "value": "Terms and conditions",
+        "language_code": "ar"
+    },
+    {
+        "key": "About us",
+        "value": "About us",
+        "language_code": "ar"
+    },
+    {
+        "key": "States",
+        "value": "States",
+        "language_code": "ar"
+    },
+    {
+        "key": "New State",
+        "value": "New State",
+        "language_code": "ar"
+    },
+    {
+        "key": "Cities count",
+        "value": "Cities count",
+        "language_code": "ar"
+    },
+    {
+        "key": "Stocks",
+        "value": "Stocks",
+        "language_code": "ar"
+    },
+    {
+        "key": "New stock",
+        "value": "New stock",
+        "language_code": "ar"
+    },
+    {
+        "key": "Qty",
+        "value": "Qty",
+        "language_code": "ar"
+    },
+    {
+        "key": "Unit",
+        "value": "Unit",
+        "language_code": "ar"
+    },
+    {
+        "key": "Main Supplier",
+        "value": "Main Supplier",
+        "language_code": "ar"
+    },
+    {
+        "key": "Suppliers",
+        "value": "Suppliers",
+        "language_code": "ar"
+    },
+    {
+        "key": "Debts",
+        "value": "Debts",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Supplier",
+        "value": "New Supplier",
+        "language_code": "ar"
+    },
+    {
+        "key": "All Employees",
+        "value": "All Employees",
+        "language_code": "ar"
+    },
+    {
+        "key": "Specific Employees",
+        "value": "Specific Employees",
+        "language_code": "ar"
+    },
+    {
+        "key": "Tasks",
+        "value": "Tasks",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Task",
+        "value": "New Task",
+        "language_code": "ar"
+    },
+    {
+        "key": "dashboard.Translations",
+        "value": "dashboard.Translations",
+        "language_code": "ar"
+    },
+    {
+        "key": "dashboard.Title",
+        "value": "dashboard.Title",
+        "language_code": "ar"
+    },
+    {
+        "key": "dashboard.Submit",
+        "value": "dashboard.Submit",
+        "language_code": "ar"
+    },
+    {
+        "key": "Translations",
+        "value": "Translations",
+        "language_code": "ar"
+    },
+    {
+        "key": "Choose language",
+        "value": "Choose language",
+        "language_code": "ar"
+    },
+    {
+        "key": "Translation key",
+        "value": "Translation key",
+        "language_code": "ar"
+    },
+    {
+        "key": "Search",
+        "value": "Search",
+        "language_code": "ar"
+    },
+    {
+        "key": "Auto Translate",
+        "value": "Auto Translate",
+        "language_code": "ar"
+    },
+    {
+        "key": "Key",
+        "value": "Key",
+        "language_code": "ar"
+    },
+    {
+        "key": "Parent Unit",
+        "value": "Parent Unit",
+        "language_code": "ar"
+    },
+    {
+        "key": "Factor",
+        "value": "Factor",
+        "language_code": "ar"
+    },
+    {
+        "key": "factor",
+        "value": "factor",
+        "language_code": "ar"
+    },
+    {
+        "key": "Units",
+        "value": "Units",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Unit",
+        "value": "New Unit",
+        "language_code": "ar"
+    },
+    {
+        "key": "You are not authorized",
+        "value": "You are not authorized",
+        "language_code": "ar"
+    },
+    {
+        "key": "You do not have permission to view this page using the credentials that you have provided while login",
+        "value": "You do not have permission to view this page using the credentials that you have provided while login",
+        "language_code": "ar"
+    },
+    {
+        "key": "Please contact your site administrator",
+        "value": "Please contact your site administrator",
+        "language_code": "ar"
+    },
+    {
+        "key": "Page Not Found",
+        "value": "Page Not Found",
+        "language_code": "ar"
+    },
+    {
+        "key": "Oops",
+        "value": "Oops",
+        "language_code": "ar"
+    },
+    {
+        "key": "The requested URL was not found on this server",
+        "value": "The requested URL was not found on this server",
+        "language_code": "ar"
+    },
+    {
+        "key": "Back to home",
+        "value": "Back to home",
+        "language_code": "ar"
+    },
+    {
+        "key": "THIS PAGE IS UNDER MAINTENANCE",
+        "value": "THIS PAGE IS UNDER MAINTENANCE",
+        "language_code": "ar"
+    },
+    {
+        "key": "Softlix",
+        "value": "Softlix",
+        "language_code": "ar"
+    },
+    {
+        "key": "INVOICE",
+        "value": "INVOICE",
+        "language_code": "ar"
+    },
+    {
+        "key": "Order ID",
+        "value": "Order ID",
+        "language_code": "ar"
+    },
+    {
+        "key": "Payment method",
+        "value": "Payment method",
+        "language_code": "ar"
+    },
+    {
+        "key": "Bill to",
+        "value": "Bill to",
+        "language_code": "ar"
+    },
+    {
+        "key": "Sub Total",
+        "value": "Sub Total",
+        "language_code": "ar"
+    },
+    {
+        "key": "Total Tax",
+        "value": "Total Tax",
+        "language_code": "ar"
+    },
+    {
+        "key": "Coupon Discount",
+        "value": "Coupon Discount",
+        "language_code": "ar"
+    },
+    {
+        "key": "Success",
+        "value": "Success",
+        "language_code": "ar"
+    },
+    {
+        "key": "Online",
+        "value": "Online",
+        "language_code": "ar"
+    },
+    {
+        "key": "New Category",
+        "value": "New Category",
+        "language_code": "ar"
+    },
+    {
+        "key": "Roles",
+        "value": "Roles",
+        "language_code": "ar"
+    },
+    {
+        "key": "New",
+        "value": "New",
+        "language_code": "ar"
+    },
+    {
+        "key": "Translation",
+        "value": "Translation",
+        "language_code": "ar"
+    },
+    {
+        "key": "The data updated successful",
+        "value": "The data updated successful",
+        "language_code": "ar"
+    },
+    {
+        "key": "dashboard.Edit",
+        "value": "dashboard.Edit",
+        "language_code": "ar"
+    },
+    {
+        "key": "message.The data updated successful",
+        "value": "message.The data updated successful",
+        "language_code": "ar"
+    },
+    {
+        "key": "message.There is an error",
+        "value": "message.There is an error",
+        "language_code": "ar"
+    }
+]

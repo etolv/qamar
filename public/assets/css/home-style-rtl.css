@@ -1,0 +1,43 @@
+:root {
+  --blue1: #2d3671;
+  --blue2: #111845;
+  --white: #fff;
+  --orange1: #e8753d;
+  --orange2: #ffaa4f;
+  --gray1: #f5f5f5;
+  --dark2: #242424;
+  --radius1: 14px;
+  --transition1: all 0.3s cubic-bezier(0.21, 0.53, 0.37, 0.72);
+}
+html,
+body {
+  direction: rtl;
+  font-family: 'Tajawal', sans-serif;
+}
+#footer a.btn i,
+#footer button i,
+.swiper-button-next-upcoming,
+.swiper-button-prev-upcoming {
+  transform: scaleX(-1);
+}
+.swiper-slide-active .tesimonial-item img {
+  transform: translate(-70px, 0px) scale(1);
+}
+.footer-logo {
+  justify-content: start;
+}
+
+.list-inline a::before,
+a.nav-link::before {
+  transform-origin: left bottom;
+}
+
+.list-inline a:hover::before,
+a.nav-link:hover::before,
+a.nav-link.active::before {
+  transform-origin: right bottom;
+}
+
+.section .cta img {
+  transform: translate(-3px, -3px);
+}

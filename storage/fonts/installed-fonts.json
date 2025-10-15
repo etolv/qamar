@@ -1,0 +1,24 @@
+{
+    "public sans": {
+        "300_italic": "\/home\/qamar\/public_html\/storage\/fonts\/public_sans_300_italic_8a6fa7261d6dca236227c4f91e333151",
+        "italic": "\/home\/qamar\/public_html\/storage\/fonts\/public_sans_italic_b171d6e6f88795dd0e6f75405f5fa68c",
+        "500_italic": "\/home\/qamar\/public_html\/storage\/fonts\/public_sans_500_italic_62edcaab966f750304c04a14def652d1",
+        "600_italic": "\/home\/qamar\/public_html\/storage\/fonts\/public_sans_600_italic_acc45e5e803f67f45b504c8064bc9e08",
+        "bold_italic": "\/home\/qamar\/public_html\/storage\/fonts\/public_sans_bold_italic_2b50ac2ced778ddda01a5617c54b4121",
+        "300": "\/home\/qamar\/public_html\/storage\/fonts\/public_sans_300_e40291a1efaf35fadfb14addce7ab6fe",
+        "normal": "\/home\/qamar\/public_html\/storage\/fonts\/public_sans_normal_541b23c84069f88f13682c4de16653d2",
+        "500": "\/home\/qamar\/public_html\/storage\/fonts\/public_sans_500_409c652e5ddfb16fe604a2796364a682",
+        "600": "\/home\/qamar\/public_html\/storage\/fonts\/public_sans_600_f7b0486ca002dc2d2bb6210c153daef1",
+        "bold": "public_sans_bold_afade0e905cec59574bdb032b78d1a35"
+    },
+    "tabler-icons": {
+        "normal": "tabler_icons_normal_ec4221e473f552fd38c7f66cbcac5d89"
+    },
+    "font awesome 6 free": {
+        "normal": "\/home\/qamar\/public_html\/storage\/fonts\/font_awesome_6_free_normal_f6ba68e401d37ecfd7691bde9376c741",
+        "900": "font_awesome_6_free_900_4cc125c9a6ad3b6e23e36c80d8859c45"
+    },
+    "font awesome 6 brands": {
+        "normal": "font_awesome_6_brands_normal_749793282674715a34c84bc84b8407aa"
+    }
+}

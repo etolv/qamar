@@ -1,0 +1,1 @@
+import{l as o}from"./leaflet-routing-machine-oB4h5RoJ.js";import"./_commonjsHelpers-BosuxZz1.js";import"./_commonjs-dynamic-modules-TDtrdbi3.js";try{window.leafletRouting=o.Routing}catch(t){console.error("Failed to attach Leaflet Routing to window:",t)}
