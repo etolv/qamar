@@ -223,7 +223,10 @@
                     '>',
 
                 buttons: [
-                    
+                    {
+                        extend: 'colvis',
+                        text: "{{ _t('Column Visibility') }}"
+                    },
                     {
                         extend: 'collection',
                         className: 'btn btn-outline-secondary dropdown-toggle me-2',
@@ -231,7 +234,7 @@
                         buttons: [
                             { extend: 'print', text: "{{ _t('Print') }}", className: 'dropdown-item' },
                             { extend: 'excelHtml5', text: 'Excel', className: 'dropdown-item' },
-                            // add 'pdfHtml5' or 'csvHtml5' if needed
+                            
                         ],
                         init: function(api, node, config) {
                             $(node).removeClass('btn-secondary');
@@ -242,11 +245,6 @@
                                     .addClass('d-inline-flex mt-50');
                             }, 50);
                         }
-                    },
-                    {
-                        extend: 'colvis',
-                        text: "{{ _t('Column Visibility') }}",
-                        className: 'btn btn-outline-secondary me-2'
                     }
                 ]
             });

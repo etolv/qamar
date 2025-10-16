@@ -28,6 +28,23 @@
             z-index: 9999 !important;
             /* Adjust this value as needed */
         }
+
+        .dt-action-buttons,
+        .card-datatable,
+        .card {
+            overflow: visible !important;
+        }
+        .dt-button-collection {
+            position: absolute !important;
+            right: 70% !important;              
+            z-index: 99999 !important;
+            max-height: 320px;
+            box-shadow: 0 4px 18px rgba(0,0,0,0.25);
+            background: var(--bs-body-bg, #fff); 
+        }
+        .dt-button-collection .dropdown-item {
+            white-space: nowrap;
+        }
     </style>
 @endsection
 
@@ -199,52 +216,7 @@
                                 .addClass('d-inline-flex mt-50');
                         }, 50);
                     }
-                }, ],
-                dom: '<"d-flex justify-content-between align-items-center header-actions mx-2 row mt-75"' +
-                    '<"col-sm-12 col-lg-4 d-flex justify-content-center justify-content-lg-start" l>' +
-                    '<"col-sm-12 col-lg-8 ps-xl-75 ps-0"<"dt-action-buttons d-flex align-items-center justify-content-center justify-content-lg-end flex-lg-nowrap flex-wrap"<"me-1"f>B>>' +
-                    '>t' +
-                    '<"d-flex justify-content-between mx-2 row mb-1"' +
-                    '<"col-sm-12 col-md-6"i>' +
-                    '<"col-sm-12 col-md-6"p>' +
-                    '>',
-                buttons: [{
-                    extend: 'collection',
-                    className: 'btn btn-outline-secondary dropdown-toggle me-2',
-                    text: "{{ _t(' Export ') }}",
-                    buttons: [{
-                            extend: 'colvis',
-                            text: "{{ _t('Column Visibility') }}"
-                        }, 'copy', {
-                            extend: 'print',
-                            text: "{{ _t(' Print ') }}",
-                            className: 'dropdown-item',
-                        },
-                        // {
-                        //     extend: 'csv',
-                        //     text: 'Excel',
-                        //     className: 'dropdown-item',
-                        // },
-                        // {
-                        //     extend: 'pdf',
-                        //     text: 'PDF',
-                        //     className: 'dropdown-item',
-                        // },
-                        {
-                            extend: 'excelHtml5',
-                            text: 'Excel',
-                            className: 'dropdown-item',
-                        }
-                    ],
-                    init: function(api, node, config) {
-                        $(node).removeClass('btn-secondary');
-                        $(node).parent().removeClass('btn-group');
-                        setTimeout(function() {
-                            $(node).closest('.dt-buttons').removeClass('btn-group')
-                                .addClass('d-inline-flex mt-50');
-                        }, 50);
-                    }
-                }, ],
+                }, ]
             });
 
             // Add index column
