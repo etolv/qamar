@@ -1400,6 +1400,11 @@
         "language_code": "ar"
     },
     {
+        "key": "Services count",
+        "value": "عدد الخدمات",
+        "language_code": "ar"
+    },
+    {
         "key": "Sliders",
         "value": "الإعلانات",
         "language_code": "ar"

@@ -23,9 +23,9 @@ class ServiceController extends Controller
     /**
      * Display a listing of the resource.
      */
-    public function index()
+    public function index(Request $request)
     {
-        return view('dashboard.service.index');
+        return view('dashboard.service.index', ['category_id' => $request->category_id ?? null]);
     }
 
     public function create()
@@ -62,8 +62,10 @@ class ServiceController extends Controller
                 'parent' => function ($query) {
                     $query->withTrashed();
                 }
-            ])->when($request->department, function ($query) use ($request) {
+            ])->when($request->filled('department'), function ($query) use ($request) {
                 $query->where('department', $request->department);
+            })->when($request->filled('category_id'), function ($query) use ($request) {
+                $query->where('category_id', $request->category_id);
             })
         )->addColumn('image', function ($item) {
             return $item->getFirstMediaUrl('image');

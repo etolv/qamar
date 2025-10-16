@@ -37,7 +37,7 @@ class CategoryController extends Controller
     {
         $data = DataTables::eloquent(
             Category::withTrashed()->with([
-                'products' => function ($query) {
+                'services' => function ($query) {
                     $query->withTrashed();
                 },
                 'translations'
@@ -49,8 +49,8 @@ class CategoryController extends Controller
         )->addColumn('image', function ($item) {
             return $item->getFirstMediaUrl('image');
         })
-            ->addColumn('products_count', function ($item) {
-                return $item->products()->count();
+            ->addColumn('services_count', function ($item) {
+                return $item->services()->count();
             })->toJson();
         return $data;
     }
