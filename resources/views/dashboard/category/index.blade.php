@@ -146,10 +146,16 @@
                     //                     }
                     //                 },
                     {
-                        data: 'products_count',
-                        name: 'products_count',
+                        data: 'services_count',
+                        name: 'services_count',
                         searchable: false,
                         orderable: false,
+                            render: function(data, type, full, meta) {
+                                if (data && full.id) {
+                                    return `<a href="/service?category_id=${full.id}" class="text-primary fw-bold">${data}</a>`;
+                                }
+                                return data || 0;
+                            }
                     },
                     {
                         name: "status",
@@ -294,7 +300,7 @@
                         <th>{{ _t('Image') }}</th>
                         <th>{{ _t('Name') }}</th>
                         <!-- <th>{{ _t('Home') }}</th> -->
-                        <th>{{ _t('Product count') }}</th>
+                        <th>{{ _t('Services count') }}</th>
                         <th>{{ _t('Status') }}</th>
                         <th>{{ _t('Actions') }}</th>
                     </tr>

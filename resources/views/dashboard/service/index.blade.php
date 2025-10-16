@@ -52,7 +52,7 @@
                 processing: true,
                 serverSide: true,
                 ajax: {
-                    url: "{{ route('service.fetch') }}", // Adjust the URL based on your Laravel route
+                    url: "{{ route('service.fetch', !empty($category_id) ? ['category_id'=> $category_id] : []) }}", // Adjust the URL based on your Laravel route
                     type: 'GET',
                     headers: {
                         'X-CSRF-TOKEN': csrfToken

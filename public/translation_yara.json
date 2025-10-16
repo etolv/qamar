@@ -1305,6 +1305,11 @@
         "language_key": "ar"
     },
     {
+        "key": "Services count",
+        "value": "عدد الخدمات",
+        "language_key": "ar"
+    },
+    {
         "key": "Sliders",
         "value": "الإعلانات",
         "language_key": "ar"
