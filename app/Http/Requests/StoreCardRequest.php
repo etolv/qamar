@@ -24,6 +24,7 @@ class StoreCardRequest extends FormRequest
     {
         return [
             'name' => ['required', 'string', 'max:255'],
+            'cardholder_name' => ['required', 'string', 'max:255'],
             'number' => ['required', 'string', 'max:255'],
             'iban' => ['required', 'string', 'max:255'],
             'cvv' => ['required', 'string', 'max:255'],
