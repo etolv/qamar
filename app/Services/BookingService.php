@@ -154,7 +154,7 @@ class BookingService
 
     public function show($id)
     {
-        return Booking::with('products', 'services', 'rates', 'customer.user', 'addressModel','coupon')->find($id);
+        return Booking::with('products', 'services', 'rates', 'customer.user', 'addressModel')->find($id);
     }
 
     public function update($data, $id)
@@ -185,12 +185,6 @@ class BookingService
                 $total += $service->price;
             }
         }
-      if (!empty($booking->coupon_id) && $booking->coupon) {
-        $discount = $booking->coupon->is_percentage
-          ? ($total * $booking->coupon->discount / 100)
-          : $booking->coupon->discount;
-        $total -= $discount;
-      }
         if ($total) {
             $booking->update(['total' => $total]);
         }
