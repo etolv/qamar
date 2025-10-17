@@ -40,13 +40,17 @@ class UpdateBookingRequest extends FormRequest
             'lng' => ['nullable', 'numeric', 'between:-180,180'],
             'lat' => ['nullable', 'numeric', 'between:-90,90'],
             'status' => ['nullable', Rule::enum(StatusEnum::class)],
+            'coupon_id' => ['nullable', 'exists:coupons,id'],
+
         ];
     }
     public function afterValidation($id)
     {
         $data = $this->validated();
         $booking = Booking::find($id);
-        if (in_array($data['status'], [StatusEnum::CONFIRMED->value, StatusEnum::STARTED->value, StatusEnum::COMPLETED->value]) && $booking->payment_status != PaymentStatusEnum::PAID) {
+        $data['coupon_id'] = $this->input('coupon_id');
+
+      if (in_array($data['status'], [StatusEnum::CONFIRMED->value, StatusEnum::STARTED->value, StatusEnum::COMPLETED->value]) && $booking->payment_status != PaymentStatusEnum::PAID) {
             session()->flash('error', _t('Booking status can not be updated until payment is done'));
             throw ValidationException::withMessages(['error' => _t('Booking status can not be updated until payment is done')]);
         } else if (in_array($data['status'], [StatusEnum::CANCELED->value, StatusEnum::REJECTED->value])) {
