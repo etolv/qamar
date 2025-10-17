@@ -154,8 +154,8 @@
                         orderable: false,
                         searchable: false,
                         render: function(data, type, full, meta) {
-                            var total = full.total || "0.00";
-                            return `<span> ${total}</span>`;
+                            var grand_total = full.grand_total || "0.00";
+                            return `<span> ${grand_total}</span>`;
                         }
                     },
                     {
@@ -290,7 +290,7 @@
                         <th>{{ _t('Employee') }}</th>
                         <th>{{ _t('Status') }}</th>
                         <th>{{ _t('Payment status') }}</th>
-                        <th>{{ _t('Total') }}</th>
+                        <th>{{ _t('Grand Total') }}</th>
                         <th>{{ _t('Reservation Date') }}</th>
                         <th>{{ _t('Created Date') }}</th>
                         <th>{{ _t('Actions') }}</th>
