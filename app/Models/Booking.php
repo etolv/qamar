@@ -73,4 +73,9 @@ class Booking extends Model
     {
         return $this->morphMany(Payment::class, 'model');
     }
+  public function coupon()
+  {
+    return $this->belongsTo(Coupon::class, 'coupon_id');
+  }
+
 }
