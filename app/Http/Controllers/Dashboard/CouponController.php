@@ -80,15 +80,18 @@ class CouponController extends Controller
     /**
      * Show the form for editing the specified resource.
      */
-    public function edit($id)
-    {
-        //
-    }
+  public function edit($id)
+  {
+    $coupon = Coupon::with(['services', 'products'])->findOrFail($id);
+
+    return view('dashboard.coupon.edit', compact('coupon'));
+  }
+
 
     /**
      * Update the specified resource in storage.
      */
-    public function update(StoreCouponRequest $request, $id)
+    public function update(UpdateCouponRequest $request, $id)
     {
         $data = $request->afterValidation();
         $coupon = $this->couponService->update($data, $id);

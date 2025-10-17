@@ -148,24 +148,24 @@
                         orderable: false,
                         searchable: false
                     },
-                    // {
-                    //   data: null,
-                    //   orderable: false,
-                    //   searchable: false,
-                    //   render: function(data, type, full, meta) {
-                    //     return (
-                    //       '<div class="d-flex align-items-center">' +
-                    //       '<a href="' + route('coupon.edit', data.id) + '" class="text-body"><i class="ti ti-edit ti-sm me-2"></i></a>' +
-                    //       // '<a href="javascript:;" class="text-body delete-record"><i class="ti ti-trash ti-sm mx-2"></i></a>' +
-                    //       // '<a href="javascript:;" class="text-body dropdown-toggle hide-arrow" data-bs-toggle="dropdown"><i class="ti ti-dots-vertical ti-sm mx-1"></i></a>' +
-                    //       // '<div class="dropdown-menu dropdown-menu-end m-0">' +
-                    //       // '<a href="javascript:;" class="dropdown-item">View</a>' +
-                    //       // '<a href="javascript:;" class="dropdown-item">Suspend</a>' +
-                    //       // '</div>' +
-                    //       '</div>'
-                    //     );
-                    //   }
-                    // }
+                    {
+                      data: null,
+                      orderable: false,
+                      searchable: false,
+                      render: function(data, type, full, meta) {
+                        return (
+                          '<div class="d-flex align-items-center">' +
+                          '<a href="' + route('coupon.edit', data.id) + '" class="text-body"><i class="ti ti-edit ti-sm me-2"></i></a>' +
+                           '<a href="javascript:;" class="text-body delete-record"><i class="ti ti-trash ti-sm mx-2"></i></a>' +
+                           '<a href="javascript:;" class="text-body dropdown-toggle hide-arrow" data-bs-toggle="dropdown"><i class="ti ti-dots-vertical ti-sm mx-1"></i></a>' +
+                           '<div class="dropdown-menu dropdown-menu-end m-0">' +
+                           '<a href="javascript:;" class="dropdown-item">View</a>' +
+                           '<a href="javascript:;" class="dropdown-item">Suspend</a>' +
+                           '</div>' +
+                          '</div>'
+                        );
+                      }
+                    }
                 ],
                 dom: '<"d-flex justify-content-between align-items-center header-actions mx-2 row mt-75"' +
                     '<"col-sm-12 col-lg-4 d-flex justify-content-center justify-content-lg-start" l>' +
@@ -264,7 +264,7 @@
                             <th>{{ _t('Services') }}</th>
                             <th>{{ _t('Products') }}</th>
                             <th>{{ _t('Status') }}</th>
-                            <!-- <th>{{ _t('Actions') }}</th> -->
+                             <th>{{ _t('Actions') }}</th>
                         </tr>
                     </thead>
                 </table>
