@@ -453,17 +453,19 @@
                 }
                 previewHtml += '</tbody></table>';
 
-                // Render total amount, discount, and final total
-                previewHtml +=
-                    `<h6 class="mt-3">{{ _t('Total') }}: {{ _t('SAR') }} ${(totalAmount).toFixed(2)}</h6>`;
-                // previewHtml += `<h6 class="mt-3">{{ _t('Extra Fees') }}: {{ _t('SAR') }} 0.00 </h6>`;
-                previewHtml +=
-                    `<h6 class="mt-3">{{ _t('Discount') }}: {{ _t('SAR') }} ${(discount).toFixed(2)}</h6>`;
-                previewHtml +=
-                    `<h6 class="mt-3" id="total-amount">{{ _t('Total Amount') }}: {{ _t('SAR') }} ${(totalAmount - discount).toFixed(2)}</h6>`;
-                previewHtml +=
-                    `<input type="hidden" name="total" id="total-amount-input" value="${(totalAmount - discount).toFixed(2)}" />`;
-                previewHtml += '</div></div>';
+              previewHtml += `<h6 class="mt-3">{{ _t('Subtotal (Before Discount)') }}: {{ _t('SAR') }} ${totalAmount.toFixed(2)}</h6>`;
+
+              previewHtml += `<h6 class="mt-1">{{ _t('Discount') }}: -{{ _t('SAR') }} ${discount.toFixed(2)}</h6>`;
+
+              const totalAfterDiscount = totalAmount - discount;
+              previewHtml += `<h6 class="mt-1">{{ _t('Total After Discount') }}: {{ _t('SAR') }} ${totalAfterDiscount.toFixed(2)}</h6>`;
+
+              previewHtml += `<input type="hidden" name="total" value="${totalAmount.toFixed(2)}" />`;
+
+              previewHtml += `<input type="hidden" name="discount" value="${discount.toFixed(2)}" />`;
+
+              previewHtml += `<input type="hidden" name="grand_total" value="${totalAfterDiscount.toFixed(2)}" />`;
+
 
                 // Update HTML content
                 $('#bill-preview').html(previewHtml);

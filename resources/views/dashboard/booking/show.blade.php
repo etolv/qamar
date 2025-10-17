@@ -294,7 +294,7 @@
                                 </div>
                                 <div class="d-flex justify-content-between">
                                     <h6 class="w-px-100 mb-0">{{ _t('Grand Total') }}:</h6>
-                                    <h6 class="mb-0">{{ _t('SAR') }} {{ $booking->total }}</h6>
+                                    <h6 class="mb-0">{{ _t('SAR') }} {{ $booking->grand_total}}</h6>
                                 </div>
                             </div>
                         </div>

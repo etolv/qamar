@@ -88,6 +88,7 @@ class BookingService
         $tax_percentage = $this->settingService->fromKey('tax')?->value ?? 15;
         $total = 0;
         $tax = 0;
+
         if (isset($data['stocks'])) {
             foreach ($data['stocks'] as $stock) {
                 $product_stock = $this->stockService->show($stock['id']); //TODO check product stock in validation
@@ -96,26 +97,24 @@ class BookingService
                     'quantity' => $stock['quantity'],
                     'price' => $product_stock->price
                 ]);
-                $total += ($product_stock->price * $stock['quantity']);  //TODO remove product qty from stocks
-                $tax += ($product_stock->price * $stock['quantity']) * ($tax_percentage / 100);
+                $total += ($product_stock->price * $stock['quantity']);
             }
         }
+
         foreach ($data['services'] as $service) {
             $service_model = $this->serviceService->show($service['id']);
             $session_price = $service['session_price'] ?? 0.00;
             $booking_service = $booking->bookingServices()->create([
-                'service_id' => $service['id'],
-                'quantity' => $service['quantity'],
-                'employee_id' => $service['employee'] ?? null,
-                'price' => $service_model->price,
+              'service_id' => $service['id'],
+              'quantity' => $service['quantity'],
+              'employee_id' => $service['employee'] ?? null,
+              'price' => $service_model->price,
             ]);
             $total += (($service_model->price * $service['quantity']) + $session_price);
-            $tax += ($service_model->price * $service['quantity']) * ($tax_percentage / 100);
             foreach ($service_model->productServices as $productService) {
-                //TODO check product stock in validation
                 $stock = $this->stockService->product_stock(product_id: $productService->product_id);
                 if ($stock) {
-                    $booking_stock = $booking->bookingProducts()->create([
+                    $booking->bookingProducts()->create([
                         'stock_id' => $stock->id,
                         'quantity' => $service['quantity'],
                         'price' => 0, // service product price is 0
@@ -125,23 +124,24 @@ class BookingService
                 }
             }
         }
+
         $discount = 0;
         if (isset($data['coupon_id'])) {
-            $coupon = $this->couponService->show($data['coupon_id']);
-            if ($coupon->is_percentage) {
-                $discount = $total * $coupon->discount / 100;
-            } else {
-                $discount = $coupon->discount;
-            }
+             $coupon = $this->couponService->show($data['coupon_id']);
+          $discount = $coupon->is_percentage
+            ? $total * $coupon->discount / 100
+            : $coupon->discount;
         }
-        $grand_total = $total - $discount;  // tax included
-        $total -= $tax;
-        // $grand_total = $total - $discount + $tax;
+
+        $subtotal_after_discount = $total - $discount;
+        $tax = $subtotal_after_discount * ($tax_percentage / 100);
+        $grand_total = $subtotal_after_discount + $tax;
+
         $booking->update([
-            'total' => $total,
-            'grand_total' => $grand_total,
-            'discount' => $discount,
-            'tax' => $tax
+          'total' => $total,
+          'grand_total' => $grand_total,
+          'discount' => $discount,
+          'tax' => $tax
         ]);
         // $booking->payments()->create([
         //     'amount' => $grand_total,
@@ -164,37 +164,74 @@ class BookingService
         $booking->update(Arr::except($data, ['stocks', 'services']));
         $total = 0;
         $booking->bookingProducts()->delete();
+        $booking->bookingServices()->delete();
+
+        $tax_percentage = $this->settingService->fromKey('tax')?->value ?? 15;
+
         if (isset($data['stocks'])) {
-            foreach ($data['stocks'] as $stock_id) {
-                $product_stock = $this->stockService->show($stock_id); //TODO check product stock in validation
-                $booking->bookingProducts()->create([
-                    'stock_id' => $stock_id,
-                    'price' => $product_stock->price
-                ]);
-                $total += $product_stock->price; //TODO remove product qty from stocks
+            foreach ($data['stocks'] as $stock) {
+              $stockId = is_array($stock) ? $stock['id'] : $stock;
+              $quantity = is_array($stock) ? ($stock['quantity'] ?? 1) : 1;
+              $product_stock = $this->stockService->show($stockId);
+              $booking->bookingProducts()->create([
+                'stock_id' => $stockId,
+                'quantity' => $quantity,
+                'price' => $product_stock->price
+              ]);
+              $total += ($product_stock->price * $quantity);
             }
         }
+
         if (isset($data['services'])) {
-            $booking->bookingServices()->delete();
-            foreach ($data['services'] as $service_id) {
-                $service = $this->serviceService->show($service_id);
-                $booking->bookingServices()->create([
-                    'service_id' => $service_id,
-                    'price' => $service->price
+          foreach ($data['services'] as $service) {
+            $serviceId = is_array($service) ? $service['id'] : $service;
+            $quantity = is_array($service) ? ($service['quantity'] ?? 1) : 1;
+            $employeeId = is_array($service) ? ($service['employee'] ?? null) : null;
+            $service_model = $this->serviceService->show($serviceId);
+            $booking_service = $booking->bookingServices()->create([
+              'service_id' => $serviceId,
+              'quantity' => $quantity,
+              'employee_id' => $employeeId,
+              'price' => $service_model->price
+            ]);
+            $total += ($service_model->price * $quantity);
+            foreach ($service_model->productServices as $productService) {
+              $stock = $this->stockService->product_stock(product_id: $productService->product_id);
+              if ($stock) {
+                $booking->bookingProducts()->create([
+                  'stock_id' => $stock->id,
+                  'quantity' => $quantity,
+                  'price' => 0,
+                  'booking_service_id' => $booking_service->id,
+                  'type' => $productService->required
+                    ? ItemTypeEnum::SERVICE->value
+                    : ItemTypeEnum::NORMAL->value,
                 ]);
-                $total += $service->price;
-            }
-        }
-      if (!empty($booking->coupon_id) && $booking->coupon) {
-        $discount = $booking->coupon->is_percentage
-          ? ($total * $booking->coupon->discount / 100)
-          : $booking->coupon->discount;
-        $total -= $discount;
+              }
+          }
       }
-        if ($total) {
-            $booking->update(['total' => $total]);
-        }
-        DB::commit();
-        return $booking;
     }
+
+    $discount = 0;
+    if (!empty($booking->coupon_id) && $booking->coupon) {
+      $discount = $booking->coupon->is_percentage
+        ? ($total * $booking->coupon->discount / 100)
+        : $booking->coupon->discount;
+    }
+
+    $subtotal_after_discount = $total - $discount;
+    $tax = $subtotal_after_discount * ($tax_percentage / 100);
+    $grand_total = $subtotal_after_discount + $tax;
+
+    $booking->update([
+      'total' => $total,
+      'discount' => $discount,
+      'tax' => $tax,
+      'grand_total' => $grand_total
+    ]);
+
+    DB::commit();
+    return $booking;
+  }
+
 }
