@@ -453,23 +453,17 @@
                 }
                 previewHtml += '</tbody></table>';
 
-              // 🧾 الحساب الصحيح قبل الخصم
               previewHtml += `<h6 class="mt-3">{{ _t('Subtotal (Before Discount)') }}: {{ _t('SAR') }} ${totalAmount.toFixed(2)}</h6>`;
 
-// 🏷️ حساب الخصم
               previewHtml += `<h6 class="mt-1">{{ _t('Discount') }}: -{{ _t('SAR') }} ${discount.toFixed(2)}</h6>`;
 
-// ✅ المجموع بعد الخصم (قبل الضريبة)
               const totalAfterDiscount = totalAmount - discount;
               previewHtml += `<h6 class="mt-1">{{ _t('Total After Discount') }}: {{ _t('SAR') }} ${totalAfterDiscount.toFixed(2)}</h6>`;
 
-// 🧮 خزن القيمة الأصلية قبل الخصم في total
               previewHtml += `<input type="hidden" name="total" value="${totalAmount.toFixed(2)}" />`;
 
-// خزن الخصم المنفصل
               previewHtml += `<input type="hidden" name="discount" value="${discount.toFixed(2)}" />`;
 
-// خزن الإجمالي بعد الخصم
               previewHtml += `<input type="hidden" name="grand_total" value="${totalAfterDiscount.toFixed(2)}" />`;
 
 
